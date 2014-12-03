@@ -7,33 +7,39 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
-/**
- * Created by piercarloserena on 03/12/14.
- */
 public class JSONReader {
 
     JSONParser parser;
+    JSONObject obj;
+    JSONArray entries;
+    JSONObject intervention;
 
-    public void read() {
+    String type;
+    String party;
+    String speaker;
+    String text;
+
+    public JSONReader(){
         parser = new JSONParser();
+    }
 
+    public void read(String path) {
         try {
+            obj = (JSONObject) parser.parse(new FileReader(path));
 
-            JSONObject obj = (JSONObject) parser.parse(new FileReader("resources/dataset/dar_12_01_001.json"));
+            entries = (JSONArray) obj.get("entries");
 
-            JSONArray a = (JSONArray) obj.get("entries");
+            for (Object o : entries) {
+                intervention = (JSONObject) o;
 
-            for (Object o : a) {
-                JSONObject intervent = (JSONObject) o;
+                type = (String) intervention.get("type");
+                party = (String) intervention.get("party");
+                speaker = (String) intervention.get("speaker");
+                text = (String) intervention.get("text");
 
-                String type = (String) intervent.get("type");
-                String party = (String) intervent.get("party");
-                String speaker = (String) intervent.get("speaker");
-                String text = (String) intervent.get("text");
+                printOnConsole();
 
-                System.out.println("Type: " + type + ", by: " + speaker + ", of: " + party + "\n");
-                System.out.println(text);
-                System.out.println("\n\n");
+                //call the criterion verifier
             }
         } catch (FileNotFoundException e) {
             e.printStackTrace();
@@ -42,6 +48,12 @@ public class JSONReader {
         } catch (ParseException e) {
             e.printStackTrace();
         }
+    }
+
+    private void printOnConsole(){
+        System.out.println("Type: " + type + ", by: " + speaker + ", of: " + party + "\n");
+        System.out.println(text);
+        System.out.println("\n\n");
     }
 
 }
