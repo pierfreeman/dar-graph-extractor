@@ -1,3 +1,4 @@
+import java.io.IOException;
 import java.util.ArrayList;
 
 public class Main {
@@ -37,13 +38,21 @@ public class Main {
         }
     }
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
         JSONReader reader = new JSONReader();
         ArrayList<String> arrayPath = new ArrayList<String>(145);
+        GMLWriter writer = new GMLWriter();
+        SpeechGraph sg = new SpeechGraph();
 
         addPaths(arrayPath);
 
         for (String p : arrayPath)
             reader.read("resources/dataset/" + p);
+
+        try {
+            writer.writeGraph(sg.getGraph());
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 }

@@ -21,6 +21,7 @@ public class JSONReader {
 
     public JSONReader(){
         parser = new JSONParser();
+
     }
 
     public void read(String path) {
@@ -37,9 +38,7 @@ public class JSONReader {
                 speaker = (String) intervention.get("speaker");
                 text = (String) intervention.get("text");
 
-                printOnConsole();
-
-                //call the criterion verifier
+                //adding criterion
             }
         } catch (FileNotFoundException e) {
             e.printStackTrace();
