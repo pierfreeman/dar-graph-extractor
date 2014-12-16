@@ -47,7 +47,7 @@ public class Main {
         addPaths(arrayPath);
 
         for (String p : arrayPath)
-            reader.read("resources/dataset/" + p);
+            reader.read("resources/dataset/" + p, sg);
 
         try {
             writer.writeGraph(sg.getGraph());
