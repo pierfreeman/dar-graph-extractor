@@ -43,11 +43,18 @@ public class Main {
         ArrayList<String> arrayPath = new ArrayList<String>(145);
         GMLWriter writer = new GMLWriter();
         SpeechGraph sg = new SpeechGraph();
+        ArrayList<Person> persons = new ArrayList<Person>();
 
         addPaths(arrayPath);
 
         for (String p : arrayPath)
-            reader.read("resources/dataset/" + p, sg);
+            reader.read("resources/dataset/" + p, sg, persons);
+
+        for (Person per : persons)
+            sg.addVertex(per.name);
+        for (Person per : persons)
+            for (String con : per.getConnections())
+                sg.addEdge(per.name, con);
 
         try {
             writer.writeGraph(sg.getGraph());

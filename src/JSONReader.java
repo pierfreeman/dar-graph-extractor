@@ -25,15 +25,13 @@ public class JSONReader {
 
     }
 
-    public void read(String path, SpeechGraph graph) {
+    public void read(String path, SpeechGraph graph, ArrayList<Person> persons) {
         try {
             obj = (JSONObject) parser.parse(new FileReader(path));
 
             entries = (JSONArray) obj.get("entries");
 
             String currentSpeaker = null;
-            ArrayList<Person> persons = new ArrayList<Person>();
-            ArrayList <String> interventions = new ArrayList <String>();
             Person p = null;
 
             for (Object o : entries) {
@@ -48,15 +46,24 @@ public class JSONReader {
 
                 // Checks interactions between speakers
                 if (speaker != null) {
+                    boolean found = false;
                     if (currentSpeaker == null) {
-                        p = new Person (speaker);
-                        persons.add(p);
+                        for (Person per: persons) {
+                            if (per.name.equals(speaker)) {
+                                p = per;
+                                found = true;
+                                break;
+                            }
+                        }
+                        if (!found) {
+                            p = new Person (speaker, party);
+                            persons.add(p);
+                        }
                         currentSpeaker = speaker;
                         //System.out.println("Speaker: " + speaker);
                     } else {
                         if (!speaker.equals(currentSpeaker)) {
                             p.setConnection(speaker);
-                            boolean found = false;
                             for (Person per: persons) {
                                 if (per.name.equals(speaker)) {
                                     p = per;
@@ -65,7 +72,7 @@ public class JSONReader {
                                 }
                             }
                             if (!found) {
-                                p = new Person (speaker);
+                                p = new Person(speaker, party);
                                 persons.add(p);
                             }
 
@@ -75,30 +82,7 @@ public class JSONReader {
                     }
                 }
 
-                // Collects intervention types
-                if (speaker != null) {
-                    if (!interventions.contains(type)) {
-                        interventions.add(type);
-                    }
-                }
             }
-
-            // Prints persons and connections
-
-            for (Person per : persons) {
-                System.out.println("Person: " + per.name);
-                graph.addVertex(per.name);
-                System.out.println("Connections: " + per.getConnections().toString());
-            }
-            for (Person per : persons)
-                for (String con : per.getConnections())
-                    graph.addEdge(per.name, con);
-            /*
-            // Print intervention types
-            System.out.println("Intervetion Types: ");
-            for (String ints : interventions) {
-                System.out.println(ints);
-            }*/
 
         } catch (FileNotFoundException e) {
             e.printStackTrace();
