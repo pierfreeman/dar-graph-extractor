@@ -48,8 +48,9 @@ public class Main {
         addPaths(arrayPath);
 
         for (String p : arrayPath)
-            reader.read("resources/dataset/" + p, sg, persons);
+            reader.read("resources/dataset/" + p, persons);
 
+        //Create the graph
         for (Person per : persons)
             sg.addVertex(per.name);
         for (Person per : persons)
@@ -57,6 +58,7 @@ public class Main {
                 sg.addEdge(per.name, con);
 
         try {
+            //Write the .gml file
             writer.writeGraph(sg.getGraph());
         } catch (IOException e) {
             e.printStackTrace();
