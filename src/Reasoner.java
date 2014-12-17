@@ -23,7 +23,7 @@ public class Reasoner {
                     persons.add(p);
                 }
                 currentSpeaker = speaker;
-                //System.out.println("Speaker: " + speaker);
+                //rSystem.out.println("Speaker: " + speaker);
             } else {
                 if (!speaker.equals(currentSpeaker)) {
                     p.setConnection(speaker);

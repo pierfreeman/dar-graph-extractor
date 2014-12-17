@@ -4,11 +4,10 @@ import org.jgrapht.graph.SimpleGraph;
 
 public class SpeechGraph {
 
-    private UndirectedGraph<String, DefaultEdge> graph;
+    private SimpleGraph<Object, DefaultEdge> graph;
 
     public SpeechGraph() {
-
-        graph = new SimpleGraph<String, DefaultEdge>(DefaultEdge.class);
+        graph = new SimpleGraph<Object, DefaultEdge>(DefaultEdge.class);
     }
 
     public UndirectedGraph getGraph(){

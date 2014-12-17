@@ -20,6 +20,7 @@ public class GMLWriter {
     public void writeGraph(UndirectedGraph g) throws IOException {
         file = new File("resources/graph.gml");
         fw = new FileWriter(file.getAbsoluteFile());
+        exporter.setPrintLabels(exporter.PRINT_EDGE_VERTEX_LABELS);
         exporter.export(fw, g);
         fw.close();
     }
