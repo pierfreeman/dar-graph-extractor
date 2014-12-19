@@ -39,7 +39,7 @@ public class JSONReader {
                 speaker = (String) intervention.get("speaker");
                 text = (String) intervention.get("text");
 
-                Reasoner.checksInteraction(speaker, party, persons);
+                Reasoner.checksInteraction(speaker, party, persons, type, text);
             }
         } catch (FileNotFoundException e) {
             e.printStackTrace();

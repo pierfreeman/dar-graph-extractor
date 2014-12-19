@@ -5,7 +5,7 @@ public class Main {
 
     public static void addPaths(ArrayList<String> listOfPaths){
         String path;
-        int cont = 0;
+        int cont;
 
         for (int i=0; i<9; ++i){
             cont = i + 1;
@@ -53,9 +53,14 @@ public class Main {
         //Create the graph
         for (Person per : persons)
             sg.addVertex(per.name);
+
         for (Person per : persons)
-            for (String con : per.getConnections())
+            for (String con : per.getConnections()){
                 sg.addEdge(per.name, con);
+                sg.setWeight(per.name, con, per.getNumberConnection(con));
+                System.out.println(per.name + " " + con + " " + sg.getWeight(per.name, con) + "\n");
+            }
+
 
         try {
             //Write the .gml file
