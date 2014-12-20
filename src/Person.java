@@ -5,20 +5,22 @@ public class Person {
     
     String name, affiliation;
     HashMap <String, Integer> connections;
-    
+    Integer value;
+
     public Person (String name, String affiliation) {
         this.name = name;
         this.affiliation = affiliation;
         connections = new HashMap <String, Integer>();
     }
     
-    public void setConnection (String name) {
+    public void setConnection (String name, int weight) {
+        //System.out.println("Connection added: " + this.name + " to " + name);
         if (!connections.containsKey(name)) {
             connections.put(name, 1);
             //System.out.println("Connection added: " + this.name + " to " + name);
         } else {
-            Integer value = (Integer) connections.get(name);
-            connections.put(name, value+1);
+            value = (Integer) connections.get(name);
+            connections.put(name, value + weight);
         }
     }
     

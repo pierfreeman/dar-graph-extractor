@@ -1418,7 +1418,7 @@ graph
 		source 1
 		target 13
 		label "(Miguel Macedo : João Pinho de Almeida)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -1434,7 +1434,7 @@ graph
 		source 1
 		target 32
 		label "(Miguel Macedo : Cecília Honório)"
-		weight 7.0
+		weight -1.0
 	]
 	edge
 	[
@@ -1442,7 +1442,7 @@ graph
 		source 1
 		target 11
 		label "(Miguel Macedo : Telmo Correia)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -1450,7 +1450,7 @@ graph
 		source 1
 		target 4
 		label "(Miguel Macedo : Luís Montenegro)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -1474,7 +1474,7 @@ graph
 		source 1
 		target 20
 		label "(Miguel Macedo : António Filipe)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -1490,7 +1490,7 @@ graph
 		source 1
 		target 122
 		label "(Miguel Macedo : Filipe Neto Brandão)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -1506,7 +1506,7 @@ graph
 		source 1
 		target 42
 		label "(Miguel Macedo : Luís Menezes)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -1522,7 +1522,7 @@ graph
 		source 2
 		target 6
 		label "(Maria de Belém Roseira : Bernardino Soares)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -1538,7 +1538,7 @@ graph
 		source 2
 		target 5
 		label "(Maria de Belém Roseira : Nuno Magalhães)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -1546,7 +1546,7 @@ graph
 		source 2
 		target 62
 		label "(Maria de Belém Roseira : António Braga)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -1562,7 +1562,7 @@ graph
 		source 3
 		target 54
 		label "(Pedro Mota Soares : Jorge Machado)"
-		weight 16.0
+		weight -14.0
 	]
 	edge
 	[
@@ -1578,7 +1578,7 @@ graph
 		source 3
 		target 12
 		label "(Pedro Mota Soares : Pedro Lynce)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -1602,7 +1602,7 @@ graph
 		source 3
 		target 21
 		label "(Pedro Mota Soares : Mariana Aiveca)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -1618,7 +1618,7 @@ graph
 		source 3
 		target 41
 		label "(Pedro Mota Soares : Pedro Jesus Marques)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -1634,7 +1634,7 @@ graph
 		source 3
 		target 5
 		label "(Pedro Mota Soares : Nuno Magalhães)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -1642,7 +1642,7 @@ graph
 		source 3
 		target 30
 		label "(Pedro Mota Soares : Rita Rato)"
-		weight 8.0
+		weight -6.0
 	]
 	edge
 	[
@@ -1658,7 +1658,7 @@ graph
 		source 3
 		target 84
 		label "(Pedro Mota Soares : Sónia Fertuzinhos)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -1674,7 +1674,7 @@ graph
 		source 3
 		target 6
 		label "(Pedro Mota Soares : Bernardino Soares)"
-		weight 31.0
+		weight -29.0
 	]
 	edge
 	[
@@ -1682,7 +1682,7 @@ graph
 		source 3
 		target 7
 		label "(Pedro Mota Soares : Luís Fazenda)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -1690,7 +1690,7 @@ graph
 		source 3
 		target 125
 		label "(Pedro Mota Soares : Idália Salvador Serrão)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -1698,7 +1698,7 @@ graph
 		source 3
 		target 48
 		label "(Pedro Mota Soares : Artur Rêgo)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -1706,7 +1706,7 @@ graph
 		source 3
 		target 166
 		label "(Pedro Mota Soares : José Junqueiro)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -1714,7 +1714,7 @@ graph
 		source 3
 		target 87
 		label "(Pedro Mota Soares : Nuno Sá)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -1738,7 +1738,7 @@ graph
 		source 3
 		target 42
 		label "(Pedro Mota Soares : Luís Menezes)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -1746,7 +1746,7 @@ graph
 		source 4
 		target 75
 		label "(Luís Montenegro : Carlos Zorrinho)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -1754,7 +1754,7 @@ graph
 		source 4
 		target 41
 		label "(Luís Montenegro : Pedro Jesus Marques)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -1778,7 +1778,7 @@ graph
 		source 4
 		target 5
 		label "(Luís Montenegro : Nuno Magalhães)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -1786,7 +1786,7 @@ graph
 		source 4
 		target 44
 		label "(Luís Montenegro : Mota Andrade)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -1794,7 +1794,7 @@ graph
 		source 4
 		target 20
 		label "(Luís Montenegro : António Filipe)"
-		weight 6.0
+		weight 0.0
 	]
 	edge
 	[
@@ -1834,7 +1834,7 @@ graph
 		source 4
 		target 7
 		label "(Luís Montenegro : Luís Fazenda)"
-		weight 18.0
+		weight -16.0
 	]
 	edge
 	[
@@ -1842,7 +1842,7 @@ graph
 		source 4
 		target 16
 		label "(Luís Montenegro : Francisco Louçã)"
-		weight 12.0
+		weight -10.0
 	]
 	edge
 	[
@@ -1858,7 +1858,7 @@ graph
 		source 4
 		target 47
 		label "(Luís Montenegro : Teresa Leal Coelho)"
-		weight 17.0
+		weight -15.0
 	]
 	edge
 	[
@@ -1866,7 +1866,7 @@ graph
 		source 4
 		target 35
 		label "(Luís Montenegro : Vítor Gaspar)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -1874,7 +1874,7 @@ graph
 		source 4
 		target 8
 		label "(Luís Montenegro : Heloísa Apolónia)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -1890,7 +1890,7 @@ graph
 		source 4
 		target 238
 		label "(Luís Montenegro : Francisco de Assis)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -1898,7 +1898,7 @@ graph
 		source 4
 		target 91
 		label "(Luís Montenegro : Pedro Nuno Santos)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -1914,7 +1914,7 @@ graph
 		source 4
 		target 27
 		label "(Luís Montenegro : João Galamba)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -1922,7 +1922,7 @@ graph
 		source 4
 		target 6
 		label "(Luís Montenegro : Bernardino Soares)"
-		weight 47.0
+		weight -45.0
 	]
 	edge
 	[
@@ -1938,7 +1938,7 @@ graph
 		source 4
 		target 10
 		label "(Luís Montenegro : Pedro Passos Coelho)"
-		weight 15.0
+		weight 39.0
 	]
 	edge
 	[
@@ -1962,7 +1962,7 @@ graph
 		source 4
 		target 202
 		label "(Luís Montenegro : Pedro Saraiva)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -1970,7 +1970,7 @@ graph
 		source 4
 		target 18
 		label "(Luís Montenegro : Adão Silva)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -1986,7 +1986,7 @@ graph
 		source 4
 		target 12
 		label "(Luís Montenegro : Pedro Lynce)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -2010,7 +2010,7 @@ graph
 		source 4
 		target 230
 		label "(Luís Montenegro : Nuno Encarnação)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -2026,7 +2026,7 @@ graph
 		source 4
 		target 14
 		label "(Luís Montenegro : João Oliveira)"
-		weight 15.0
+		weight -13.0
 	]
 	edge
 	[
@@ -2034,7 +2034,7 @@ graph
 		source 4
 		target 30
 		label "(Luís Montenegro : Rita Rato)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -2050,7 +2050,7 @@ graph
 		source 4
 		target 104
 		label "(Luís Montenegro : António José Seguro)"
-		weight 10.0
+		weight -8.0
 	]
 	edge
 	[
@@ -2058,7 +2058,7 @@ graph
 		source 4
 		target 161
 		label "(Luís Montenegro : Miguel Santos)"
-		weight 5.0
+		weight 9.0
 	]
 	edge
 	[
@@ -2074,7 +2074,7 @@ graph
 		source 4
 		target 11
 		label "(Luís Montenegro : Telmo Correia)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -2090,7 +2090,7 @@ graph
 		source 4
 		target 66
 		label "(Luís Montenegro : Teresa Morais)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -2098,7 +2098,7 @@ graph
 		source 4
 		target 222
 		label "(Luís Montenegro : Pedro Pinto)"
-		weight 4.0
+		weight 6.0
 	]
 	edge
 	[
@@ -2122,7 +2122,7 @@ graph
 		source 4
 		target 127
 		label "(Luís Montenegro : Ana Drago)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -2138,7 +2138,7 @@ graph
 		source 4
 		target 179
 		label "(Luís Montenegro : Paulo Mota Pinto)"
-		weight 3.0
+		weight 7.0
 	]
 	edge
 	[
@@ -2162,7 +2162,7 @@ graph
 		source 4
 		target 28
 		label "(Luís Montenegro : Carlos Abreu Amorim)"
-		weight 6.0
+		weight 16.0
 	]
 	edge
 	[
@@ -2170,7 +2170,7 @@ graph
 		source 4
 		target 166
 		label "(Luís Montenegro : José Junqueiro)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -2178,7 +2178,7 @@ graph
 		source 4
 		target 15
 		label "(Luís Montenegro : Jerónimo de Sousa)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -2186,7 +2186,7 @@ graph
 		source 4
 		target 139
 		label "(Luís Montenegro : Mendes Bota)"
-		weight 3.0
+		weight 7.0
 	]
 	edge
 	[
@@ -2194,7 +2194,7 @@ graph
 		source 4
 		target 45
 		label "(Luís Montenegro : Emídio Guerreiro)"
-		weight 13.0
+		weight -11.0
 	]
 	edge
 	[
@@ -2202,7 +2202,7 @@ graph
 		source 4
 		target 22
 		label "(Luís Montenegro : Ricardo Rodrigues)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -2218,7 +2218,7 @@ graph
 		source 4
 		target 42
 		label "(Luís Montenegro : Luís Menezes)"
-		weight 58.0
+		weight -56.0
 	]
 	edge
 	[
@@ -2226,7 +2226,7 @@ graph
 		source 5
 		target 75
 		label "(Nuno Magalhães : Carlos Zorrinho)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -2234,7 +2234,7 @@ graph
 		source 5
 		target 41
 		label "(Nuno Magalhães : Pedro Jesus Marques)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -2242,7 +2242,7 @@ graph
 		source 5
 		target 60
 		label "(Nuno Magalhães : José Manuel Rodrigues)"
-		weight 6.0
+		weight 16.0
 	]
 	edge
 	[
@@ -2258,7 +2258,7 @@ graph
 		source 5
 		target 266
 		label "(Nuno Magalhães : Vieira da Silva)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -2266,7 +2266,7 @@ graph
 		source 5
 		target 44
 		label "(Nuno Magalhães : Mota Andrade)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -2274,7 +2274,7 @@ graph
 		source 5
 		target 20
 		label "(Nuno Magalhães : António Filipe)"
-		weight 8.0
+		weight -6.0
 	]
 	edge
 	[
@@ -2290,7 +2290,7 @@ graph
 		source 5
 		target 72
 		label "(Nuno Magalhães : Paulo Sá)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -2306,7 +2306,7 @@ graph
 		source 5
 		target 115
 		label "(Nuno Magalhães : Manuel Pizarro)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -2314,7 +2314,7 @@ graph
 		source 5
 		target 84
 		label "(Nuno Magalhães : Sónia Fertuzinhos)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -2322,7 +2322,7 @@ graph
 		source 5
 		target 7
 		label "(Nuno Magalhães : Luís Fazenda)"
-		weight 12.0
+		weight -10.0
 	]
 	edge
 	[
@@ -2330,7 +2330,7 @@ graph
 		source 5
 		target 19
 		label "(Nuno Magalhães : Teresa Caeiro)"
-		weight 33.0
+		weight 49.0
 	]
 	edge
 	[
@@ -2338,7 +2338,7 @@ graph
 		source 5
 		target 25
 		label "(Nuno Magalhães : João Serpa Oliva)"
-		weight 25.0
+		weight 65.0
 	]
 	edge
 	[
@@ -2346,7 +2346,7 @@ graph
 		source 5
 		target 16
 		label "(Nuno Magalhães : Francisco Louçã)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -2354,7 +2354,7 @@ graph
 		source 5
 		target 38
 		label "(Nuno Magalhães : Honório Novo)"
-		weight 7.0
+		weight -1.0
 	]
 	edge
 	[
@@ -2370,7 +2370,7 @@ graph
 		source 5
 		target 172
 		label "(Nuno Magalhães : José Lino Ramos)"
-		weight 9.0
+		weight 17.0
 	]
 	edge
 	[
@@ -2394,7 +2394,7 @@ graph
 		source 5
 		target 21
 		label "(Nuno Magalhães : Mariana Aiveca)"
-		weight 22.0
+		weight -16.0
 	]
 	edge
 	[
@@ -2410,7 +2410,7 @@ graph
 		source 5
 		target 32
 		label "(Nuno Magalhães : Cecília Honório)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -2418,7 +2418,7 @@ graph
 		source 5
 		target 39
 		label "(Nuno Magalhães : Bruno Dias)"
-		weight 9.0
+		weight -7.0
 	]
 	edge
 	[
@@ -2434,7 +2434,7 @@ graph
 		source 5
 		target 91
 		label "(Nuno Magalhães : Pedro Nuno Santos)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -2450,7 +2450,7 @@ graph
 		source 5
 		target 27
 		label "(Nuno Magalhães : João Galamba)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -2466,7 +2466,7 @@ graph
 		source 5
 		target 159
 		label "(Nuno Magalhães : Isabel Galriça Neto)"
-		weight 4.0
+		weight 6.0
 	]
 	edge
 	[
@@ -2482,7 +2482,7 @@ graph
 		source 5
 		target 6
 		label "(Nuno Magalhães : Bernardino Soares)"
-		weight 40.0
+		weight -38.0
 	]
 	edge
 	[
@@ -2498,7 +2498,7 @@ graph
 		source 5
 		target 67
 		label "(Nuno Magalhães : Agostinho Lopes)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -2514,7 +2514,7 @@ graph
 		source 5
 		target 48
 		label "(Nuno Magalhães : Artur Rêgo)"
-		weight 39.0
+		weight 55.0
 	]
 	edge
 	[
@@ -2522,7 +2522,7 @@ graph
 		source 5
 		target 10
 		label "(Nuno Magalhães : Pedro Passos Coelho)"
-		weight 11.0
+		weight 7.0
 	]
 	edge
 	[
@@ -2554,7 +2554,7 @@ graph
 		source 5
 		target 54
 		label "(Nuno Magalhães : Jorge Machado)"
-		weight 9.0
+		weight -7.0
 	]
 	edge
 	[
@@ -2562,7 +2562,7 @@ graph
 		source 5
 		target 40
 		label "(Nuno Magalhães : João Semedo)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -2570,7 +2570,7 @@ graph
 		source 5
 		target 124
 		label "(Nuno Magalhães : Teresa Anjinho)"
-		weight 13.0
+		weight 33.0
 	]
 	edge
 	[
@@ -2578,7 +2578,7 @@ graph
 		source 5
 		target 82
 		label "(Nuno Magalhães : Miguel Freitas)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -2586,7 +2586,7 @@ graph
 		source 5
 		target 148
 		label "(Nuno Magalhães : Luís Pita Ameixa)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -2594,7 +2594,7 @@ graph
 		source 5
 		target 14
 		label "(Nuno Magalhães : João Oliveira)"
-		weight 14.0
+		weight -8.0
 	]
 	edge
 	[
@@ -2602,7 +2602,7 @@ graph
 		source 5
 		target 30
 		label "(Nuno Magalhães : Rita Rato)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -2618,7 +2618,7 @@ graph
 		source 5
 		target 104
 		label "(Nuno Magalhães : António José Seguro)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -2634,7 +2634,7 @@ graph
 		source 5
 		target 13
 		label "(Nuno Magalhães : João Pinho de Almeida)"
-		weight 97.0
+		weight 65.0
 	]
 	edge
 	[
@@ -2642,7 +2642,7 @@ graph
 		source 5
 		target 11
 		label "(Nuno Magalhães : Telmo Correia)"
-		weight 22.0
+		weight 32.0
 	]
 	edge
 	[
@@ -2650,7 +2650,7 @@ graph
 		source 5
 		target 62
 		label "(Nuno Magalhães : António Braga)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -2666,7 +2666,7 @@ graph
 		source 5
 		target 74
 		label "(Nuno Magalhães : Altino Bessa)"
-		weight 8.0
+		weight 14.0
 	]
 	edge
 	[
@@ -2690,7 +2690,7 @@ graph
 		source 5
 		target 127
 		label "(Nuno Magalhães : Ana Drago)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -2698,7 +2698,7 @@ graph
 		source 5
 		target 63
 		label "(Nuno Magalhães : Paulo Portas)"
-		weight 8.0
+		weight 22.0
 	]
 	edge
 	[
@@ -2706,7 +2706,7 @@ graph
 		source 5
 		target 29
 		label "(Nuno Magalhães : Adolfo Mesquita Nunes)"
-		weight 35.0
+		weight 63.0
 	]
 	edge
 	[
@@ -2722,7 +2722,7 @@ graph
 		source 5
 		target 51
 		label "(Nuno Magalhães : Catarina Martins)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -2730,7 +2730,7 @@ graph
 		source 5
 		target 130
 		label "(Nuno Magalhães : Raúl de Almeida)"
-		weight 18.0
+		weight 40.0
 	]
 	edge
 	[
@@ -2738,7 +2738,7 @@ graph
 		source 5
 		target 252
 		label "(Nuno Magalhães : Assunção Cristas)"
-		weight 4.0
+		weight 2.0
 	]
 	edge
 	[
@@ -2746,7 +2746,7 @@ graph
 		source 5
 		target 52
 		label "(Nuno Magalhães : Miguel Laranjeiro)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -2754,7 +2754,7 @@ graph
 		source 5
 		target 118
 		label "(Nuno Magalhães : João Gonçalves Pereira)"
-		weight 4.0
+		weight 2.0
 	]
 	edge
 	[
@@ -2770,7 +2770,7 @@ graph
 		source 5
 		target 166
 		label "(Nuno Magalhães : José Junqueiro)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -2778,7 +2778,7 @@ graph
 		source 5
 		target 133
 		label "(Nuno Magalhães : Vera Rodrigues)"
-		weight 17.0
+		weight 29.0
 	]
 	edge
 	[
@@ -2786,7 +2786,7 @@ graph
 		source 5
 		target 15
 		label "(Nuno Magalhães : Jerónimo de Sousa)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -2794,7 +2794,7 @@ graph
 		source 5
 		target 244
 		label "(Nuno Magalhães : Helena André)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -2802,7 +2802,7 @@ graph
 		source 5
 		target 53
 		label "(Nuno Magalhães : Hélder Amaral)"
-		weight 52.0
+		weight 70.0
 	]
 	edge
 	[
@@ -2810,7 +2810,7 @@ graph
 		source 5
 		target 42
 		label "(Nuno Magalhães : Luís Menezes)"
-		weight 3.0
+		weight 7.0
 	]
 	edge
 	[
@@ -2818,7 +2818,7 @@ graph
 		source 6
 		target 156
 		label "(Bernardino Soares : Carlos Costa Neves)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -2826,7 +2826,7 @@ graph
 		source 6
 		target 41
 		label "(Bernardino Soares : Pedro Jesus Marques)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -2834,7 +2834,7 @@ graph
 		source 6
 		target 259
 		label "(Bernardino Soares : Pedro Afonso de Paulo)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -2842,7 +2842,7 @@ graph
 		source 6
 		target 190
 		label "(Bernardino Soares : Hugo Lopes Soares)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -2850,7 +2850,7 @@ graph
 		source 6
 		target 135
 		label "(Bernardino Soares : Rui Paulo Figueiredo)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -2858,7 +2858,7 @@ graph
 		source 6
 		target 185
 		label "(Bernardino Soares : Sérgio Azevedo)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -2866,7 +2866,7 @@ graph
 		source 6
 		target 20
 		label "(Bernardino Soares : António Filipe)"
-		weight 176.0
+		weight 274.0
 	]
 	edge
 	[
@@ -2882,7 +2882,7 @@ graph
 		source 6
 		target 243
 		label "(Bernardino Soares : Sérgio Monteiro)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -2890,7 +2890,7 @@ graph
 		source 6
 		target 152
 		label "(Bernardino Soares : Manuel Meirinho Martins)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -2898,7 +2898,7 @@ graph
 		source 6
 		target 121
 		label "(Bernardino Soares : Francisca Almeida)"
-		weight 5.0
+		weight 1.0
 	]
 	edge
 	[
@@ -2906,7 +2906,7 @@ graph
 		source 6
 		target 145
 		label "(Bernardino Soares : Nuno Filipe Matias)"
-		weight 8.0
+		weight -6.0
 	]
 	edge
 	[
@@ -2914,7 +2914,7 @@ graph
 		source 6
 		target 115
 		label "(Bernardino Soares : Manuel Pizarro)"
-		weight 7.0
+		weight -1.0
 	]
 	edge
 	[
@@ -2922,7 +2922,7 @@ graph
 		source 6
 		target 7
 		label "(Bernardino Soares : Luís Fazenda)"
-		weight 27.0
+		weight 39.0
 	]
 	edge
 	[
@@ -2946,7 +2946,7 @@ graph
 		source 6
 		target 19
 		label "(Bernardino Soares : Teresa Caeiro)"
-		weight 21.0
+		weight -19.0
 	]
 	edge
 	[
@@ -2954,7 +2954,7 @@ graph
 		source 6
 		target 188
 		label "(Bernardino Soares : João Casanova de Almeida)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -2962,7 +2962,7 @@ graph
 		source 6
 		target 86
 		label "(Bernardino Soares : Nuno Reis)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -2970,7 +2970,7 @@ graph
 		source 6
 		target 38
 		label "(Bernardino Soares : Honório Novo)"
-		weight 171.0
+		weight 187.0
 	]
 	edge
 	[
@@ -2978,7 +2978,7 @@ graph
 		source 6
 		target 47
 		label "(Bernardino Soares : Teresa Leal Coelho)"
-		weight 7.0
+		weight -1.0
 	]
 	edge
 	[
@@ -2986,7 +2986,7 @@ graph
 		source 6
 		target 176
 		label "(Bernardino Soares : Emília Santos)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -3002,7 +3002,7 @@ graph
 		source 6
 		target 172
 		label "(Bernardino Soares : José Lino Ramos)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -3010,7 +3010,7 @@ graph
 		source 6
 		target 8
 		label "(Bernardino Soares : Heloísa Apolónia)"
-		weight 69.0
+		weight 113.0
 	]
 	edge
 	[
@@ -3018,7 +3018,7 @@ graph
 		source 6
 		target 70
 		label "(Bernardino Soares : Hortense Martins)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -3026,7 +3026,7 @@ graph
 		source 6
 		target 233
 		label "(Bernardino Soares : José de Matos Rosa)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -3034,7 +3034,7 @@ graph
 		source 6
 		target 23
 		label "(Bernardino Soares : Miguel Frasquilho)"
-		weight 9.0
+		weight -3.0
 	]
 	edge
 	[
@@ -3050,7 +3050,7 @@ graph
 		source 6
 		target 93
 		label "(Bernardino Soares : Adriano Rafael Moreira)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -3058,7 +3058,7 @@ graph
 		source 6
 		target 248
 		label "(Bernardino Soares : Joana Barata Lopes)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -3066,7 +3066,7 @@ graph
 		source 6
 		target 85
 		label "(Bernardino Soares : Michael Seufert)"
-		weight 20.0
+		weight -14.0
 	]
 	edge
 	[
@@ -3074,7 +3074,7 @@ graph
 		source 6
 		target 36
 		label "(Bernardino Soares : Pedro Filipe Soares)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -3090,7 +3090,7 @@ graph
 		source 6
 		target 10
 		label "(Bernardino Soares : Pedro Passos Coelho)"
-		weight 190.0
+		weight -172.0
 	]
 	edge
 	[
@@ -3106,7 +3106,7 @@ graph
 		source 6
 		target 49
 		label "(Bernardino Soares : José de Matos Correia)"
-		weight 8.0
+		weight -6.0
 	]
 	edge
 	[
@@ -3114,7 +3114,7 @@ graph
 		source 6
 		target 87
 		label "(Bernardino Soares : Nuno Sá)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -3122,7 +3122,7 @@ graph
 		source 6
 		target 73
 		label "(Bernardino Soares : Carlos Peixoto)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -3130,7 +3130,7 @@ graph
 		source 6
 		target 37
 		label "(Bernardino Soares : Duarte Pacheco)"
-		weight 12.0
+		weight -10.0
 	]
 	edge
 	[
@@ -3146,7 +3146,7 @@ graph
 		source 6
 		target 264
 		label "(Bernardino Soares : José Alberto Lourenço)"
-		weight 4.0
+		weight 6.0
 	]
 	edge
 	[
@@ -3162,7 +3162,7 @@ graph
 		source 6
 		target 162
 		label "(Bernardino Soares : Paulo Macedo)"
-		weight 35.0
+		weight -29.0
 	]
 	edge
 	[
@@ -3170,7 +3170,7 @@ graph
 		source 6
 		target 54
 		label "(Bernardino Soares : Jorge Machado)"
-		weight 94.0
+		weight 128.0
 	]
 	edge
 	[
@@ -3178,7 +3178,7 @@ graph
 		source 6
 		target 202
 		label "(Bernardino Soares : Pedro Saraiva)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -3186,7 +3186,7 @@ graph
 		source 6
 		target 40
 		label "(Bernardino Soares : João Semedo)"
-		weight 6.0
+		weight 4.0
 	]
 	edge
 	[
@@ -3202,7 +3202,7 @@ graph
 		source 6
 		target 221
 		label "(Bernardino Soares : Vitalino Canas)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -3210,7 +3210,7 @@ graph
 		source 6
 		target 34
 		label "(Bernardino Soares : José Luís Ferreira)"
-		weight 23.0
+		weight 39.0
 	]
 	edge
 	[
@@ -3226,7 +3226,7 @@ graph
 		source 6
 		target 245
 		label "(Bernardino Soares : Carlos Alberto Gonçalves)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -3234,7 +3234,7 @@ graph
 		source 6
 		target 173
 		label "(Bernardino Soares : Mónica Ferro)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -3242,7 +3242,7 @@ graph
 		source 6
 		target 14
 		label "(Bernardino Soares : João Oliveira)"
-		weight 105.0
+		weight 81.0
 	]
 	edge
 	[
@@ -3250,7 +3250,7 @@ graph
 		source 6
 		target 30
 		label "(Bernardino Soares : Rita Rato)"
-		weight 176.0
+		weight 106.0
 	]
 	edge
 	[
@@ -3266,7 +3266,7 @@ graph
 		source 6
 		target 26
 		label "(Bernardino Soares : Hugo Velosa)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -3274,7 +3274,7 @@ graph
 		source 6
 		target 208
 		label "(Bernardino Soares : Arménio Santos)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -3306,7 +3306,7 @@ graph
 		source 6
 		target 107
 		label "(Bernardino Soares : António Leitão Amaro)"
-		weight 20.0
+		weight -18.0
 	]
 	edge
 	[
@@ -3314,7 +3314,7 @@ graph
 		source 6
 		target 11
 		label "(Bernardino Soares : Telmo Correia)"
-		weight 25.0
+		weight -23.0
 	]
 	edge
 	[
@@ -3322,7 +3322,7 @@ graph
 		source 6
 		target 62
 		label "(Bernardino Soares : António Braga)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -3330,7 +3330,7 @@ graph
 		source 6
 		target 142
 		label "(Bernardino Soares : Paulo Simões Júlio)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -3338,7 +3338,7 @@ graph
 		source 6
 		target 209
 		label "(Bernardino Soares : Luís Morais Sarmento)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -3346,7 +3346,7 @@ graph
 		source 6
 		target 222
 		label "(Bernardino Soares : Pedro Pinto)"
-		weight 11.0
+		weight 3.0
 	]
 	edge
 	[
@@ -3354,7 +3354,7 @@ graph
 		source 6
 		target 100
 		label "(Bernardino Soares : Miguel Coelho)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -3362,7 +3362,7 @@ graph
 		source 6
 		target 158
 		label "(Bernardino Soares : Inês de Medeiros)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -3370,7 +3370,7 @@ graph
 		source 6
 		target 59
 		label "(Bernardino Soares : Miguel Tiago)"
-		weight 75.0
+		weight 111.0
 	]
 	edge
 	[
@@ -3386,7 +3386,7 @@ graph
 		source 6
 		target 55
 		label "(Bernardino Soares : Maria das Mercês Soares)"
-		weight 8.0
+		weight -6.0
 	]
 	edge
 	[
@@ -3394,7 +3394,7 @@ graph
 		source 6
 		target 127
 		label "(Bernardino Soares : Ana Drago)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -3410,7 +3410,7 @@ graph
 		source 6
 		target 99
 		label "(Bernardino Soares : Paula Santos)"
-		weight 78.0
+		weight 128.0
 	]
 	edge
 	[
@@ -3418,7 +3418,7 @@ graph
 		source 6
 		target 165
 		label "(Bernardino Soares : António Serrano)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -3426,7 +3426,7 @@ graph
 		source 6
 		target 200
 		label "(Bernardino Soares : Manuel Ferreira Teixeira)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -3434,7 +3434,7 @@ graph
 		source 6
 		target 51
 		label "(Bernardino Soares : Catarina Martins)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -3442,7 +3442,7 @@ graph
 		source 6
 		target 130
 		label "(Bernardino Soares : Raúl de Almeida)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -3450,7 +3450,7 @@ graph
 		source 6
 		target 52
 		label "(Bernardino Soares : Miguel Laranjeiro)"
-		weight 14.0
+		weight -12.0
 	]
 	edge
 	[
@@ -3458,7 +3458,7 @@ graph
 		source 6
 		target 43
 		label "(Bernardino Soares : Basílio Horta)"
-		weight 8.0
+		weight -6.0
 	]
 	edge
 	[
@@ -3466,7 +3466,7 @@ graph
 		source 6
 		target 71
 		label "(Bernardino Soares : Fernando Medina)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -3474,7 +3474,7 @@ graph
 		source 6
 		target 231
 		label "(Bernardino Soares : Daniel Campelo)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -3482,7 +3482,7 @@ graph
 		source 6
 		target 118
 		label "(Bernardino Soares : João Gonçalves Pereira)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -3490,7 +3490,7 @@ graph
 		source 6
 		target 189
 		label "(Bernardino Soares : João Filipe Queiró)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -3498,7 +3498,7 @@ graph
 		source 6
 		target 220
 		label "(Bernardino Soares : José Manuel Canavarro)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -3506,7 +3506,7 @@ graph
 		source 6
 		target 166
 		label "(Bernardino Soares : José Junqueiro)"
-		weight 11.0
+		weight -9.0
 	]
 	edge
 	[
@@ -3514,7 +3514,7 @@ graph
 		source 6
 		target 28
 		label "(Bernardino Soares : Carlos Abreu Amorim)"
-		weight 31.0
+		weight -21.0
 	]
 	edge
 	[
@@ -3522,7 +3522,7 @@ graph
 		source 6
 		target 195
 		label "(Bernardino Soares : Luís Campos Ferreira)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -3530,7 +3530,7 @@ graph
 		source 6
 		target 244
 		label "(Bernardino Soares : Helena André)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -3538,7 +3538,7 @@ graph
 		source 6
 		target 65
 		label "(Bernardino Soares : Couto dos Santos)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -3546,7 +3546,7 @@ graph
 		source 6
 		target 139
 		label "(Bernardino Soares : Mendes Bota)"
-		weight 9.0
+		weight -7.0
 	]
 	edge
 	[
@@ -3554,7 +3554,7 @@ graph
 		source 6
 		target 157
 		label "(Bernardino Soares : Mário Magalhães)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -3570,7 +3570,7 @@ graph
 		source 6
 		target 117
 		label "(Bernardino Soares : Fernando Negrão)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -3586,7 +3586,7 @@ graph
 		source 6
 		target 75
 		label "(Bernardino Soares : Carlos Zorrinho)"
-		weight 18.0
+		weight -16.0
 	]
 	edge
 	[
@@ -3602,7 +3602,7 @@ graph
 		source 6
 		target 60
 		label "(Bernardino Soares : José Manuel Rodrigues)"
-		weight 9.0
+		weight -7.0
 	]
 	edge
 	[
@@ -3618,7 +3618,7 @@ graph
 		source 6
 		target 44
 		label "(Bernardino Soares : Mota Andrade)"
-		weight 15.0
+		weight -13.0
 	]
 	edge
 	[
@@ -3642,7 +3642,7 @@ graph
 		source 6
 		target 72
 		label "(Bernardino Soares : Paulo Sá)"
-		weight 134.0
+		weight 208.0
 	]
 	edge
 	[
@@ -3650,7 +3650,7 @@ graph
 		source 6
 		target 105
 		label "(Bernardino Soares : Pedro Roque)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -3658,7 +3658,7 @@ graph
 		source 6
 		target 57
 		label "(Bernardino Soares : Nuno Crato)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -3666,7 +3666,7 @@ graph
 		source 6
 		target 84
 		label "(Bernardino Soares : Sónia Fertuzinhos)"
-		weight 8.0
+		weight -6.0
 	]
 	edge
 	[
@@ -3674,7 +3674,7 @@ graph
 		source 6
 		target 31
 		label "(Bernardino Soares : Duarte Filipe Marques)"
-		weight 16.0
+		weight -14.0
 	]
 	edge
 	[
@@ -3682,7 +3682,7 @@ graph
 		source 6
 		target 78
 		label "(Bernardino Soares : Carina Oliveira)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -3690,7 +3690,7 @@ graph
 		source 6
 		target 228
 		label "(Bernardino Soares : Marco António Costa)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -3706,7 +3706,7 @@ graph
 		source 6
 		target 144
 		label "(Bernardino Soares : Paulo Núncio)"
-		weight 19.0
+		weight -17.0
 	]
 	edge
 	[
@@ -3714,7 +3714,7 @@ graph
 		source 6
 		target 25
 		label "(Bernardino Soares : João Serpa Oliva)"
-		weight 8.0
+		weight -6.0
 	]
 	edge
 	[
@@ -3722,7 +3722,7 @@ graph
 		source 6
 		target 16
 		label "(Bernardino Soares : Francisco Louçã)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -3738,7 +3738,7 @@ graph
 		source 6
 		target 131
 		label "(Bernardino Soares : Inês Teotónio Pereira)"
-		weight 12.0
+		weight -10.0
 	]
 	edge
 	[
@@ -3746,7 +3746,7 @@ graph
 		source 6
 		target 68
 		label "(Bernardino Soares : Cristóvão Crespo)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -3754,7 +3754,7 @@ graph
 		source 6
 		target 35
 		label "(Bernardino Soares : Vítor Gaspar)"
-		weight 62.0
+		weight -60.0
 	]
 	edge
 	[
@@ -3762,7 +3762,7 @@ graph
 		source 6
 		target 275
 		label "(Bernardino Soares : Lurdes Ribeiro)"
-		weight 8.0
+		weight 18.0
 	]
 	edge
 	[
@@ -3770,7 +3770,7 @@ graph
 		source 6
 		target 198
 		label "(Bernardino Soares : Ana Sofia Bettencourt)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -3786,7 +3786,7 @@ graph
 		source 6
 		target 238
 		label "(Bernardino Soares : Francisco de Assis)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -3794,7 +3794,7 @@ graph
 		source 6
 		target 32
 		label "(Bernardino Soares : Cecília Honório)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -3802,7 +3802,7 @@ graph
 		source 6
 		target 102
 		label "(Bernardino Soares : Pedro Silva Martins)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -3810,7 +3810,7 @@ graph
 		source 6
 		target 39
 		label "(Bernardino Soares : Bruno Dias)"
-		weight 90.0
+		weight 88.0
 	]
 	edge
 	[
@@ -3818,7 +3818,7 @@ graph
 		source 6
 		target 128
 		label "(Bernardino Soares : Luís Leite Ramos)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -3834,7 +3834,7 @@ graph
 		source 6
 		target 91
 		label "(Bernardino Soares : Pedro Nuno Santos)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -3842,7 +3842,7 @@ graph
 		source 6
 		target 89
 		label "(Bernardino Soares : Cláudia Monteiro de Aguiar)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -3850,7 +3850,7 @@ graph
 		source 6
 		target 207
 		label "(Bernardino Soares : Álvaro Santos Pereira)"
-		weight 59.0
+		weight -53.0
 	]
 	edge
 	[
@@ -3858,7 +3858,7 @@ graph
 		source 6
 		target 27
 		label "(Bernardino Soares : João Galamba)"
-		weight 12.0
+		weight -6.0
 	]
 	edge
 	[
@@ -3874,7 +3874,7 @@ graph
 		source 6
 		target 112
 		label "(Bernardino Soares : Afonso Oliveira)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -3882,7 +3882,7 @@ graph
 		source 6
 		target 24
 		label "(Bernardino Soares : Abel Baptista)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -3890,7 +3890,7 @@ graph
 		source 6
 		target 48
 		label "(Bernardino Soares : Artur Rêgo)"
-		weight 47.0
+		weight -37.0
 	]
 	edge
 	[
@@ -3898,7 +3898,7 @@ graph
 		source 6
 		target 67
 		label "(Bernardino Soares : Agostinho Lopes)"
-		weight 169.0
+		weight 221.0
 	]
 	edge
 	[
@@ -3914,7 +3914,7 @@ graph
 		source 6
 		target 76
 		label "(Bernardino Soares : António Rodrigues)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -3922,7 +3922,7 @@ graph
 		source 6
 		target 183
 		label "(Bernardino Soares : Maria Antónia Almeida Santos)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -3930,7 +3930,7 @@ graph
 		source 6
 		target 212
 		label "(Bernardino Soares : Fernando Leal da Costa)"
-		weight 16.0
+		weight -14.0
 	]
 	edge
 	[
@@ -3938,7 +3938,7 @@ graph
 		source 6
 		target 199
 		label "(Bernardino Soares : Pedro do Ó Ramos)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -3954,7 +3954,7 @@ graph
 		source 6
 		target 18
 		label "(Bernardino Soares : Adão Silva)"
-		weight 23.0
+		weight -21.0
 	]
 	edge
 	[
@@ -3962,7 +3962,7 @@ graph
 		source 6
 		target 12
 		label "(Bernardino Soares : Pedro Lynce)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -3970,7 +3970,7 @@ graph
 		source 6
 		target 56
 		label "(Bernardino Soares : Sérgio Sousa Pinto)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -3978,7 +3978,7 @@ graph
 		source 6
 		target 230
 		label "(Bernardino Soares : Nuno Encarnação)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -3986,7 +3986,7 @@ graph
 		source 6
 		target 82
 		label "(Bernardino Soares : Miguel Freitas)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -3994,7 +3994,7 @@ graph
 		source 6
 		target 197
 		label "(Bernardino Soares : Laurentino Dias)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -4002,7 +4002,7 @@ graph
 		source 6
 		target 269
 		label "(Bernardino Soares : Pedro Silva Pereira)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -4010,7 +4010,7 @@ graph
 		source 6
 		target 161
 		label "(Bernardino Soares : Miguel Santos)"
-		weight 9.0
+		weight -7.0
 	]
 	edge
 	[
@@ -4018,7 +4018,7 @@ graph
 		source 6
 		target 13
 		label "(Bernardino Soares : João Pinho de Almeida)"
-		weight 36.0
+		weight -30.0
 	]
 	edge
 	[
@@ -4026,7 +4026,7 @@ graph
 		source 6
 		target 170
 		label "(Bernardino Soares : Maria Luís Albuquerque)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -4034,7 +4034,7 @@ graph
 		source 6
 		target 90
 		label "(Bernardino Soares : Manuel Seabra)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -4042,7 +4042,7 @@ graph
 		source 6
 		target 61
 		label "(Bernardino Soares : Francisco Lopes)"
-		weight 22.0
+		weight 16.0
 	]
 	edge
 	[
@@ -4050,7 +4050,7 @@ graph
 		source 6
 		target 66
 		label "(Bernardino Soares : Teresa Morais)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -4066,7 +4066,7 @@ graph
 		source 6
 		target 192
 		label "(Bernardino Soares : Hélder Rosalino)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -4082,7 +4082,7 @@ graph
 		source 6
 		target 210
 		label "(Bernardino Soares : Maria da Conceição Caldeira)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -4106,7 +4106,7 @@ graph
 		source 6
 		target 74
 		label "(Bernardino Soares : Altino Bessa)"
-		weight 12.0
+		weight -10.0
 	]
 	edge
 	[
@@ -4114,7 +4114,7 @@ graph
 		source 6
 		target 95
 		label "(Bernardino Soares : Amadeu Soares Albergaria)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -4130,7 +4130,7 @@ graph
 		source 6
 		target 134
 		label "(Bernardino Soares : João Ramos)"
-		weight 48.0
+		weight 54.0
 	]
 	edge
 	[
@@ -4138,7 +4138,7 @@ graph
 		source 6
 		target 126
 		label "(Bernardino Soares : Nilza de Sena)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -4146,7 +4146,7 @@ graph
 		source 6
 		target 63
 		label "(Bernardino Soares : Paulo Portas)"
-		weight 12.0
+		weight -2.0
 	]
 	edge
 	[
@@ -4154,7 +4154,7 @@ graph
 		source 6
 		target 29
 		label "(Bernardino Soares : Adolfo Mesquita Nunes)"
-		weight 13.0
+		weight -7.0
 	]
 	edge
 	[
@@ -4162,7 +4162,7 @@ graph
 		source 6
 		target 81
 		label "(Bernardino Soares : Nuno Serra)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -4170,7 +4170,7 @@ graph
 		source 6
 		target 136
 		label "(Bernardino Soares : Mário Simões)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -4178,7 +4178,7 @@ graph
 		source 6
 		target 193
 		label "(Bernardino Soares : António Prôa)"
-		weight 9.0
+		weight 1.0
 	]
 	edge
 	[
@@ -4186,7 +4186,7 @@ graph
 		source 6
 		target 9
 		label "(Bernardino Soares : Miguel Relvas)"
-		weight 30.0
+		weight -28.0
 	]
 	edge
 	[
@@ -4194,7 +4194,7 @@ graph
 		source 6
 		target 179
 		label "(Bernardino Soares : Paulo Mota Pinto)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -4202,7 +4202,7 @@ graph
 		source 6
 		target 252
 		label "(Bernardino Soares : Assunção Cristas)"
-		weight 12.0
+		weight -10.0
 	]
 	edge
 	[
@@ -4210,7 +4210,7 @@ graph
 		source 6
 		target 108
 		label "(Bernardino Soares : Marcos Perestrello)"
-		weight 4.0
+		weight 2.0
 	]
 	edge
 	[
@@ -4218,7 +4218,7 @@ graph
 		source 6
 		target 69
 		label "(Bernardino Soares : Paulo Batista Santos)"
-		weight 15.0
+		weight -13.0
 	]
 	edge
 	[
@@ -4226,7 +4226,7 @@ graph
 		source 6
 		target 83
 		label "(Bernardino Soares : Fernando Virgílio Macedo)"
-		weight 14.0
+		weight -12.0
 	]
 	edge
 	[
@@ -4234,7 +4234,7 @@ graph
 		source 6
 		target 133
 		label "(Bernardino Soares : Vera Rodrigues)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -4242,7 +4242,7 @@ graph
 		source 6
 		target 15
 		label "(Bernardino Soares : Jerónimo de Sousa)"
-		weight 186.0
+		weight 224.0
 	]
 	edge
 	[
@@ -4250,7 +4250,7 @@ graph
 		source 6
 		target 111
 		label "(Bernardino Soares : Carlos Santos Silva)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -4258,7 +4258,7 @@ graph
 		source 6
 		target 45
 		label "(Bernardino Soares : Emídio Guerreiro)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -4266,7 +4266,7 @@ graph
 		source 6
 		target 22
 		label "(Bernardino Soares : Ricardo Rodrigues)"
-		weight 9.0
+		weight -7.0
 	]
 	edge
 	[
@@ -4274,7 +4274,7 @@ graph
 		source 6
 		target 53
 		label "(Bernardino Soares : Hélder Amaral)"
-		weight 74.0
+		weight -72.0
 	]
 	edge
 	[
@@ -4282,7 +4282,7 @@ graph
 		source 6
 		target 42
 		label "(Bernardino Soares : Luís Menezes)"
-		weight 19.0
+		weight -17.0
 	]
 	edge
 	[
@@ -4298,7 +4298,7 @@ graph
 		source 7
 		target 190
 		label "(Luís Fazenda : Hugo Lopes Soares)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -4322,7 +4322,7 @@ graph
 		source 7
 		target 121
 		label "(Luís Fazenda : Francisca Almeida)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -4354,7 +4354,7 @@ graph
 		source 7
 		target 38
 		label "(Luís Fazenda : Honório Novo)"
-		weight 4.0
+		weight 6.0
 	]
 	edge
 	[
@@ -4362,7 +4362,7 @@ graph
 		source 7
 		target 176
 		label "(Luís Fazenda : Emília Santos)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -4386,7 +4386,7 @@ graph
 		source 7
 		target 23
 		label "(Luís Fazenda : Miguel Frasquilho)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -4394,7 +4394,7 @@ graph
 		source 7
 		target 114
 		label "(Luís Fazenda : Guilherme Silva)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -4402,7 +4402,7 @@ graph
 		source 7
 		target 248
 		label "(Luís Fazenda : Joana Barata Lopes)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -4418,7 +4418,7 @@ graph
 		source 7
 		target 36
 		label "(Luís Fazenda : Pedro Filipe Soares)"
-		weight 36.0
+		weight 86.0
 	]
 	edge
 	[
@@ -4426,7 +4426,7 @@ graph
 		source 7
 		target 10
 		label "(Luís Fazenda : Pedro Passos Coelho)"
-		weight 25.0
+		weight -23.0
 	]
 	edge
 	[
@@ -4434,7 +4434,7 @@ graph
 		source 7
 		target 49
 		label "(Luís Fazenda : José de Matos Correia)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -4442,7 +4442,7 @@ graph
 		source 7
 		target 73
 		label "(Luís Fazenda : Carlos Peixoto)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -4474,7 +4474,7 @@ graph
 		source 7
 		target 202
 		label "(Luís Fazenda : Pedro Saraiva)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -4482,7 +4482,7 @@ graph
 		source 7
 		target 40
 		label "(Luís Fazenda : João Semedo)"
-		weight 26.0
+		weight 48.0
 	]
 	edge
 	[
@@ -4490,7 +4490,7 @@ graph
 		source 7
 		target 221
 		label "(Luís Fazenda : Vitalino Canas)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -4498,7 +4498,7 @@ graph
 		source 7
 		target 14
 		label "(Luís Fazenda : João Oliveira)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -4514,7 +4514,7 @@ graph
 		source 7
 		target 26
 		label "(Luís Fazenda : Hugo Velosa)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -4522,7 +4522,7 @@ graph
 		source 7
 		target 208
 		label "(Luís Fazenda : Arménio Santos)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -4530,7 +4530,7 @@ graph
 		source 7
 		target 104
 		label "(Luís Fazenda : António José Seguro)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -4538,7 +4538,7 @@ graph
 		source 7
 		target 11
 		label "(Luís Fazenda : Telmo Correia)"
-		weight 8.0
+		weight -6.0
 	]
 	edge
 	[
@@ -4546,7 +4546,7 @@ graph
 		source 7
 		target 107
 		label "(Luís Fazenda : António Leitão Amaro)"
-		weight 6.0
+		weight 0.0
 	]
 	edge
 	[
@@ -4554,7 +4554,7 @@ graph
 		source 7
 		target 62
 		label "(Luís Fazenda : António Braga)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -4578,7 +4578,7 @@ graph
 		source 7
 		target 209
 		label "(Luís Fazenda : Luís Morais Sarmento)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -4586,7 +4586,7 @@ graph
 		source 7
 		target 127
 		label "(Luís Fazenda : Ana Drago)"
-		weight 30.0
+		weight 16.0
 	]
 	edge
 	[
@@ -4594,7 +4594,7 @@ graph
 		source 7
 		target 51
 		label "(Luís Fazenda : Catarina Martins)"
-		weight 15.0
+		weight 19.0
 	]
 	edge
 	[
@@ -4610,7 +4610,7 @@ graph
 		source 7
 		target 130
 		label "(Luís Fazenda : Raúl de Almeida)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -4618,7 +4618,7 @@ graph
 		source 7
 		target 52
 		label "(Luís Fazenda : Miguel Laranjeiro)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -4626,7 +4626,7 @@ graph
 		source 7
 		target 43
 		label "(Luís Fazenda : Basílio Horta)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -4642,7 +4642,7 @@ graph
 		source 7
 		target 118
 		label "(Luís Fazenda : João Gonçalves Pereira)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -4650,7 +4650,7 @@ graph
 		source 7
 		target 28
 		label "(Luís Fazenda : Carlos Abreu Amorim)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -4658,7 +4658,7 @@ graph
 		source 7
 		target 220
 		label "(Luís Fazenda : José Manuel Canavarro)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -4674,7 +4674,7 @@ graph
 		source 7
 		target 195
 		label "(Luís Fazenda : Luís Campos Ferreira)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -4682,7 +4682,7 @@ graph
 		source 7
 		target 139
 		label "(Luís Fazenda : Mendes Bota)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -4722,7 +4722,7 @@ graph
 		source 7
 		target 57
 		label "(Luís Fazenda : Nuno Crato)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -4738,7 +4738,7 @@ graph
 		source 7
 		target 25
 		label "(Luís Fazenda : João Serpa Oliva)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -4746,7 +4746,7 @@ graph
 		source 7
 		target 16
 		label "(Luís Fazenda : Francisco Louçã)"
-		weight 14.0
+		weight 0.0
 	]
 	edge
 	[
@@ -4762,7 +4762,7 @@ graph
 		source 7
 		target 131
 		label "(Luís Fazenda : Inês Teotónio Pereira)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -4770,7 +4770,7 @@ graph
 		source 7
 		target 35
 		label "(Luís Fazenda : Vítor Gaspar)"
-		weight 11.0
+		weight -9.0
 	]
 	edge
 	[
@@ -4778,7 +4778,7 @@ graph
 		source 7
 		target 21
 		label "(Luís Fazenda : Mariana Aiveca)"
-		weight 37.0
+		weight 65.0
 	]
 	edge
 	[
@@ -4794,7 +4794,7 @@ graph
 		source 7
 		target 32
 		label "(Luís Fazenda : Cecília Honório)"
-		weight 14.0
+		weight 16.0
 	]
 	edge
 	[
@@ -4834,7 +4834,7 @@ graph
 		source 7
 		target 112
 		label "(Luís Fazenda : Afonso Oliveira)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -4842,7 +4842,7 @@ graph
 		source 7
 		target 24
 		label "(Luís Fazenda : Abel Baptista)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -4850,7 +4850,7 @@ graph
 		source 7
 		target 48
 		label "(Luís Fazenda : Artur Rêgo)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -4866,7 +4866,7 @@ graph
 		source 7
 		target 199
 		label "(Luís Fazenda : Pedro do Ó Ramos)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -4882,7 +4882,7 @@ graph
 		source 7
 		target 12
 		label "(Luís Fazenda : Pedro Lynce)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -4890,7 +4890,7 @@ graph
 		source 7
 		target 132
 		label "(Luís Fazenda : Mário Ruivo)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -4914,7 +4914,7 @@ graph
 		source 7
 		target 13
 		label "(Luís Fazenda : João Pinho de Almeida)"
-		weight 13.0
+		weight -11.0
 	]
 	edge
 	[
@@ -4922,7 +4922,7 @@ graph
 		source 7
 		target 170
 		label "(Luís Fazenda : Maria Luís Albuquerque)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -4930,7 +4930,7 @@ graph
 		source 7
 		target 192
 		label "(Luís Fazenda : Hélder Rosalino)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -4938,7 +4938,7 @@ graph
 		source 7
 		target 66
 		label "(Luís Fazenda : Teresa Morais)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -4946,7 +4946,7 @@ graph
 		source 7
 		target 74
 		label "(Luís Fazenda : Altino Bessa)"
-		weight 9.0
+		weight -7.0
 	]
 	edge
 	[
@@ -4954,7 +4954,7 @@ graph
 		source 7
 		target 50
 		label "(Luís Fazenda : Pedro Delgado Alves)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -4962,7 +4962,7 @@ graph
 		source 7
 		target 46
 		label "(Luís Fazenda : Paula Teixeira da Cruz)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -4970,7 +4970,7 @@ graph
 		source 7
 		target 146
 		label "(Luís Fazenda : Margarida Neto)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -4978,7 +4978,7 @@ graph
 		source 7
 		target 126
 		label "(Luís Fazenda : Nilza de Sena)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -4986,7 +4986,7 @@ graph
 		source 7
 		target 63
 		label "(Luís Fazenda : Paulo Portas)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -4994,7 +4994,7 @@ graph
 		source 7
 		target 29
 		label "(Luís Fazenda : Adolfo Mesquita Nunes)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -5002,7 +5002,7 @@ graph
 		source 7
 		target 110
 		label "(Luís Fazenda : Jorge Paulo Oliveira)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -5010,7 +5010,7 @@ graph
 		source 7
 		target 81
 		label "(Luís Fazenda : Nuno Serra)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -5026,7 +5026,7 @@ graph
 		source 7
 		target 179
 		label "(Luís Fazenda : Paulo Mota Pinto)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -5034,7 +5034,7 @@ graph
 		source 7
 		target 252
 		label "(Luís Fazenda : Assunção Cristas)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -5042,7 +5042,7 @@ graph
 		source 7
 		target 69
 		label "(Luís Fazenda : Paulo Batista Santos)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -5050,7 +5050,7 @@ graph
 		source 7
 		target 83
 		label "(Luís Fazenda : Fernando Virgílio Macedo)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -5058,7 +5058,7 @@ graph
 		source 7
 		target 133
 		label "(Luís Fazenda : Vera Rodrigues)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -5074,7 +5074,7 @@ graph
 		source 7
 		target 45
 		label "(Luís Fazenda : Emídio Guerreiro)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -5082,7 +5082,7 @@ graph
 		source 7
 		target 53
 		label "(Luís Fazenda : Hélder Amaral)"
-		weight 8.0
+		weight -2.0
 	]
 	edge
 	[
@@ -5090,7 +5090,7 @@ graph
 		source 7
 		target 42
 		label "(Luís Fazenda : Luís Menezes)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -5098,7 +5098,7 @@ graph
 		source 8
 		target 54
 		label "(Heloísa Apolónia : Jorge Machado)"
-		weight 10.0
+		weight -8.0
 	]
 	edge
 	[
@@ -5114,7 +5114,7 @@ graph
 		source 8
 		target 34
 		label "(Heloísa Apolónia : José Luís Ferreira)"
-		weight 58.0
+		weight 144.0
 	]
 	edge
 	[
@@ -5130,7 +5130,7 @@ graph
 		source 8
 		target 14
 		label "(Heloísa Apolónia : João Oliveira)"
-		weight 15.0
+		weight -9.0
 	]
 	edge
 	[
@@ -5146,7 +5146,7 @@ graph
 		source 8
 		target 30
 		label "(Heloísa Apolónia : Rita Rato)"
-		weight 32.0
+		weight -22.0
 	]
 	edge
 	[
@@ -5162,7 +5162,7 @@ graph
 		source 8
 		target 72
 		label "(Heloísa Apolónia : Paulo Sá)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -5178,7 +5178,7 @@ graph
 		source 8
 		target 31
 		label "(Heloísa Apolónia : Duarte Filipe Marques)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -5186,7 +5186,7 @@ graph
 		source 8
 		target 13
 		label "(Heloísa Apolónia : João Pinho de Almeida)"
-		weight 11.0
+		weight -9.0
 	]
 	edge
 	[
@@ -5194,7 +5194,7 @@ graph
 		source 8
 		target 78
 		label "(Heloísa Apolónia : Carina Oliveira)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -5202,7 +5202,7 @@ graph
 		source 8
 		target 107
 		label "(Heloísa Apolónia : António Leitão Amaro)"
-		weight 8.0
+		weight -6.0
 	]
 	edge
 	[
@@ -5210,7 +5210,7 @@ graph
 		source 8
 		target 11
 		label "(Heloísa Apolónia : Telmo Correia)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -5226,7 +5226,7 @@ graph
 		source 8
 		target 38
 		label "(Heloísa Apolónia : Honório Novo)"
-		weight 9.0
+		weight -7.0
 	]
 	edge
 	[
@@ -5250,7 +5250,7 @@ graph
 		source 8
 		target 74
 		label "(Heloísa Apolónia : Altino Bessa)"
-		weight 10.0
+		weight -8.0
 	]
 	edge
 	[
@@ -5258,7 +5258,7 @@ graph
 		source 8
 		target 35
 		label "(Heloísa Apolónia : Vítor Gaspar)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -5266,7 +5266,7 @@ graph
 		source 8
 		target 59
 		label "(Heloísa Apolónia : Miguel Tiago)"
-		weight 13.0
+		weight -11.0
 	]
 	edge
 	[
@@ -5282,7 +5282,7 @@ graph
 		source 8
 		target 134
 		label "(Heloísa Apolónia : João Ramos)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -5298,7 +5298,7 @@ graph
 		source 8
 		target 39
 		label "(Heloísa Apolónia : Bruno Dias)"
-		weight 32.0
+		weight -14.0
 	]
 	edge
 	[
@@ -5314,7 +5314,7 @@ graph
 		source 8
 		target 23
 		label "(Heloísa Apolónia : Miguel Frasquilho)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -5330,7 +5330,7 @@ graph
 		source 8
 		target 252
 		label "(Heloísa Apolónia : Assunção Cristas)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -5338,7 +5338,7 @@ graph
 		source 8
 		target 52
 		label "(Heloísa Apolónia : Miguel Laranjeiro)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -5354,7 +5354,7 @@ graph
 		source 8
 		target 24
 		label "(Heloísa Apolónia : Abel Baptista)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -5378,7 +5378,7 @@ graph
 		source 8
 		target 28
 		label "(Heloísa Apolónia : Carlos Abreu Amorim)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -5386,7 +5386,7 @@ graph
 		source 8
 		target 10
 		label "(Heloísa Apolónia : Pedro Passos Coelho)"
-		weight 30.0
+		weight -28.0
 	]
 	edge
 	[
@@ -5394,7 +5394,7 @@ graph
 		source 8
 		target 15
 		label "(Heloísa Apolónia : Jerónimo de Sousa)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -5410,7 +5410,7 @@ graph
 		source 8
 		target 45
 		label "(Heloísa Apolónia : Emídio Guerreiro)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -5426,7 +5426,7 @@ graph
 		source 8
 		target 53
 		label "(Heloísa Apolónia : Hélder Amaral)"
-		weight 11.0
+		weight -9.0
 	]
 	edge
 	[
@@ -5434,7 +5434,7 @@ graph
 		source 8
 		target 42
 		label "(Heloísa Apolónia : Luís Menezes)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -5450,7 +5450,7 @@ graph
 		source 9
 		target 41
 		label "(Miguel Relvas : Pedro Jesus Marques)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -5466,7 +5466,7 @@ graph
 		source 9
 		target 14
 		label "(Miguel Relvas : João Oliveira)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -5498,7 +5498,7 @@ graph
 		source 9
 		target 38
 		label "(Miguel Relvas : Honório Novo)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -5522,7 +5522,7 @@ graph
 		source 9
 		target 223
 		label "(Miguel Relvas : José Lello)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -5538,7 +5538,7 @@ graph
 		source 9
 		target 39
 		label "(Miguel Relvas : Bruno Dias)"
-		weight 14.0
+		weight -12.0
 	]
 	edge
 	[
@@ -5554,7 +5554,7 @@ graph
 		source 9
 		target 51
 		label "(Miguel Relvas : Catarina Martins)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -5602,7 +5602,7 @@ graph
 		source 9
 		target 15
 		label "(Miguel Relvas : Jerónimo de Sousa)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -5610,7 +5610,7 @@ graph
 		source 9
 		target 45
 		label "(Miguel Relvas : Emídio Guerreiro)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -5618,7 +5618,7 @@ graph
 		source 9
 		target 42
 		label "(Miguel Relvas : Luís Menezes)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -5626,7 +5626,7 @@ graph
 		source 10
 		target 18
 		label "(Pedro Passos Coelho : Adão Silva)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -5634,7 +5634,7 @@ graph
 		source 10
 		target 12
 		label "(Pedro Passos Coelho : Pedro Lynce)"
-		weight 15.0
+		weight -13.0
 	]
 	edge
 	[
@@ -5650,7 +5650,7 @@ graph
 		source 10
 		target 75
 		label "(Pedro Passos Coelho : Carlos Zorrinho)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -5666,7 +5666,7 @@ graph
 		source 10
 		target 41
 		label "(Pedro Passos Coelho : Pedro Jesus Marques)"
-		weight 23.0
+		weight -21.0
 	]
 	edge
 	[
@@ -5674,7 +5674,7 @@ graph
 		source 10
 		target 147
 		label "(Pedro Passos Coelho : João Paulo Pedrosa)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -5682,7 +5682,7 @@ graph
 		source 10
 		target 44
 		label "(Pedro Passos Coelho : Mota Andrade)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -5690,7 +5690,7 @@ graph
 		source 10
 		target 14
 		label "(Pedro Passos Coelho : João Oliveira)"
-		weight 36.0
+		weight -34.0
 	]
 	edge
 	[
@@ -5698,7 +5698,7 @@ graph
 		source 10
 		target 30
 		label "(Pedro Passos Coelho : Rita Rato)"
-		weight 16.0
+		weight -14.0
 	]
 	edge
 	[
@@ -5706,7 +5706,7 @@ graph
 		source 10
 		target 20
 		label "(Pedro Passos Coelho : António Filipe)"
-		weight 21.0
+		weight -19.0
 	]
 	edge
 	[
@@ -5714,7 +5714,7 @@ graph
 		source 10
 		target 104
 		label "(Pedro Passos Coelho : António José Seguro)"
-		weight 54.0
+		weight -52.0
 	]
 	edge
 	[
@@ -5722,7 +5722,7 @@ graph
 		source 10
 		target 84
 		label "(Pedro Passos Coelho : Sónia Fertuzinhos)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -5730,7 +5730,7 @@ graph
 		source 10
 		target 115
 		label "(Pedro Passos Coelho : Manuel Pizarro)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -5738,7 +5738,7 @@ graph
 		source 10
 		target 13
 		label "(Pedro Passos Coelho : João Pinho de Almeida)"
-		weight 17.0
+		weight -15.0
 	]
 	edge
 	[
@@ -5754,7 +5754,7 @@ graph
 		source 10
 		target 11
 		label "(Pedro Passos Coelho : Telmo Correia)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -5770,7 +5770,7 @@ graph
 		source 10
 		target 62
 		label "(Pedro Passos Coelho : António Braga)"
-		weight 8.0
+		weight -6.0
 	]
 	edge
 	[
@@ -5778,7 +5778,7 @@ graph
 		source 10
 		target 16
 		label "(Pedro Passos Coelho : Francisco Louçã)"
-		weight 54.0
+		weight -52.0
 	]
 	edge
 	[
@@ -5786,7 +5786,7 @@ graph
 		source 10
 		target 38
 		label "(Pedro Passos Coelho : Honório Novo)"
-		weight 25.0
+		weight -23.0
 	]
 	edge
 	[
@@ -5810,7 +5810,7 @@ graph
 		source 10
 		target 47
 		label "(Pedro Passos Coelho : Teresa Leal Coelho)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -5826,7 +5826,7 @@ graph
 		source 10
 		target 59
 		label "(Pedro Passos Coelho : Miguel Tiago)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -5834,7 +5834,7 @@ graph
 		source 10
 		target 21
 		label "(Pedro Passos Coelho : Mariana Aiveca)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -5842,7 +5842,7 @@ graph
 		source 10
 		target 127
 		label "(Pedro Passos Coelho : Ana Drago)"
-		weight 9.0
+		weight -7.0
 	]
 	edge
 	[
@@ -5850,7 +5850,7 @@ graph
 		source 10
 		target 39
 		label "(Pedro Passos Coelho : Bruno Dias)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -5866,7 +5866,7 @@ graph
 		source 10
 		target 91
 		label "(Pedro Passos Coelho : Pedro Nuno Santos)"
-		weight 9.0
+		weight -7.0
 	]
 	edge
 	[
@@ -5890,7 +5890,7 @@ graph
 		source 10
 		target 27
 		label "(Pedro Passos Coelho : João Galamba)"
-		weight 37.0
+		weight -35.0
 	]
 	edge
 	[
@@ -5898,7 +5898,7 @@ graph
 		source 10
 		target 108
 		label "(Pedro Passos Coelho : Marcos Perestrello)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -5930,7 +5930,7 @@ graph
 		source 10
 		target 166
 		label "(Pedro Passos Coelho : José Junqueiro)"
-		weight 22.0
+		weight -20.0
 	]
 	edge
 	[
@@ -5938,7 +5938,7 @@ graph
 		source 10
 		target 28
 		label "(Pedro Passos Coelho : Carlos Abreu Amorim)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -5954,7 +5954,7 @@ graph
 		source 10
 		target 15
 		label "(Pedro Passos Coelho : Jerónimo de Sousa)"
-		weight 55.0
+		weight -53.0
 	]
 	edge
 	[
@@ -5962,7 +5962,7 @@ graph
 		source 10
 		target 45
 		label "(Pedro Passos Coelho : Emídio Guerreiro)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -5970,7 +5970,7 @@ graph
 		source 10
 		target 42
 		label "(Pedro Passos Coelho : Luís Menezes)"
-		weight 19.0
+		weight -17.0
 	]
 	edge
 	[
@@ -6002,7 +6002,7 @@ graph
 		source 11
 		target 75
 		label "(Telmo Correia : Carlos Zorrinho)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -6018,7 +6018,7 @@ graph
 		source 11
 		target 14
 		label "(Telmo Correia : João Oliveira)"
-		weight 11.0
+		weight -9.0
 	]
 	edge
 	[
@@ -6034,7 +6034,7 @@ graph
 		source 11
 		target 20
 		label "(Telmo Correia : António Filipe)"
-		weight 16.0
+		weight -14.0
 	]
 	edge
 	[
@@ -6042,7 +6042,7 @@ graph
 		source 11
 		target 30
 		label "(Telmo Correia : Rita Rato)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -6050,7 +6050,7 @@ graph
 		source 11
 		target 13
 		label "(Telmo Correia : João Pinho de Almeida)"
-		weight 10.0
+		weight -4.0
 	]
 	edge
 	[
@@ -6066,7 +6066,7 @@ graph
 		source 11
 		target 62
 		label "(Telmo Correia : António Braga)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -6074,7 +6074,7 @@ graph
 		source 11
 		target 38
 		label "(Telmo Correia : Honório Novo)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -6154,7 +6154,7 @@ graph
 		source 11
 		target 127
 		label "(Telmo Correia : Ana Drago)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -6170,7 +6170,7 @@ graph
 		source 11
 		target 32
 		label "(Telmo Correia : Cecília Honório)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -6178,7 +6178,7 @@ graph
 		source 11
 		target 39
 		label "(Telmo Correia : Bruno Dias)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -6186,7 +6186,7 @@ graph
 		source 11
 		target 29
 		label "(Telmo Correia : Adolfo Mesquita Nunes)"
-		weight 4.0
+		weight 10.0
 	]
 	edge
 	[
@@ -6202,7 +6202,7 @@ graph
 		source 11
 		target 51
 		label "(Telmo Correia : Catarina Martins)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -6218,7 +6218,7 @@ graph
 		source 11
 		target 27
 		label "(Telmo Correia : João Galamba)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -6226,7 +6226,7 @@ graph
 		source 11
 		target 108
 		label "(Telmo Correia : Marcos Perestrello)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -6242,7 +6242,7 @@ graph
 		source 11
 		target 85
 		label "(Telmo Correia : Michael Seufert)"
-		weight 4.0
+		weight 2.0
 	]
 	edge
 	[
@@ -6266,7 +6266,7 @@ graph
 		source 11
 		target 48
 		label "(Telmo Correia : Artur Rêgo)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -6274,7 +6274,7 @@ graph
 		source 11
 		target 166
 		label "(Telmo Correia : José Junqueiro)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -6322,7 +6322,7 @@ graph
 		source 12
 		target 121
 		label "(Pedro Lynce : Francisca Almeida)"
-		weight 6.0
+		weight 16.0
 	]
 	edge
 	[
@@ -6330,7 +6330,7 @@ graph
 		source 12
 		target 57
 		label "(Pedro Lynce : Nuno Crato)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -6354,7 +6354,7 @@ graph
 		source 12
 		target 215
 		label "(Pedro Lynce : Pedro Pimpão)"
-		weight 6.0
+		weight 12.0
 	]
 	edge
 	[
@@ -6394,7 +6394,7 @@ graph
 		source 12
 		target 227
 		label "(Pedro Lynce : Fernando Marques)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -6402,7 +6402,7 @@ graph
 		source 12
 		target 174
 		label "(Pedro Lynce : Isilda Aguincha)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -6418,7 +6418,7 @@ graph
 		source 12
 		target 47
 		label "(Pedro Lynce : Teresa Leal Coelho)"
-		weight 7.0
+		weight -1.0
 	]
 	edge
 	[
@@ -6450,7 +6450,7 @@ graph
 		source 12
 		target 93
 		label "(Pedro Lynce : Adriano Rafael Moreira)"
-		weight 4.0
+		weight 10.0
 	]
 	edge
 	[
@@ -6474,7 +6474,7 @@ graph
 		source 12
 		target 67
 		label "(Pedro Lynce : Agostinho Lopes)"
-		weight 11.0
+		weight -5.0
 	]
 	edge
 	[
@@ -6490,7 +6490,7 @@ graph
 		source 12
 		target 242
 		label "(Pedro Lynce : Ulisses Pereira)"
-		weight 6.0
+		weight 8.0
 	]
 	edge
 	[
@@ -6498,7 +6498,7 @@ graph
 		source 12
 		target 49
 		label "(Pedro Lynce : José de Matos Correia)"
-		weight 3.0
+		weight 7.0
 	]
 	edge
 	[
@@ -6522,7 +6522,7 @@ graph
 		source 12
 		target 199
 		label "(Pedro Lynce : Pedro do Ó Ramos)"
-		weight 6.0
+		weight 4.0
 	]
 	edge
 	[
@@ -6554,7 +6554,7 @@ graph
 		source 12
 		target 18
 		label "(Pedro Lynce : Adão Silva)"
-		weight 8.0
+		weight 10.0
 	]
 	edge
 	[
@@ -6570,7 +6570,7 @@ graph
 		source 12
 		target 217
 		label "(Pedro Lynce : Rosa Arezes)"
-		weight 3.0
+		weight 7.0
 	]
 	edge
 	[
@@ -6578,7 +6578,7 @@ graph
 		source 12
 		target 82
 		label "(Pedro Lynce : Miguel Freitas)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -6586,7 +6586,7 @@ graph
 		source 12
 		target 14
 		label "(Pedro Lynce : João Oliveira)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -6602,7 +6602,7 @@ graph
 		source 12
 		target 161
 		label "(Pedro Lynce : Miguel Santos)"
-		weight 5.0
+		weight 13.0
 	]
 	edge
 	[
@@ -6610,7 +6610,7 @@ graph
 		source 12
 		target 237
 		label "(Pedro Lynce : Miguel Morais Leitão)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -6618,7 +6618,7 @@ graph
 		source 12
 		target 107
 		label "(Pedro Lynce : António Leitão Amaro)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -6642,7 +6642,7 @@ graph
 		source 12
 		target 261
 		label "(Pedro Lynce : Maria José Moreno)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -6650,7 +6650,7 @@ graph
 		source 12
 		target 81
 		label "(Pedro Lynce : Nuno Serra)"
-		weight 3.0
+		weight 7.0
 	]
 	edge
 	[
@@ -6666,7 +6666,7 @@ graph
 		source 12
 		target 43
 		label "(Pedro Lynce : Basílio Horta)"
-		weight 5.0
+		weight 1.0
 	]
 	edge
 	[
@@ -6674,7 +6674,7 @@ graph
 		source 12
 		target 252
 		label "(Pedro Lynce : Assunção Cristas)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -6682,7 +6682,7 @@ graph
 		source 12
 		target 69
 		label "(Pedro Lynce : Paulo Batista Santos)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -6690,7 +6690,7 @@ graph
 		source 12
 		target 28
 		label "(Pedro Lynce : Carlos Abreu Amorim)"
-		weight 3.0
+		weight 7.0
 	]
 	edge
 	[
@@ -6698,7 +6698,7 @@ graph
 		source 12
 		target 83
 		label "(Pedro Lynce : Fernando Virgílio Macedo)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -6738,7 +6738,7 @@ graph
 		source 13
 		target 41
 		label "(João Pinho de Almeida : Pedro Jesus Marques)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -6746,7 +6746,7 @@ graph
 		source 13
 		target 135
 		label "(João Pinho de Almeida : Rui Paulo Figueiredo)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -6762,7 +6762,7 @@ graph
 		source 13
 		target 205
 		label "(João Pinho de Almeida : Gabriela Canavilhas)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -6770,7 +6770,7 @@ graph
 		source 13
 		target 20
 		label "(João Pinho de Almeida : António Filipe)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -6794,7 +6794,7 @@ graph
 		source 13
 		target 19
 		label "(João Pinho de Almeida : Teresa Caeiro)"
-		weight 10.0
+		weight 16.0
 	]
 	edge
 	[
@@ -6802,7 +6802,7 @@ graph
 		source 13
 		target 38
 		label "(João Pinho de Almeida : Honório Novo)"
-		weight 23.0
+		weight -17.0
 	]
 	edge
 	[
@@ -6810,7 +6810,7 @@ graph
 		source 13
 		target 174
 		label "(João Pinho de Almeida : Isilda Aguincha)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -6826,7 +6826,7 @@ graph
 		source 13
 		target 177
 		label "(João Pinho de Almeida : Isabel Santos)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -6834,7 +6834,7 @@ graph
 		source 13
 		target 70
 		label "(João Pinho de Almeida : Hortense Martins)"
-		weight 8.0
+		weight -2.0
 	]
 	edge
 	[
@@ -6858,7 +6858,7 @@ graph
 		source 13
 		target 85
 		label "(João Pinho de Almeida : Michael Seufert)"
-		weight 27.0
+		weight 3.0
 	]
 	edge
 	[
@@ -6866,7 +6866,7 @@ graph
 		source 13
 		target 36
 		label "(João Pinho de Almeida : Pedro Filipe Soares)"
-		weight 21.0
+		weight -15.0
 	]
 	edge
 	[
@@ -6874,7 +6874,7 @@ graph
 		source 13
 		target 224
 		label "(João Pinho de Almeida : Glória Araújo)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -6890,7 +6890,7 @@ graph
 		source 13
 		target 37
 		label "(João Pinho de Almeida : Duarte Pacheco)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -6906,7 +6906,7 @@ graph
 		source 13
 		target 229
 		label "(João Pinho de Almeida : Jacinto Serrão)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -6914,7 +6914,7 @@ graph
 		source 13
 		target 54
 		label "(João Pinho de Almeida : Jorge Machado)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -6922,7 +6922,7 @@ graph
 		source 13
 		target 40
 		label "(João Pinho de Almeida : João Semedo)"
-		weight 17.0
+		weight -15.0
 	]
 	edge
 	[
@@ -6930,7 +6930,7 @@ graph
 		source 13
 		target 34
 		label "(João Pinho de Almeida : José Luís Ferreira)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -6938,7 +6938,7 @@ graph
 		source 13
 		target 14
 		label "(João Pinho de Almeida : João Oliveira)"
-		weight 14.0
+		weight -12.0
 	]
 	edge
 	[
@@ -6946,7 +6946,7 @@ graph
 		source 13
 		target 30
 		label "(João Pinho de Almeida : Rita Rato)"
-		weight 14.0
+		weight -12.0
 	]
 	edge
 	[
@@ -6954,7 +6954,7 @@ graph
 		source 13
 		target 104
 		label "(João Pinho de Almeida : António José Seguro)"
-		weight 13.0
+		weight -11.0
 	]
 	edge
 	[
@@ -6970,7 +6970,7 @@ graph
 		source 13
 		target 62
 		label "(João Pinho de Almeida : António Braga)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -6994,7 +6994,7 @@ graph
 		source 13
 		target 59
 		label "(João Pinho de Almeida : Miguel Tiago)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -7002,7 +7002,7 @@ graph
 		source 13
 		target 137
 		label "(João Pinho de Almeida : João Paulo Viegas)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -7010,7 +7010,7 @@ graph
 		source 13
 		target 127
 		label "(João Pinho de Almeida : Ana Drago)"
-		weight 9.0
+		weight -3.0
 	]
 	edge
 	[
@@ -7018,7 +7018,7 @@ graph
 		source 13
 		target 165
 		label "(João Pinho de Almeida : António Serrano)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -7026,7 +7026,7 @@ graph
 		source 13
 		target 99
 		label "(João Pinho de Almeida : Paula Santos)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -7034,7 +7034,7 @@ graph
 		source 13
 		target 51
 		label "(João Pinho de Almeida : Catarina Martins)"
-		weight 13.0
+		weight -11.0
 	]
 	edge
 	[
@@ -7058,7 +7058,7 @@ graph
 		source 13
 		target 130
 		label "(João Pinho de Almeida : Raúl de Almeida)"
-		weight 6.0
+		weight 12.0
 	]
 	edge
 	[
@@ -7066,7 +7066,7 @@ graph
 		source 13
 		target 52
 		label "(João Pinho de Almeida : Miguel Laranjeiro)"
-		weight 15.0
+		weight -13.0
 	]
 	edge
 	[
@@ -7106,7 +7106,7 @@ graph
 		source 13
 		target 166
 		label "(João Pinho de Almeida : José Junqueiro)"
-		weight 18.0
+		weight -16.0
 	]
 	edge
 	[
@@ -7114,7 +7114,7 @@ graph
 		source 13
 		target 244
 		label "(João Pinho de Almeida : Helena André)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -7122,7 +7122,7 @@ graph
 		source 13
 		target 139
 		label "(João Pinho de Almeida : Mendes Bota)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -7130,7 +7130,7 @@ graph
 		source 13
 		target 116
 		label "(João Pinho de Almeida : José Ribeiro e Castro)"
-		weight 3.0
+		weight 7.0
 	]
 	edge
 	[
@@ -7138,7 +7138,7 @@ graph
 		source 13
 		target 75
 		label "(João Pinho de Almeida : Carlos Zorrinho)"
-		weight 10.0
+		weight -4.0
 	]
 	edge
 	[
@@ -7146,7 +7146,7 @@ graph
 		source 13
 		target 60
 		label "(João Pinho de Almeida : José Manuel Rodrigues)"
-		weight 5.0
+		weight 13.0
 	]
 	edge
 	[
@@ -7162,7 +7162,7 @@ graph
 		source 13
 		target 44
 		label "(João Pinho de Almeida : Mota Andrade)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -7178,7 +7178,7 @@ graph
 		source 13
 		target 72
 		label "(João Pinho de Almeida : Paulo Sá)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -7186,7 +7186,7 @@ graph
 		source 13
 		target 84
 		label "(João Pinho de Almeida : Sónia Fertuzinhos)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -7226,7 +7226,7 @@ graph
 		source 13
 		target 16
 		label "(João Pinho de Almeida : Francisco Louçã)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -7242,7 +7242,7 @@ graph
 		source 13
 		target 131
 		label "(João Pinho de Almeida : Inês Teotónio Pereira)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -7258,7 +7258,7 @@ graph
 		source 13
 		target 68
 		label "(João Pinho de Almeida : Cristóvão Crespo)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -7266,7 +7266,7 @@ graph
 		source 13
 		target 21
 		label "(João Pinho de Almeida : Mariana Aiveca)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -7274,7 +7274,7 @@ graph
 		source 13
 		target 39
 		label "(João Pinho de Almeida : Bruno Dias)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -7290,7 +7290,7 @@ graph
 		source 13
 		target 32
 		label "(João Pinho de Almeida : Cecília Honório)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -7298,7 +7298,7 @@ graph
 		source 13
 		target 91
 		label "(João Pinho de Almeida : Pedro Nuno Santos)"
-		weight 18.0
+		weight -16.0
 	]
 	edge
 	[
@@ -7306,7 +7306,7 @@ graph
 		source 13
 		target 27
 		label "(João Pinho de Almeida : João Galamba)"
-		weight 12.0
+		weight -10.0
 	]
 	edge
 	[
@@ -7314,7 +7314,7 @@ graph
 		source 13
 		target 24
 		label "(João Pinho de Almeida : Abel Baptista)"
-		weight 4.0
+		weight 6.0
 	]
 	edge
 	[
@@ -7322,7 +7322,7 @@ graph
 		source 13
 		target 48
 		label "(João Pinho de Almeida : Artur Rêgo)"
-		weight 15.0
+		weight 23.0
 	]
 	edge
 	[
@@ -7330,7 +7330,7 @@ graph
 		source 13
 		target 67
 		label "(João Pinho de Almeida : Agostinho Lopes)"
-		weight 8.0
+		weight -6.0
 	]
 	edge
 	[
@@ -7338,7 +7338,7 @@ graph
 		source 13
 		target 184
 		label "(João Pinho de Almeida : Isabel Alves Moreira)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -7346,7 +7346,7 @@ graph
 		source 13
 		target 18
 		label "(João Pinho de Almeida : Adão Silva)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -7354,7 +7354,7 @@ graph
 		source 13
 		target 124
 		label "(João Pinho de Almeida : Teresa Anjinho)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -7362,7 +7362,7 @@ graph
 		source 13
 		target 82
 		label "(João Pinho de Almeida : Miguel Freitas)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -7386,7 +7386,7 @@ graph
 		source 13
 		target 269
 		label "(João Pinho de Almeida : Pedro Silva Pereira)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -7394,7 +7394,7 @@ graph
 		source 13
 		target 140
 		label "(João Pinho de Almeida : Rui Jorge Santos)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -7426,7 +7426,7 @@ graph
 		source 13
 		target 151
 		label "(João Pinho de Almeida : Paulo Campos)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -7434,7 +7434,7 @@ graph
 		source 13
 		target 29
 		label "(João Pinho de Almeida : Adolfo Mesquita Nunes)"
-		weight 11.0
+		weight 19.0
 	]
 	edge
 	[
@@ -7442,7 +7442,7 @@ graph
 		source 13
 		target 81
 		label "(João Pinho de Almeida : Nuno Serra)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -7450,7 +7450,7 @@ graph
 		source 13
 		target 149
 		label "(João Pinho de Almeida : João Soares)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -7474,7 +7474,7 @@ graph
 		source 13
 		target 133
 		label "(João Pinho de Almeida : Vera Rodrigues)"
-		weight 9.0
+		weight 25.0
 	]
 	edge
 	[
@@ -7482,7 +7482,7 @@ graph
 		source 13
 		target 15
 		label "(João Pinho de Almeida : Jerónimo de Sousa)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -7498,7 +7498,7 @@ graph
 		source 13
 		target 53
 		label "(João Pinho de Almeida : Hélder Amaral)"
-		weight 44.0
+		weight 38.0
 	]
 	edge
 	[
@@ -7506,7 +7506,7 @@ graph
 		source 13
 		target 42
 		label "(João Pinho de Almeida : Luís Menezes)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -7546,7 +7546,7 @@ graph
 		source 14
 		target 20
 		label "(João Oliveira : António Filipe)"
-		weight 15.0
+		weight 7.0
 	]
 	edge
 	[
@@ -7562,7 +7562,7 @@ graph
 		source 14
 		target 121
 		label "(João Oliveira : Francisca Almeida)"
-		weight 8.0
+		weight -6.0
 	]
 	edge
 	[
@@ -7570,7 +7570,7 @@ graph
 		source 14
 		target 19
 		label "(João Oliveira : Teresa Caeiro)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -7578,7 +7578,7 @@ graph
 		source 14
 		target 86
 		label "(João Oliveira : Nuno Reis)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -7586,7 +7586,7 @@ graph
 		source 14
 		target 38
 		label "(João Oliveira : Honório Novo)"
-		weight 19.0
+		weight 7.0
 	]
 	edge
 	[
@@ -7610,7 +7610,7 @@ graph
 		source 14
 		target 93
 		label "(João Oliveira : Adriano Rafael Moreira)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -7618,7 +7618,7 @@ graph
 		source 14
 		target 85
 		label "(João Oliveira : Michael Seufert)"
-		weight 13.0
+		weight -11.0
 	]
 	edge
 	[
@@ -7642,7 +7642,7 @@ graph
 		source 14
 		target 109
 		label "(João Oliveira : Elsa Cordeiro)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -7666,7 +7666,7 @@ graph
 		source 14
 		target 37
 		label "(João Oliveira : Duarte Pacheco)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -7682,7 +7682,7 @@ graph
 		source 14
 		target 54
 		label "(João Oliveira : Jorge Machado)"
-		weight 10.0
+		weight 0.0
 	]
 	edge
 	[
@@ -7690,7 +7690,7 @@ graph
 		source 14
 		target 202
 		label "(João Oliveira : Pedro Saraiva)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -7706,7 +7706,7 @@ graph
 		source 14
 		target 34
 		label "(João Oliveira : José Luís Ferreira)"
-		weight 16.0
+		weight 18.0
 	]
 	edge
 	[
@@ -7714,7 +7714,7 @@ graph
 		source 14
 		target 245
 		label "(João Oliveira : Carlos Alberto Gonçalves)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -7730,7 +7730,7 @@ graph
 		source 14
 		target 30
 		label "(João Oliveira : Rita Rato)"
-		weight 44.0
+		weight -18.0
 	]
 	edge
 	[
@@ -7738,7 +7738,7 @@ graph
 		source 14
 		target 26
 		label "(João Oliveira : Hugo Velosa)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -7754,7 +7754,7 @@ graph
 		source 14
 		target 107
 		label "(João Oliveira : António Leitão Amaro)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -7770,7 +7770,7 @@ graph
 		source 14
 		target 142
 		label "(João Oliveira : Paulo Simões Júlio)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -7778,7 +7778,7 @@ graph
 		source 14
 		target 209
 		label "(João Oliveira : Luís Morais Sarmento)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -7786,7 +7786,7 @@ graph
 		source 14
 		target 222
 		label "(João Oliveira : Pedro Pinto)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -7802,7 +7802,7 @@ graph
 		source 14
 		target 59
 		label "(João Oliveira : Miguel Tiago)"
-		weight 29.0
+		weight 13.0
 	]
 	edge
 	[
@@ -7810,7 +7810,7 @@ graph
 		source 14
 		target 55
 		label "(João Oliveira : Maria das Mercês Soares)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -7818,7 +7818,7 @@ graph
 		source 14
 		target 127
 		label "(João Oliveira : Ana Drago)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -7826,7 +7826,7 @@ graph
 		source 14
 		target 99
 		label "(João Oliveira : Paula Santos)"
-		weight 19.0
+		weight 3.0
 	]
 	edge
 	[
@@ -7834,7 +7834,7 @@ graph
 		source 14
 		target 51
 		label "(João Oliveira : Catarina Martins)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -7842,7 +7842,7 @@ graph
 		source 14
 		target 130
 		label "(João Oliveira : Raúl de Almeida)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -7850,7 +7850,7 @@ graph
 		source 14
 		target 52
 		label "(João Oliveira : Miguel Laranjeiro)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -7858,7 +7858,7 @@ graph
 		source 14
 		target 71
 		label "(João Oliveira : Fernando Medina)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -7866,7 +7866,7 @@ graph
 		source 14
 		target 43
 		label "(João Oliveira : Basílio Horta)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -7890,7 +7890,7 @@ graph
 		source 14
 		target 28
 		label "(João Oliveira : Carlos Abreu Amorim)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -7898,7 +7898,7 @@ graph
 		source 14
 		target 166
 		label "(João Oliveira : José Junqueiro)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -7906,7 +7906,7 @@ graph
 		source 14
 		target 65
 		label "(João Oliveira : Couto dos Santos)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -7914,7 +7914,7 @@ graph
 		source 14
 		target 139
 		label "(João Oliveira : Mendes Bota)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -7938,7 +7938,7 @@ graph
 		source 14
 		target 75
 		label "(João Oliveira : Carlos Zorrinho)"
-		weight 15.0
+		weight -13.0
 	]
 	edge
 	[
@@ -7946,7 +7946,7 @@ graph
 		source 14
 		target 72
 		label "(João Oliveira : Paulo Sá)"
-		weight 8.0
+		weight 6.0
 	]
 	edge
 	[
@@ -7962,7 +7962,7 @@ graph
 		source 14
 		target 57
 		label "(João Oliveira : Nuno Crato)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -7970,7 +7970,7 @@ graph
 		source 14
 		target 84
 		label "(João Oliveira : Sónia Fertuzinhos)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -7978,7 +7978,7 @@ graph
 		source 14
 		target 31
 		label "(João Oliveira : Duarte Filipe Marques)"
-		weight 13.0
+		weight -11.0
 	]
 	edge
 	[
@@ -7986,7 +7986,7 @@ graph
 		source 14
 		target 101
 		label "(João Oliveira : Luís Vales)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -8002,7 +8002,7 @@ graph
 		source 14
 		target 144
 		label "(João Oliveira : Paulo Núncio)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -8010,7 +8010,7 @@ graph
 		source 14
 		target 131
 		label "(João Oliveira : Inês Teotónio Pereira)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -8018,7 +8018,7 @@ graph
 		source 14
 		target 35
 		label "(João Oliveira : Vítor Gaspar)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -8050,7 +8050,7 @@ graph
 		source 14
 		target 102
 		label "(João Oliveira : Pedro Silva Martins)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -8058,7 +8058,7 @@ graph
 		source 14
 		target 39
 		label "(João Oliveira : Bruno Dias)"
-		weight 12.0
+		weight -6.0
 	]
 	edge
 	[
@@ -8074,7 +8074,7 @@ graph
 		source 14
 		target 89
 		label "(João Oliveira : Cláudia Monteiro de Aguiar)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -8082,7 +8082,7 @@ graph
 		source 14
 		target 207
 		label "(João Oliveira : Álvaro Santos Pereira)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -8098,7 +8098,7 @@ graph
 		source 14
 		target 24
 		label "(João Oliveira : Abel Baptista)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -8106,7 +8106,7 @@ graph
 		source 14
 		target 48
 		label "(João Oliveira : Artur Rêgo)"
-		weight 9.0
+		weight -7.0
 	]
 	edge
 	[
@@ -8114,7 +8114,7 @@ graph
 		source 14
 		target 67
 		label "(João Oliveira : Agostinho Lopes)"
-		weight 21.0
+		weight 13.0
 	]
 	edge
 	[
@@ -8130,7 +8130,7 @@ graph
 		source 14
 		target 132
 		label "(João Oliveira : Mário Ruivo)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -8138,7 +8138,7 @@ graph
 		source 14
 		target 18
 		label "(João Oliveira : Adão Silva)"
-		weight 10.0
+		weight -8.0
 	]
 	edge
 	[
@@ -8162,7 +8162,7 @@ graph
 		source 14
 		target 82
 		label "(João Oliveira : Miguel Freitas)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -8170,7 +8170,7 @@ graph
 		source 14
 		target 230
 		label "(João Oliveira : Nuno Encarnação)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -8186,7 +8186,7 @@ graph
 		source 14
 		target 269
 		label "(João Oliveira : Pedro Silva Pereira)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -8202,7 +8202,7 @@ graph
 		source 14
 		target 61
 		label "(João Oliveira : Francisco Lopes)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -8210,7 +8210,7 @@ graph
 		source 14
 		target 140
 		label "(João Oliveira : Rui Jorge Santos)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -8226,7 +8226,7 @@ graph
 		source 14
 		target 46
 		label "(João Oliveira : Paula Teixeira da Cruz)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -8234,7 +8234,7 @@ graph
 		source 14
 		target 50
 		label "(João Oliveira : Pedro Delgado Alves)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -8242,7 +8242,7 @@ graph
 		source 14
 		target 95
 		label "(João Oliveira : Amadeu Soares Albergaria)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -8250,7 +8250,7 @@ graph
 		source 14
 		target 134
 		label "(João Oliveira : João Ramos)"
-		weight 4.0
+		weight 2.0
 	]
 	edge
 	[
@@ -8258,7 +8258,7 @@ graph
 		source 14
 		target 126
 		label "(João Oliveira : Nilza de Sena)"
-		weight 10.0
+		weight -8.0
 	]
 	edge
 	[
@@ -8266,7 +8266,7 @@ graph
 		source 14
 		target 63
 		label "(João Oliveira : Paulo Portas)"
-		weight 9.0
+		weight -7.0
 	]
 	edge
 	[
@@ -8274,7 +8274,7 @@ graph
 		source 14
 		target 29
 		label "(João Oliveira : Adolfo Mesquita Nunes)"
-		weight 8.0
+		weight -6.0
 	]
 	edge
 	[
@@ -8290,7 +8290,7 @@ graph
 		source 14
 		target 81
 		label "(João Oliveira : Nuno Serra)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -8298,7 +8298,7 @@ graph
 		source 14
 		target 136
 		label "(João Oliveira : Mário Simões)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -8306,7 +8306,7 @@ graph
 		source 14
 		target 193
 		label "(João Oliveira : António Prôa)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -8314,7 +8314,7 @@ graph
 		source 14
 		target 69
 		label "(João Oliveira : Paulo Batista Santos)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -8338,7 +8338,7 @@ graph
 		source 14
 		target 15
 		label "(João Oliveira : Jerónimo de Sousa)"
-		weight 15.0
+		weight 11.0
 	]
 	edge
 	[
@@ -8370,7 +8370,7 @@ graph
 		source 14
 		target 53
 		label "(João Oliveira : Hélder Amaral)"
-		weight 15.0
+		weight -13.0
 	]
 	edge
 	[
@@ -8378,7 +8378,7 @@ graph
 		source 14
 		target 42
 		label "(João Oliveira : Luís Menezes)"
-		weight 8.0
+		weight -6.0
 	]
 	edge
 	[
@@ -8386,7 +8386,7 @@ graph
 		source 15
 		target 54
 		label "(Jerónimo de Sousa : Jorge Machado)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -8418,7 +8418,7 @@ graph
 		source 15
 		target 230
 		label "(Jerónimo de Sousa : Nuno Encarnação)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -8434,7 +8434,7 @@ graph
 		source 15
 		target 20
 		label "(Jerónimo de Sousa : António Filipe)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -8442,7 +8442,7 @@ graph
 		source 15
 		target 30
 		label "(Jerónimo de Sousa : Rita Rato)"
-		weight 13.0
+		weight -11.0
 	]
 	edge
 	[
@@ -8466,7 +8466,7 @@ graph
 		source 15
 		target 19
 		label "(Jerónimo de Sousa : Teresa Caeiro)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -8474,7 +8474,7 @@ graph
 		source 15
 		target 144
 		label "(Jerónimo de Sousa : Paulo Núncio)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -8490,7 +8490,7 @@ graph
 		source 15
 		target 61
 		label "(Jerónimo de Sousa : Francisco Lopes)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -8498,7 +8498,7 @@ graph
 		source 15
 		target 142
 		label "(Jerónimo de Sousa : Paulo Simões Júlio)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -8506,7 +8506,7 @@ graph
 		source 15
 		target 38
 		label "(Jerónimo de Sousa : Honório Novo)"
-		weight 9.0
+		weight -3.0
 	]
 	edge
 	[
@@ -8514,7 +8514,7 @@ graph
 		source 15
 		target 35
 		label "(Jerónimo de Sousa : Vítor Gaspar)"
-		weight 12.0
+		weight -10.0
 	]
 	edge
 	[
@@ -8546,7 +8546,7 @@ graph
 		source 15
 		target 63
 		label "(Jerónimo de Sousa : Paulo Portas)"
-		weight 8.0
+		weight -6.0
 	]
 	edge
 	[
@@ -8554,7 +8554,7 @@ graph
 		source 15
 		target 39
 		label "(Jerónimo de Sousa : Bruno Dias)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -8562,7 +8562,7 @@ graph
 		source 15
 		target 29
 		label "(Jerónimo de Sousa : Adolfo Mesquita Nunes)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -8578,7 +8578,7 @@ graph
 		source 15
 		target 207
 		label "(Jerónimo de Sousa : Álvaro Santos Pereira)"
-		weight 15.0
+		weight -13.0
 	]
 	edge
 	[
@@ -8594,7 +8594,7 @@ graph
 		source 15
 		target 108
 		label "(Jerónimo de Sousa : Marcos Perestrello)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -8610,7 +8610,7 @@ graph
 		source 15
 		target 48
 		label "(Jerónimo de Sousa : Artur Rêgo)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -8618,7 +8618,7 @@ graph
 		source 15
 		target 28
 		label "(Jerónimo de Sousa : Carlos Abreu Amorim)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -8626,7 +8626,7 @@ graph
 		source 15
 		target 109
 		label "(Jerónimo de Sousa : Elsa Cordeiro)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -8642,7 +8642,7 @@ graph
 		source 15
 		target 73
 		label "(Jerónimo de Sousa : Carlos Peixoto)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -8658,7 +8658,7 @@ graph
 		source 15
 		target 22
 		label "(Jerónimo de Sousa : Ricardo Rodrigues)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -8666,7 +8666,7 @@ graph
 		source 15
 		target 53
 		label "(Jerónimo de Sousa : Hélder Amaral)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -8674,7 +8674,7 @@ graph
 		source 15
 		target 162
 		label "(Jerónimo de Sousa : Paulo Macedo)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -8698,7 +8698,7 @@ graph
 		source 16
 		target 40
 		label "(Francisco Louçã : João Semedo)"
-		weight 8.0
+		weight 6.0
 	]
 	edge
 	[
@@ -8706,7 +8706,7 @@ graph
 		source 16
 		target 56
 		label "(Francisco Louçã : Sérgio Sousa Pinto)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -8778,7 +8778,7 @@ graph
 		source 16
 		target 35
 		label "(Francisco Louçã : Vítor Gaspar)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -8786,7 +8786,7 @@ graph
 		source 16
 		target 21
 		label "(Francisco Louçã : Mariana Aiveca)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -8794,7 +8794,7 @@ graph
 		source 16
 		target 127
 		label "(Francisco Louçã : Ana Drago)"
-		weight 7.0
+		weight 3.0
 	]
 	edge
 	[
@@ -8802,7 +8802,7 @@ graph
 		source 16
 		target 32
 		label "(Francisco Louçã : Cecília Honório)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -8826,7 +8826,7 @@ graph
 		source 16
 		target 130
 		label "(Francisco Louçã : Raúl de Almeida)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -8842,7 +8842,7 @@ graph
 		source 16
 		target 36
 		label "(Francisco Louçã : Pedro Filipe Soares)"
-		weight 8.0
+		weight 6.0
 	]
 	edge
 	[
@@ -8874,7 +8874,7 @@ graph
 		source 16
 		target 42
 		label "(Francisco Louçã : Luís Menezes)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -8882,7 +8882,7 @@ graph
 		source 17
 		target 59
 		label "(Odete João : Miguel Tiago)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -8890,7 +8890,7 @@ graph
 		source 17
 		target 75
 		label "(Odete João : Carlos Zorrinho)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -8946,7 +8946,7 @@ graph
 		source 17
 		target 85
 		label "(Odete João : Michael Seufert)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -8962,7 +8962,7 @@ graph
 		source 17
 		target 188
 		label "(Odete João : João Casanova de Almeida)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -8970,7 +8970,7 @@ graph
 		source 17
 		target 166
 		label "(Odete João : José Junqueiro)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -8994,7 +8994,7 @@ graph
 		source 17
 		target 45
 		label "(Odete João : Emídio Guerreiro)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -9026,7 +9026,7 @@ graph
 		source 18
 		target 41
 		label "(Adão Silva : Pedro Jesus Marques)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -9042,7 +9042,7 @@ graph
 		source 18
 		target 105
 		label "(Adão Silva : Pedro Roque)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -9050,7 +9050,7 @@ graph
 		source 18
 		target 121
 		label "(Adão Silva : Francisca Almeida)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -9058,7 +9058,7 @@ graph
 		source 18
 		target 84
 		label "(Adão Silva : Sónia Fertuzinhos)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -9090,7 +9090,7 @@ graph
 		source 18
 		target 21
 		label "(Adão Silva : Mariana Aiveca)"
-		weight 12.0
+		weight -10.0
 	]
 	edge
 	[
@@ -9098,7 +9098,7 @@ graph
 		source 18
 		target 70
 		label "(Adão Silva : Hortense Martins)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -9130,7 +9130,7 @@ graph
 		source 18
 		target 23
 		label "(Adão Silva : Miguel Frasquilho)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -9154,7 +9154,7 @@ graph
 		source 18
 		target 27
 		label "(Adão Silva : João Galamba)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -9178,7 +9178,7 @@ graph
 		source 18
 		target 160
 		label "(Adão Silva : Elza Pais)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -9194,7 +9194,7 @@ graph
 		source 18
 		target 168
 		label "(Adão Silva : Maria Paula Cardoso)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -9202,7 +9202,7 @@ graph
 		source 18
 		target 76
 		label "(Adão Silva : António Rodrigues)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -9210,7 +9210,7 @@ graph
 		source 18
 		target 162
 		label "(Adão Silva : Paulo Macedo)"
-		weight 4.0
+		weight 6.0
 	]
 	edge
 	[
@@ -9218,7 +9218,7 @@ graph
 		source 18
 		target 54
 		label "(Adão Silva : Jorge Machado)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -9242,7 +9242,7 @@ graph
 		source 18
 		target 30
 		label "(Adão Silva : Rita Rato)"
-		weight 15.0
+		weight -13.0
 	]
 	edge
 	[
@@ -9266,7 +9266,7 @@ graph
 		source 18
 		target 247
 		label "(Adão Silva : Maria Manuela Tender)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -9274,7 +9274,7 @@ graph
 		source 18
 		target 59
 		label "(Adão Silva : Miguel Tiago)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -9282,7 +9282,7 @@ graph
 		source 18
 		target 55
 		label "(Adão Silva : Maria das Mercês Soares)"
-		weight 23.0
+		weight 15.0
 	]
 	edge
 	[
@@ -9290,7 +9290,7 @@ graph
 		source 18
 		target 126
 		label "(Adão Silva : Nilza de Sena)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -9298,7 +9298,7 @@ graph
 		source 18
 		target 51
 		label "(Adão Silva : Catarina Martins)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -9306,7 +9306,7 @@ graph
 		source 18
 		target 43
 		label "(Adão Silva : Basílio Horta)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -9314,7 +9314,7 @@ graph
 		source 18
 		target 52
 		label "(Adão Silva : Miguel Laranjeiro)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -9354,7 +9354,7 @@ graph
 		source 18
 		target 42
 		label "(Adão Silva : Luís Menezes)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -9362,7 +9362,7 @@ graph
 		source 19
 		target 40
 		label "(Teresa Caeiro : João Semedo)"
-		weight 40.0
+		weight -38.0
 	]
 	edge
 	[
@@ -9370,7 +9370,7 @@ graph
 		source 19
 		target 124
 		label "(Teresa Caeiro : Teresa Anjinho)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -9378,7 +9378,7 @@ graph
 		source 19
 		target 30
 		label "(Teresa Caeiro : Rita Rato)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -9402,7 +9402,7 @@ graph
 		source 19
 		target 25
 		label "(Teresa Caeiro : João Serpa Oliva)"
-		weight 3.0
+		weight 7.0
 	]
 	edge
 	[
@@ -9442,7 +9442,7 @@ graph
 		source 19
 		target 63
 		label "(Teresa Caeiro : Paulo Portas)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -9450,7 +9450,7 @@ graph
 		source 19
 		target 32
 		label "(Teresa Caeiro : Cecília Honório)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -9458,7 +9458,7 @@ graph
 		source 19
 		target 39
 		label "(Teresa Caeiro : Bruno Dias)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -9474,7 +9474,7 @@ graph
 		source 19
 		target 165
 		label "(Teresa Caeiro : António Serrano)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -9482,7 +9482,7 @@ graph
 		source 19
 		target 99
 		label "(Teresa Caeiro : Paula Santos)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -9490,7 +9490,7 @@ graph
 		source 19
 		target 159
 		label "(Teresa Caeiro : Isabel Galriça Neto)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -9538,7 +9538,7 @@ graph
 		source 19
 		target 184
 		label "(Teresa Caeiro : Isabel Alves Moreira)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -9546,7 +9546,7 @@ graph
 		source 19
 		target 183
 		label "(Teresa Caeiro : Maria Antónia Almeida Santos)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -9570,7 +9570,7 @@ graph
 		source 20
 		target 60
 		label "(António Filipe : José Manuel Rodrigues)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -9586,7 +9586,7 @@ graph
 		source 20
 		target 44
 		label "(António Filipe : Mota Andrade)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -9602,7 +9602,7 @@ graph
 		source 20
 		target 121
 		label "(António Filipe : Francisca Almeida)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -9626,7 +9626,7 @@ graph
 		source 20
 		target 38
 		label "(António Filipe : Honório Novo)"
-		weight 5.0
+		weight 1.0
 	]
 	edge
 	[
@@ -9658,7 +9658,7 @@ graph
 		source 20
 		target 39
 		label "(António Filipe : Bruno Dias)"
-		weight 4.0
+		weight 2.0
 	]
 	edge
 	[
@@ -9674,7 +9674,7 @@ graph
 		source 20
 		target 114
 		label "(António Filipe : Guilherme Silva)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -9698,7 +9698,7 @@ graph
 		source 20
 		target 67
 		label "(António Filipe : Agostinho Lopes)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -9714,7 +9714,7 @@ graph
 		source 20
 		target 49
 		label "(António Filipe : José de Matos Correia)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -9722,7 +9722,7 @@ graph
 		source 20
 		target 73
 		label "(António Filipe : Carlos Peixoto)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -9746,7 +9746,7 @@ graph
 		source 20
 		target 269
 		label "(António Filipe : Pedro Silva Pereira)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -9754,7 +9754,7 @@ graph
 		source 20
 		target 30
 		label "(António Filipe : Rita Rato)"
-		weight 10.0
+		weight -8.0
 	]
 	edge
 	[
@@ -9778,7 +9778,7 @@ graph
 		source 20
 		target 222
 		label "(António Filipe : Pedro Pinto)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -9802,7 +9802,7 @@ graph
 		source 20
 		target 134
 		label "(António Filipe : João Ramos)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -9818,7 +9818,7 @@ graph
 		source 20
 		target 63
 		label "(António Filipe : Paulo Portas)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -9842,7 +9842,7 @@ graph
 		source 20
 		target 179
 		label "(António Filipe : Paulo Mota Pinto)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -9850,7 +9850,7 @@ graph
 		source 20
 		target 108
 		label "(António Filipe : Marcos Perestrello)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -9858,7 +9858,7 @@ graph
 		source 20
 		target 69
 		label "(António Filipe : Paulo Batista Santos)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -9866,7 +9866,7 @@ graph
 		source 20
 		target 28
 		label "(António Filipe : Carlos Abreu Amorim)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -9874,7 +9874,7 @@ graph
 		source 20
 		target 139
 		label "(António Filipe : Mendes Bota)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -9890,7 +9890,7 @@ graph
 		source 20
 		target 22
 		label "(António Filipe : Ricardo Rodrigues)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -9898,7 +9898,7 @@ graph
 		source 20
 		target 53
 		label "(António Filipe : Hélder Amaral)"
-		weight 12.0
+		weight -10.0
 	]
 	edge
 	[
@@ -9922,7 +9922,7 @@ graph
 		source 21
 		target 40
 		label "(Mariana Aiveca : João Semedo)"
-		weight 17.0
+		weight -7.0
 	]
 	edge
 	[
@@ -9930,7 +9930,7 @@ graph
 		source 21
 		target 132
 		label "(Mariana Aiveca : Mário Ruivo)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -9954,7 +9954,7 @@ graph
 		source 21
 		target 105
 		label "(Mariana Aiveca : Pedro Roque)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -9962,7 +9962,7 @@ graph
 		source 21
 		target 208
 		label "(Mariana Aiveca : Arménio Santos)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -9970,7 +9970,7 @@ graph
 		source 21
 		target 84
 		label "(Mariana Aiveca : Sónia Fertuzinhos)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -9978,7 +9978,7 @@ graph
 		source 21
 		target 161
 		label "(Mariana Aiveca : Miguel Santos)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -9986,7 +9986,7 @@ graph
 		source 21
 		target 31
 		label "(Mariana Aiveca : Duarte Filipe Marques)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -10002,7 +10002,7 @@ graph
 		source 21
 		target 228
 		label "(Mariana Aiveca : Marco António Costa)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -10018,7 +10018,7 @@ graph
 		source 21
 		target 192
 		label "(Mariana Aiveca : Hélder Rosalino)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -10034,7 +10034,7 @@ graph
 		source 21
 		target 178
 		label "(Mariana Aiveca : João Figueiredo)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -10090,7 +10090,7 @@ graph
 		source 21
 		target 32
 		label "(Mariana Aiveca : Cecília Honório)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -10106,7 +10106,7 @@ graph
 		source 21
 		target 51
 		label "(Mariana Aiveca : Catarina Martins)"
-		weight 4.0
+		weight 2.0
 	]
 	edge
 	[
@@ -10114,7 +10114,7 @@ graph
 		source 21
 		target 207
 		label "(Mariana Aiveca : Álvaro Santos Pereira)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -10122,7 +10122,7 @@ graph
 		source 21
 		target 93
 		label "(Mariana Aiveca : Adriano Rafael Moreira)"
-		weight 13.0
+		weight -3.0
 	]
 	edge
 	[
@@ -10130,7 +10130,7 @@ graph
 		source 21
 		target 130
 		label "(Mariana Aiveca : Raúl de Almeida)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -10162,7 +10162,7 @@ graph
 		source 21
 		target 36
 		label "(Mariana Aiveca : Pedro Filipe Soares)"
-		weight 6.0
+		weight 8.0
 	]
 	edge
 	[
@@ -10170,7 +10170,7 @@ graph
 		source 21
 		target 48
 		label "(Mariana Aiveca : Artur Rêgo)"
-		weight 12.0
+		weight -10.0
 	]
 	edge
 	[
@@ -10178,7 +10178,7 @@ graph
 		source 21
 		target 28
 		label "(Mariana Aiveca : Carlos Abreu Amorim)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -10186,7 +10186,7 @@ graph
 		source 22
 		target 124
 		label "(Ricardo Rodrigues : Teresa Anjinho)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -10242,7 +10242,7 @@ graph
 		source 22
 		target 121
 		label "(Ricardo Rodrigues : Francisca Almeida)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -10258,7 +10258,7 @@ graph
 		source 22
 		target 77
 		label "(Ricardo Rodrigues : Jorge Fão)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -10274,7 +10274,7 @@ graph
 		source 22
 		target 166
 		label "(Ricardo Rodrigues : José Junqueiro)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -10290,7 +10290,7 @@ graph
 		source 23
 		target 41
 		label "(Miguel Frasquilho : Pedro Jesus Marques)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -10298,7 +10298,7 @@ graph
 		source 23
 		target 44
 		label "(Miguel Frasquilho : Mota Andrade)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -10314,7 +10314,7 @@ graph
 		source 23
 		target 91
 		label "(Miguel Frasquilho : Pedro Nuno Santos)"
-		weight 9.0
+		weight -7.0
 	]
 	edge
 	[
@@ -10322,7 +10322,7 @@ graph
 		source 23
 		target 27
 		label "(Miguel Frasquilho : João Galamba)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -10330,7 +10330,7 @@ graph
 		source 23
 		target 36
 		label "(Miguel Frasquilho : Pedro Filipe Soares)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -10338,7 +10338,7 @@ graph
 		source 23
 		target 62
 		label "(Miguel Frasquilho : António Braga)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -10346,7 +10346,7 @@ graph
 		source 23
 		target 38
 		label "(Miguel Frasquilho : Honório Novo)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -10378,7 +10378,7 @@ graph
 		source 24
 		target 82
 		label "(Abel Baptista : Miguel Freitas)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -10394,7 +10394,7 @@ graph
 		source 24
 		target 30
 		label "(Abel Baptista : Rita Rato)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -10402,7 +10402,7 @@ graph
 		source 24
 		target 91
 		label "(Abel Baptista : Pedro Nuno Santos)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -10410,7 +10410,7 @@ graph
 		source 24
 		target 77
 		label "(Abel Baptista : Jorge Fão)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -10418,7 +10418,7 @@ graph
 		source 24
 		target 252
 		label "(Abel Baptista : Assunção Cristas)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -10442,7 +10442,7 @@ graph
 		source 24
 		target 67
 		label "(Abel Baptista : Agostinho Lopes)"
-		weight 19.0
+		weight -17.0
 	]
 	edge
 	[
@@ -10458,7 +10458,7 @@ graph
 		source 24
 		target 38
 		label "(Abel Baptista : Honório Novo)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -10474,7 +10474,7 @@ graph
 		source 24
 		target 74
 		label "(Abel Baptista : Altino Bessa)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -10482,7 +10482,7 @@ graph
 		source 25
 		target 54
 		label "(João Serpa Oliva : Jorge Machado)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -10490,7 +10490,7 @@ graph
 		source 25
 		target 40
 		label "(João Serpa Oliva : João Semedo)"
-		weight 8.0
+		weight -6.0
 	]
 	edge
 	[
@@ -10498,7 +10498,7 @@ graph
 		source 25
 		target 30
 		label "(João Serpa Oliva : Rita Rato)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -10522,7 +10522,7 @@ graph
 		source 25
 		target 115
 		label "(João Serpa Oliva : Manuel Pizarro)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -10538,7 +10538,7 @@ graph
 		source 25
 		target 38
 		label "(João Serpa Oliva : Honório Novo)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -10546,7 +10546,7 @@ graph
 		source 25
 		target 163
 		label "(João Serpa Oliva : Conceição Bessa Ruão)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -10562,7 +10562,7 @@ graph
 		source 25
 		target 74
 		label "(João Serpa Oliva : Altino Bessa)"
-		weight 7.0
+		weight 3.0
 	]
 	edge
 	[
@@ -10610,7 +10610,7 @@ graph
 		source 25
 		target 183
 		label "(João Serpa Oliva : Maria Antónia Almeida Santos)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -10626,7 +10626,7 @@ graph
 		source 26
 		target 40
 		label "(Hugo Velosa : João Semedo)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -10634,7 +10634,7 @@ graph
 		source 26
 		target 51
 		label "(Hugo Velosa : Catarina Martins)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -10642,7 +10642,7 @@ graph
 		source 26
 		target 91
 		label "(Hugo Velosa : Pedro Nuno Santos)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -10650,7 +10650,7 @@ graph
 		source 26
 		target 89
 		label "(Hugo Velosa : Cláudia Monteiro de Aguiar)"
-		weight 3.0
+		weight 7.0
 	]
 	edge
 	[
@@ -10698,7 +10698,7 @@ graph
 		source 26
 		target 38
 		label "(Hugo Velosa : Honório Novo)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -10706,7 +10706,7 @@ graph
 		source 26
 		target 47
 		label "(Hugo Velosa : Teresa Leal Coelho)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -10738,7 +10738,7 @@ graph
 		source 27
 		target 41
 		label "(João Galamba : Pedro Jesus Marques)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -10778,7 +10778,7 @@ graph
 		source 27
 		target 144
 		label "(João Galamba : Paulo Núncio)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -10802,7 +10802,7 @@ graph
 		source 27
 		target 209
 		label "(João Galamba : Luís Morais Sarmento)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -10810,7 +10810,7 @@ graph
 		source 27
 		target 68
 		label "(João Galamba : Cristóvão Crespo)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -10818,7 +10818,7 @@ graph
 		source 27
 		target 35
 		label "(João Galamba : Vítor Gaspar)"
-		weight 10.0
+		weight -8.0
 	]
 	edge
 	[
@@ -10834,7 +10834,7 @@ graph
 		source 27
 		target 29
 		label "(João Galamba : Adolfo Mesquita Nunes)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -10850,7 +10850,7 @@ graph
 		source 27
 		target 91
 		label "(João Galamba : Pedro Nuno Santos)"
-		weight 9.0
+		weight -7.0
 	]
 	edge
 	[
@@ -10858,7 +10858,7 @@ graph
 		source 27
 		target 207
 		label "(João Galamba : Álvaro Santos Pereira)"
-		weight 8.0
+		weight -6.0
 	]
 	edge
 	[
@@ -10882,7 +10882,7 @@ graph
 		source 27
 		target 69
 		label "(João Galamba : Paulo Batista Santos)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -10898,7 +10898,7 @@ graph
 		source 27
 		target 195
 		label "(João Galamba : Luís Campos Ferreira)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -10922,7 +10922,7 @@ graph
 		source 27
 		target 37
 		label "(João Galamba : Duarte Pacheco)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -10938,7 +10938,7 @@ graph
 		source 27
 		target 117
 		label "(João Galamba : Fernando Negrão)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -10946,7 +10946,7 @@ graph
 		source 27
 		target 42
 		label "(João Galamba : Luís Menezes)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -10954,7 +10954,7 @@ graph
 		source 28
 		target 40
 		label "(Carlos Abreu Amorim : João Semedo)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -10986,7 +10986,7 @@ graph
 		source 28
 		target 44
 		label "(Carlos Abreu Amorim : Mota Andrade)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -11002,7 +11002,7 @@ graph
 		source 28
 		target 152
 		label "(Carlos Abreu Amorim : Manuel Meirinho Martins)"
-		weight 3.0
+		weight 7.0
 	]
 	edge
 	[
@@ -11010,7 +11010,7 @@ graph
 		source 28
 		target 104
 		label "(Carlos Abreu Amorim : António José Seguro)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -11018,7 +11018,7 @@ graph
 		source 28
 		target 84
 		label "(Carlos Abreu Amorim : Sónia Fertuzinhos)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -11034,7 +11034,7 @@ graph
 		source 28
 		target 107
 		label "(Carlos Abreu Amorim : António Leitão Amaro)"
-		weight 5.0
+		weight 9.0
 	]
 	edge
 	[
@@ -11042,7 +11042,7 @@ graph
 		source 28
 		target 38
 		label "(Carlos Abreu Amorim : Honório Novo)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -11066,7 +11066,7 @@ graph
 		source 28
 		target 39
 		label "(Carlos Abreu Amorim : Bruno Dias)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -11074,7 +11074,7 @@ graph
 		source 28
 		target 110
 		label "(Carlos Abreu Amorim : Jorge Paulo Oliveira)"
-		weight 4.0
+		weight 10.0
 	]
 	edge
 	[
@@ -11090,7 +11090,7 @@ graph
 		source 28
 		target 51
 		label "(Carlos Abreu Amorim : Catarina Martins)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -11098,7 +11098,7 @@ graph
 		source 28
 		target 91
 		label "(Carlos Abreu Amorim : Pedro Nuno Santos)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -11154,7 +11154,7 @@ graph
 		source 28
 		target 42
 		label "(Carlos Abreu Amorim : Luís Menezes)"
-		weight 6.0
+		weight 8.0
 	]
 	edge
 	[
@@ -11162,7 +11162,7 @@ graph
 		source 29
 		target 40
 		label "(Adolfo Mesquita Nunes : João Semedo)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -11178,7 +11178,7 @@ graph
 		source 29
 		target 30
 		label "(Adolfo Mesquita Nunes : Rita Rato)"
-		weight 8.0
+		weight -6.0
 	]
 	edge
 	[
@@ -11186,7 +11186,7 @@ graph
 		source 29
 		target 84
 		label "(Adolfo Mesquita Nunes : Sónia Fertuzinhos)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -11202,7 +11202,7 @@ graph
 		source 29
 		target 38
 		label "(Adolfo Mesquita Nunes : Honório Novo)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -11250,7 +11250,7 @@ graph
 		source 29
 		target 91
 		label "(Adolfo Mesquita Nunes : Pedro Nuno Santos)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -11258,7 +11258,7 @@ graph
 		source 29
 		target 71
 		label "(Adolfo Mesquita Nunes : Fernando Medina)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -11266,7 +11266,7 @@ graph
 		source 29
 		target 85
 		label "(Adolfo Mesquita Nunes : Michael Seufert)"
-		weight 7.0
+		weight 3.0
 	]
 	edge
 	[
@@ -11274,7 +11274,7 @@ graph
 		source 29
 		target 48
 		label "(Adolfo Mesquita Nunes : Artur Rêgo)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -11282,7 +11282,7 @@ graph
 		source 29
 		target 36
 		label "(Adolfo Mesquita Nunes : Pedro Filipe Soares)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -11322,7 +11322,7 @@ graph
 		source 30
 		target 138
 		label "(Rita Rato : Paulo Cavaleiro)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -11330,7 +11330,7 @@ graph
 		source 30
 		target 243
 		label "(Rita Rato : Sérgio Monteiro)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -11362,7 +11362,7 @@ graph
 		source 30
 		target 215
 		label "(Rita Rato : Pedro Pimpão)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -11378,7 +11378,7 @@ graph
 		source 30
 		target 38
 		label "(Rita Rato : Honório Novo)"
-		weight 16.0
+		weight -6.0
 	]
 	edge
 	[
@@ -11402,7 +11402,7 @@ graph
 		source 30
 		target 176
 		label "(Rita Rato : Emília Santos)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -11418,7 +11418,7 @@ graph
 		source 30
 		target 234
 		label "(Rita Rato : Teresa Santos)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -11442,7 +11442,7 @@ graph
 		source 30
 		target 93
 		label "(Rita Rato : Adriano Rafael Moreira)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -11450,7 +11450,7 @@ graph
 		source 30
 		target 248
 		label "(Rita Rato : Joana Barata Lopes)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -11458,7 +11458,7 @@ graph
 		source 30
 		target 85
 		label "(Rita Rato : Michael Seufert)"
-		weight 12.0
+		weight -10.0
 	]
 	edge
 	[
@@ -11490,7 +11490,7 @@ graph
 		source 30
 		target 162
 		label "(Rita Rato : Paulo Macedo)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -11498,7 +11498,7 @@ graph
 		source 30
 		target 202
 		label "(Rita Rato : Pedro Saraiva)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -11506,7 +11506,7 @@ graph
 		source 30
 		target 54
 		label "(Rita Rato : Jorge Machado)"
-		weight 58.0
+		weight 4.0
 	]
 	edge
 	[
@@ -11522,7 +11522,7 @@ graph
 		source 30
 		target 34
 		label "(Rita Rato : José Luís Ferreira)"
-		weight 17.0
+		weight 21.0
 	]
 	edge
 	[
@@ -11538,7 +11538,7 @@ graph
 		source 30
 		target 107
 		label "(Rita Rato : António Leitão Amaro)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -11554,7 +11554,7 @@ graph
 		source 30
 		target 216
 		label "(Rita Rato : Eduardo Teixeira)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -11562,7 +11562,7 @@ graph
 		source 30
 		target 59
 		label "(Rita Rato : Miguel Tiago)"
-		weight 70.0
+		weight 16.0
 	]
 	edge
 	[
@@ -11570,7 +11570,7 @@ graph
 		source 30
 		target 55
 		label "(Rita Rato : Maria das Mercês Soares)"
-		weight 9.0
+		weight -7.0
 	]
 	edge
 	[
@@ -11594,7 +11594,7 @@ graph
 		source 30
 		target 99
 		label "(Rita Rato : Paula Santos)"
-		weight 34.0
+		weight -12.0
 	]
 	edge
 	[
@@ -11610,7 +11610,7 @@ graph
 		source 30
 		target 130
 		label "(Rita Rato : Raúl de Almeida)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -11634,7 +11634,7 @@ graph
 		source 30
 		target 189
 		label "(Rita Rato : João Filipe Queiró)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -11658,7 +11658,7 @@ graph
 		source 30
 		target 157
 		label "(Rita Rato : Mário Magalhães)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -11682,7 +11682,7 @@ graph
 		source 30
 		target 44
 		label "(Rita Rato : Mota Andrade)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -11698,7 +11698,7 @@ graph
 		source 30
 		target 72
 		label "(Rita Rato : Paulo Sá)"
-		weight 51.0
+		weight 23.0
 	]
 	edge
 	[
@@ -11722,7 +11722,7 @@ graph
 		source 30
 		target 57
 		label "(Rita Rato : Nuno Crato)"
-		weight 9.0
+		weight -7.0
 	]
 	edge
 	[
@@ -11730,7 +11730,7 @@ graph
 		source 30
 		target 31
 		label "(Rita Rato : Duarte Filipe Marques)"
-		weight 10.0
+		weight -8.0
 	]
 	edge
 	[
@@ -11746,7 +11746,7 @@ graph
 		source 30
 		target 131
 		label "(Rita Rato : Inês Teotónio Pereira)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -11762,7 +11762,7 @@ graph
 		source 30
 		target 275
 		label "(Rita Rato : Lurdes Ribeiro)"
-		weight 8.0
+		weight -6.0
 	]
 	edge
 	[
@@ -11778,7 +11778,7 @@ graph
 		source 30
 		target 39
 		label "(Rita Rato : Bruno Dias)"
-		weight 27.0
+		weight 15.0
 	]
 	edge
 	[
@@ -11794,7 +11794,7 @@ graph
 		source 30
 		target 207
 		label "(Rita Rato : Álvaro Santos Pereira)"
-		weight 15.0
+		weight -13.0
 	]
 	edge
 	[
@@ -11802,7 +11802,7 @@ graph
 		source 30
 		target 67
 		label "(Rita Rato : Agostinho Lopes)"
-		weight 29.0
+		weight 1.0
 	]
 	edge
 	[
@@ -11810,7 +11810,7 @@ graph
 		source 30
 		target 48
 		label "(Rita Rato : Artur Rêgo)"
-		weight 19.0
+		weight -17.0
 	]
 	edge
 	[
@@ -11818,7 +11818,7 @@ graph
 		source 30
 		target 212
 		label "(Rita Rato : Fernando Leal da Costa)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -11858,7 +11858,7 @@ graph
 		source 30
 		target 161
 		label "(Rita Rato : Miguel Santos)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -11866,7 +11866,7 @@ graph
 		source 30
 		target 61
 		label "(Rita Rato : Francisco Lopes)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -11882,7 +11882,7 @@ graph
 		source 30
 		target 74
 		label "(Rita Rato : Altino Bessa)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -11898,7 +11898,7 @@ graph
 		source 30
 		target 246
 		label "(Rita Rato : Odete Silva)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -11906,7 +11906,7 @@ graph
 		source 30
 		target 95
 		label "(Rita Rato : Amadeu Soares Albergaria)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -11914,7 +11914,7 @@ graph
 		source 30
 		target 134
 		label "(Rita Rato : João Ramos)"
-		weight 9.0
+		weight 5.0
 	]
 	edge
 	[
@@ -11930,7 +11930,7 @@ graph
 		source 30
 		target 69
 		label "(Rita Rato : Paulo Batista Santos)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -11946,7 +11946,7 @@ graph
 		source 30
 		target 133
 		label "(Rita Rato : Vera Rodrigues)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -11962,7 +11962,7 @@ graph
 		source 30
 		target 45
 		label "(Rita Rato : Emídio Guerreiro)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -11970,7 +11970,7 @@ graph
 		source 30
 		target 53
 		label "(Rita Rato : Hélder Amaral)"
-		weight 20.0
+		weight -18.0
 	]
 	edge
 	[
@@ -11986,7 +11986,7 @@ graph
 		source 31
 		target 59
 		label "(Duarte Filipe Marques : Miguel Tiago)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -11994,7 +11994,7 @@ graph
 		source 31
 		target 127
 		label "(Duarte Filipe Marques : Ana Drago)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -12010,7 +12010,7 @@ graph
 		source 31
 		target 166
 		label "(Duarte Filipe Marques : José Junqueiro)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -12018,7 +12018,7 @@ graph
 		source 31
 		target 45
 		label "(Duarte Filipe Marques : Emídio Guerreiro)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -12026,7 +12026,7 @@ graph
 		source 31
 		target 42
 		label "(Duarte Filipe Marques : Luís Menezes)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -12034,7 +12034,7 @@ graph
 		source 31
 		target 50
 		label "(Duarte Filipe Marques : Pedro Delgado Alves)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -12042,7 +12042,7 @@ graph
 		source 32
 		target 40
 		label "(Cecília Honório : João Semedo)"
-		weight 16.0
+		weight -6.0
 	]
 	edge
 	[
@@ -12066,7 +12066,7 @@ graph
 		source 32
 		target 190
 		label "(Cecília Honório : Hugo Lopes Soares)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -12074,7 +12074,7 @@ graph
 		source 32
 		target 82
 		label "(Cecília Honório : Miguel Freitas)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -12082,7 +12082,7 @@ graph
 		source 32
 		target 197
 		label "(Cecília Honório : Laurentino Dias)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -12098,7 +12098,7 @@ graph
 		source 32
 		target 115
 		label "(Cecília Honório : Manuel Pizarro)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -12114,7 +12114,7 @@ graph
 		source 32
 		target 35
 		label "(Cecília Honório : Vítor Gaspar)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -12122,7 +12122,7 @@ graph
 		source 32
 		target 127
 		label "(Cecília Honório : Ana Drago)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -12138,7 +12138,7 @@ graph
 		source 32
 		target 51
 		label "(Cecília Honório : Catarina Martins)"
-		weight 5.0
+		weight 1.0
 	]
 	edge
 	[
@@ -12162,7 +12162,7 @@ graph
 		source 32
 		target 43
 		label "(Cecília Honório : Basílio Horta)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -12178,7 +12178,7 @@ graph
 		source 32
 		target 48
 		label "(Cecília Honório : Artur Rêgo)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -12186,7 +12186,7 @@ graph
 		source 32
 		target 36
 		label "(Cecília Honório : Pedro Filipe Soares)"
-		weight 8.0
+		weight 14.0
 	]
 	edge
 	[
@@ -12194,7 +12194,7 @@ graph
 		source 32
 		target 232
 		label "(Cecília Honório : Ângela Guerra)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -12218,7 +12218,7 @@ graph
 		source 32
 		target 73
 		label "(Cecília Honório : Carlos Peixoto)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -12234,7 +12234,7 @@ graph
 		source 32
 		target 42
 		label "(Cecília Honório : Luís Menezes)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -12242,7 +12242,7 @@ graph
 		source 34
 		target 54
 		label "(José Luís Ferreira : Jorge Machado)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -12250,7 +12250,7 @@ graph
 		source 34
 		target 59
 		label "(José Luís Ferreira : Miguel Tiago)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -12266,7 +12266,7 @@ graph
 		source 34
 		target 39
 		label "(José Luís Ferreira : Bruno Dias)"
-		weight 17.0
+		weight -15.0
 	]
 	edge
 	[
@@ -12274,7 +12274,7 @@ graph
 		source 34
 		target 99
 		label "(José Luís Ferreira : Paula Santos)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -12306,7 +12306,7 @@ graph
 		source 35
 		target 41
 		label "(Vítor Gaspar : Pedro Jesus Marques)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -12314,7 +12314,7 @@ graph
 		source 35
 		target 72
 		label "(Vítor Gaspar : Paulo Sá)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -12322,7 +12322,7 @@ graph
 		source 35
 		target 84
 		label "(Vítor Gaspar : Sónia Fertuzinhos)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -12330,7 +12330,7 @@ graph
 		source 35
 		target 38
 		label "(Vítor Gaspar : Honório Novo)"
-		weight 47.0
+		weight -45.0
 	]
 	edge
 	[
@@ -12378,7 +12378,7 @@ graph
 		source 35
 		target 108
 		label "(Vítor Gaspar : Marcos Perestrello)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -12418,7 +12418,7 @@ graph
 		source 35
 		target 36
 		label "(Vítor Gaspar : Pedro Filipe Soares)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -12434,7 +12434,7 @@ graph
 		source 36
 		target 40
 		label "(Pedro Filipe Soares : João Semedo)"
-		weight 17.0
+		weight -7.0
 	]
 	edge
 	[
@@ -12474,7 +12474,7 @@ graph
 		source 36
 		target 144
 		label "(Pedro Filipe Soares : Paulo Núncio)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -12490,7 +12490,7 @@ graph
 		source 36
 		target 38
 		label "(Pedro Filipe Soares : Honório Novo)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -12514,7 +12514,7 @@ graph
 		source 36
 		target 131
 		label "(Pedro Filipe Soares : Inês Teotónio Pereira)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -12522,7 +12522,7 @@ graph
 		source 36
 		target 50
 		label "(Pedro Filipe Soares : Pedro Delgado Alves)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -12546,7 +12546,7 @@ graph
 		source 36
 		target 127
 		label "(Pedro Filipe Soares : Ana Drago)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -12570,7 +12570,7 @@ graph
 		source 36
 		target 91
 		label "(Pedro Filipe Soares : Pedro Nuno Santos)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -12594,7 +12594,7 @@ graph
 		source 36
 		target 85
 		label "(Pedro Filipe Soares : Michael Seufert)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -12602,7 +12602,7 @@ graph
 		source 36
 		target 69
 		label "(Pedro Filipe Soares : Paulo Batista Santos)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -12618,7 +12618,7 @@ graph
 		source 36
 		target 232
 		label "(Pedro Filipe Soares : Ângela Guerra)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -12634,7 +12634,7 @@ graph
 		source 36
 		target 133
 		label "(Pedro Filipe Soares : Vera Rodrigues)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -12642,7 +12642,7 @@ graph
 		source 36
 		target 111
 		label "(Pedro Filipe Soares : Carlos Santos Silva)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -12666,7 +12666,7 @@ graph
 		source 36
 		target 42
 		label "(Pedro Filipe Soares : Luís Menezes)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -12706,7 +12706,7 @@ graph
 		source 37
 		target 91
 		label "(Duarte Pacheco : Pedro Nuno Santos)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -12754,7 +12754,7 @@ graph
 		source 37
 		target 45
 		label "(Duarte Pacheco : Emídio Guerreiro)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -12762,7 +12762,7 @@ graph
 		source 37
 		target 42
 		label "(Duarte Pacheco : Luís Menezes)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -12770,7 +12770,7 @@ graph
 		source 38
 		target 75
 		label "(Honório Novo : Carlos Zorrinho)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -12778,7 +12778,7 @@ graph
 		source 38
 		target 60
 		label "(Honório Novo : José Manuel Rodrigues)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -12794,7 +12794,7 @@ graph
 		source 38
 		target 72
 		label "(Honório Novo : Paulo Sá)"
-		weight 16.0
+		weight 18.0
 	]
 	edge
 	[
@@ -12810,7 +12810,7 @@ graph
 		source 38
 		target 144
 		label "(Honório Novo : Paulo Núncio)"
-		weight 13.0
+		weight -11.0
 	]
 	edge
 	[
@@ -12818,7 +12818,7 @@ graph
 		source 38
 		target 68
 		label "(Honório Novo : Cristóvão Crespo)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -12826,7 +12826,7 @@ graph
 		source 38
 		target 238
 		label "(Honório Novo : Francisco de Assis)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -12834,7 +12834,7 @@ graph
 		source 38
 		target 39
 		label "(Honório Novo : Bruno Dias)"
-		weight 10.0
+		weight -4.0
 	]
 	edge
 	[
@@ -12842,7 +12842,7 @@ graph
 		source 38
 		target 91
 		label "(Honório Novo : Pedro Nuno Santos)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -12850,7 +12850,7 @@ graph
 		source 38
 		target 207
 		label "(Honório Novo : Álvaro Santos Pereira)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -12858,7 +12858,7 @@ graph
 		source 38
 		target 85
 		label "(Honório Novo : Michael Seufert)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -12866,7 +12866,7 @@ graph
 		source 38
 		target 67
 		label "(Honório Novo : Agostinho Lopes)"
-		weight 16.0
+		weight 6.0
 	]
 	edge
 	[
@@ -12874,7 +12874,7 @@ graph
 		source 38
 		target 48
 		label "(Honório Novo : Artur Rêgo)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -12882,7 +12882,7 @@ graph
 		source 38
 		target 232
 		label "(Honório Novo : Ângela Guerra)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -12890,7 +12890,7 @@ graph
 		source 38
 		target 49
 		label "(Honório Novo : José de Matos Correia)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -12906,7 +12906,7 @@ graph
 		source 38
 		target 212
 		label "(Honório Novo : Fernando Leal da Costa)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -12914,7 +12914,7 @@ graph
 		source 38
 		target 229
 		label "(Honório Novo : Jacinto Serrão)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -12922,7 +12922,7 @@ graph
 		source 38
 		target 54
 		label "(Honório Novo : Jorge Machado)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -12946,7 +12946,7 @@ graph
 		source 38
 		target 104
 		label "(Honório Novo : António José Seguro)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -12954,7 +12954,7 @@ graph
 		source 38
 		target 161
 		label "(Honório Novo : Miguel Santos)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -12970,7 +12970,7 @@ graph
 		source 38
 		target 61
 		label "(Honório Novo : Francisco Lopes)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -12978,7 +12978,7 @@ graph
 		source 38
 		target 209
 		label "(Honório Novo : Luís Morais Sarmento)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -12986,7 +12986,7 @@ graph
 		source 38
 		target 222
 		label "(Honório Novo : Pedro Pinto)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -12994,7 +12994,7 @@ graph
 		source 38
 		target 59
 		label "(Honório Novo : Miguel Tiago)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -13010,7 +13010,7 @@ graph
 		source 38
 		target 63
 		label "(Honório Novo : Paulo Portas)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -13018,7 +13018,7 @@ graph
 		source 38
 		target 92
 		label "(Honório Novo : Sérgio Silva Monteiro)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -13026,7 +13026,7 @@ graph
 		source 38
 		target 110
 		label "(Honório Novo : Jorge Paulo Oliveira)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -13050,7 +13050,7 @@ graph
 		source 38
 		target 179
 		label "(Honório Novo : Paulo Mota Pinto)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -13074,7 +13074,7 @@ graph
 		source 38
 		target 69
 		label "(Honório Novo : Paulo Batista Santos)"
-		weight 16.0
+		weight -14.0
 	]
 	edge
 	[
@@ -13090,7 +13090,7 @@ graph
 		source 38
 		target 166
 		label "(Honório Novo : José Junqueiro)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -13106,7 +13106,7 @@ graph
 		source 38
 		target 195
 		label "(Honório Novo : Luís Campos Ferreira)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -13114,7 +13114,7 @@ graph
 		source 38
 		target 111
 		label "(Honório Novo : Carlos Santos Silva)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -13122,7 +13122,7 @@ graph
 		source 38
 		target 53
 		label "(Honório Novo : Hélder Amaral)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -13130,7 +13130,7 @@ graph
 		source 38
 		target 42
 		label "(Honório Novo : Luís Menezes)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -13138,7 +13138,7 @@ graph
 		source 39
 		target 135
 		label "(Bruno Dias : Rui Paulo Figueiredo)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -13170,7 +13170,7 @@ graph
 		source 39
 		target 191
 		label "(Bruno Dias : Carla Rodrigues)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -13178,7 +13178,7 @@ graph
 		source 39
 		target 243
 		label "(Bruno Dias : Sérgio Monteiro)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -13186,7 +13186,7 @@ graph
 		source 39
 		target 121
 		label "(Bruno Dias : Francisca Almeida)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -13202,7 +13202,7 @@ graph
 		source 39
 		target 101
 		label "(Bruno Dias : Luís Vales)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -13218,7 +13218,7 @@ graph
 		source 39
 		target 249
 		label "(Bruno Dias : Manuel Pinto de Abreu)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -13242,7 +13242,7 @@ graph
 		source 39
 		target 172
 		label "(Bruno Dias : José Lino Ramos)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -13282,7 +13282,7 @@ graph
 		source 39
 		target 207
 		label "(Bruno Dias : Álvaro Santos Pereira)"
-		weight 14.0
+		weight -12.0
 	]
 	edge
 	[
@@ -13290,7 +13290,7 @@ graph
 		source 39
 		target 93
 		label "(Bruno Dias : Adriano Rafael Moreira)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -13298,7 +13298,7 @@ graph
 		source 39
 		target 67
 		label "(Bruno Dias : Agostinho Lopes)"
-		weight 16.0
+		weight 14.0
 	]
 	edge
 	[
@@ -13306,7 +13306,7 @@ graph
 		source 39
 		target 54
 		label "(Bruno Dias : Jorge Machado)"
-		weight 13.0
+		weight 5.0
 	]
 	edge
 	[
@@ -13314,7 +13314,7 @@ graph
 		source 39
 		target 230
 		label "(Bruno Dias : Nuno Encarnação)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -13354,7 +13354,7 @@ graph
 		source 39
 		target 62
 		label "(Bruno Dias : António Braga)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -13370,7 +13370,7 @@ graph
 		source 39
 		target 74
 		label "(Bruno Dias : Altino Bessa)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -13394,7 +13394,7 @@ graph
 		source 39
 		target 59
 		label "(Bruno Dias : Miguel Tiago)"
-		weight 19.0
+		weight -5.0
 	]
 	edge
 	[
@@ -13402,7 +13402,7 @@ graph
 		source 39
 		target 137
 		label "(Bruno Dias : João Paulo Viegas)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -13426,7 +13426,7 @@ graph
 		source 39
 		target 99
 		label "(Bruno Dias : Paula Santos)"
-		weight 8.0
+		weight 6.0
 	]
 	edge
 	[
@@ -13434,7 +13434,7 @@ graph
 		source 39
 		target 164
 		label "(Bruno Dias : Fernando Jesus)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -13450,7 +13450,7 @@ graph
 		source 39
 		target 130
 		label "(Bruno Dias : Raúl de Almeida)"
-		weight 10.0
+		weight -8.0
 	]
 	edge
 	[
@@ -13466,7 +13466,7 @@ graph
 		source 39
 		target 52
 		label "(Bruno Dias : Miguel Laranjeiro)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -13474,7 +13474,7 @@ graph
 		source 39
 		target 69
 		label "(Bruno Dias : Paulo Batista Santos)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -13498,7 +13498,7 @@ graph
 		source 39
 		target 45
 		label "(Bruno Dias : Emídio Guerreiro)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -13506,7 +13506,7 @@ graph
 		source 39
 		target 53
 		label "(Bruno Dias : Hélder Amaral)"
-		weight 28.0
+		weight -22.0
 	]
 	edge
 	[
@@ -13514,7 +13514,7 @@ graph
 		source 39
 		target 42
 		label "(Bruno Dias : Luís Menezes)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -13530,7 +13530,7 @@ graph
 		source 40
 		target 185
 		label "(João Semedo : Sérgio Azevedo)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -13538,7 +13538,7 @@ graph
 		source 40
 		target 44
 		label "(João Semedo : Mota Andrade)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -13554,7 +13554,7 @@ graph
 		source 40
 		target 115
 		label "(João Semedo : Manuel Pizarro)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -13562,7 +13562,7 @@ graph
 		source 40
 		target 78
 		label "(João Semedo : Carina Oliveira)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -13618,7 +13618,7 @@ graph
 		source 40
 		target 48
 		label "(João Semedo : Artur Rêgo)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -13626,7 +13626,7 @@ graph
 		source 40
 		target 109
 		label "(João Semedo : Elsa Cordeiro)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -13634,7 +13634,7 @@ graph
 		source 40
 		target 183
 		label "(João Semedo : Maria Antónia Almeida Santos)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -13642,7 +13642,7 @@ graph
 		source 40
 		target 212
 		label "(João Semedo : Fernando Leal da Costa)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -13650,7 +13650,7 @@ graph
 		source 40
 		target 162
 		label "(João Semedo : Paulo Macedo)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -13682,7 +13682,7 @@ graph
 		source 40
 		target 161
 		label "(João Semedo : Miguel Santos)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -13698,7 +13698,7 @@ graph
 		source 40
 		target 107
 		label "(João Semedo : António Leitão Amaro)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -13706,7 +13706,7 @@ graph
 		source 40
 		target 80
 		label "(João Semedo : Manuel Isaac)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -13722,7 +13722,7 @@ graph
 		source 40
 		target 210
 		label "(João Semedo : Maria da Conceição Caldeira)"
-		weight 4.0
+		weight 2.0
 	]
 	edge
 	[
@@ -13730,7 +13730,7 @@ graph
 		source 40
 		target 247
 		label "(João Semedo : Maria Manuela Tender)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -13754,7 +13754,7 @@ graph
 		source 40
 		target 127
 		label "(João Semedo : Ana Drago)"
-		weight 13.0
+		weight 5.0
 	]
 	edge
 	[
@@ -13770,7 +13770,7 @@ graph
 		source 40
 		target 51
 		label "(João Semedo : Catarina Martins)"
-		weight 34.0
+		weight 48.0
 	]
 	edge
 	[
@@ -13778,7 +13778,7 @@ graph
 		source 40
 		target 130
 		label "(João Semedo : Raúl de Almeida)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -13802,7 +13802,7 @@ graph
 		source 40
 		target 45
 		label "(João Semedo : Emídio Guerreiro)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -13810,7 +13810,7 @@ graph
 		source 40
 		target 53
 		label "(João Semedo : Hélder Amaral)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -13834,7 +13834,7 @@ graph
 		source 41
 		target 75
 		label "(Pedro Jesus Marques : Carlos Zorrinho)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -13842,7 +13842,7 @@ graph
 		source 41
 		target 104
 		label "(Pedro Jesus Marques : António José Seguro)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -13858,7 +13858,7 @@ graph
 		source 41
 		target 144
 		label "(Pedro Jesus Marques : Paulo Núncio)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -13874,7 +13874,7 @@ graph
 		source 41
 		target 126
 		label "(Pedro Jesus Marques : Nilza de Sena)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -13882,7 +13882,7 @@ graph
 		source 41
 		target 91
 		label "(Pedro Jesus Marques : Pedro Nuno Santos)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -13898,7 +13898,7 @@ graph
 		source 41
 		target 207
 		label "(Pedro Jesus Marques : Álvaro Santos Pereira)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -13922,7 +13922,7 @@ graph
 		source 41
 		target 69
 		label "(Pedro Jesus Marques : Paulo Batista Santos)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -13938,7 +13938,7 @@ graph
 		source 41
 		target 83
 		label "(Pedro Jesus Marques : Fernando Virgílio Macedo)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -13946,7 +13946,7 @@ graph
 		source 41
 		target 133
 		label "(Pedro Jesus Marques : Vera Rodrigues)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -13954,7 +13954,7 @@ graph
 		source 41
 		target 53
 		label "(Pedro Jesus Marques : Hélder Amaral)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -13970,7 +13970,7 @@ graph
 		source 42
 		target 218
 		label "(Luís Menezes : Maria Ester Vargas)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -13978,7 +13978,7 @@ graph
 		source 42
 		target 75
 		label "(Luís Menezes : Carlos Zorrinho)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -13986,7 +13986,7 @@ graph
 		source 42
 		target 190
 		label "(Luís Menezes : Hugo Lopes Soares)"
-		weight 8.0
+		weight 22.0
 	]
 	edge
 	[
@@ -14026,7 +14026,7 @@ graph
 		source 42
 		target 121
 		label "(Luís Menezes : Francisca Almeida)"
-		weight 6.0
+		weight 0.0
 	]
 	edge
 	[
@@ -14042,7 +14042,7 @@ graph
 		source 42
 		target 145
 		label "(Luís Menezes : Nuno Filipe Matias)"
-		weight 3.0
+		weight 7.0
 	]
 	edge
 	[
@@ -14058,7 +14058,7 @@ graph
 		source 42
 		target 91
 		label "(Luís Menezes : Pedro Nuno Santos)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -14066,7 +14066,7 @@ graph
 		source 42
 		target 207
 		label "(Luís Menezes : Álvaro Santos Pereira)"
-		weight 3.0
+		weight 7.0
 	]
 	edge
 	[
@@ -14074,7 +14074,7 @@ graph
 		source 42
 		target 89
 		label "(Luís Menezes : Cláudia Monteiro de Aguiar)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -14090,7 +14090,7 @@ graph
 		source 42
 		target 159
 		label "(Luís Menezes : Isabel Galriça Neto)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -14106,7 +14106,7 @@ graph
 		source 42
 		target 168
 		label "(Luís Menezes : Maria Paula Cardoso)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -14114,7 +14114,7 @@ graph
 		source 42
 		target 49
 		label "(Luís Menezes : José de Matos Correia)"
-		weight 5.0
+		weight 13.0
 	]
 	edge
 	[
@@ -14146,7 +14146,7 @@ graph
 		source 42
 		target 54
 		label "(Luís Menezes : Jorge Machado)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -14154,7 +14154,7 @@ graph
 		source 42
 		target 202
 		label "(Luís Menezes : Pedro Saraiva)"
-		weight 6.0
+		weight 16.0
 	]
 	edge
 	[
@@ -14162,7 +14162,7 @@ graph
 		source 42
 		target 230
 		label "(Luís Menezes : Nuno Encarnação)"
-		weight 5.0
+		weight 13.0
 	]
 	edge
 	[
@@ -14186,7 +14186,7 @@ graph
 		source 42
 		target 104
 		label "(Luís Menezes : António José Seguro)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -14194,7 +14194,7 @@ graph
 		source 42
 		target 161
 		label "(Luís Menezes : Miguel Santos)"
-		weight 4.0
+		weight 10.0
 	]
 	edge
 	[
@@ -14210,7 +14210,7 @@ graph
 		source 42
 		target 107
 		label "(Luís Menezes : António Leitão Amaro)"
-		weight 10.0
+		weight 24.0
 	]
 	edge
 	[
@@ -14234,7 +14234,7 @@ graph
 		source 42
 		target 222
 		label "(Luís Menezes : Pedro Pinto)"
-		weight 3.0
+		weight 7.0
 	]
 	edge
 	[
@@ -14266,7 +14266,7 @@ graph
 		source 42
 		target 59
 		label "(Luís Menezes : Miguel Tiago)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -14282,7 +14282,7 @@ graph
 		source 42
 		target 127
 		label "(Luís Menezes : Ana Drago)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -14298,7 +14298,7 @@ graph
 		source 42
 		target 51
 		label "(Luís Menezes : Catarina Martins)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -14322,7 +14322,7 @@ graph
 		source 42
 		target 43
 		label "(Luís Menezes : Basílio Horta)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -14330,7 +14330,7 @@ graph
 		source 42
 		target 52
 		label "(Luís Menezes : Miguel Laranjeiro)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -14338,7 +14338,7 @@ graph
 		source 42
 		target 69
 		label "(Luís Menezes : Paulo Batista Santos)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -14354,7 +14354,7 @@ graph
 		source 42
 		target 83
 		label "(Luís Menezes : Fernando Virgílio Macedo)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -14362,7 +14362,7 @@ graph
 		source 42
 		target 166
 		label "(Luís Menezes : José Junqueiro)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -14370,7 +14370,7 @@ graph
 		source 42
 		target 139
 		label "(Luís Menezes : Mendes Bota)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -14386,7 +14386,7 @@ graph
 		source 42
 		target 45
 		label "(Luís Menezes : Emídio Guerreiro)"
-		weight 7.0
+		weight 11.0
 	]
 	edge
 	[
@@ -14394,7 +14394,7 @@ graph
 		source 42
 		target 53
 		label "(Luís Menezes : Hélder Amaral)"
-		weight 3.0
+		weight 7.0
 	]
 	edge
 	[
@@ -14410,7 +14410,7 @@ graph
 		source 43
 		target 119
 		label "(Basílio Horta : Ana Paula Vitorino)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -14418,7 +14418,7 @@ graph
 		source 43
 		target 75
 		label "(Basílio Horta : Carlos Zorrinho)"
-		weight 6.0
+		weight 0.0
 	]
 	edge
 	[
@@ -14442,7 +14442,7 @@ graph
 		source 43
 		target 135
 		label "(Basílio Horta : Rui Paulo Figueiredo)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -14450,7 +14450,7 @@ graph
 		source 43
 		target 44
 		label "(Basílio Horta : Mota Andrade)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -14458,7 +14458,7 @@ graph
 		source 43
 		target 104
 		label "(Basílio Horta : António José Seguro)"
-		weight 7.0
+		weight 11.0
 	]
 	edge
 	[
@@ -14474,7 +14474,7 @@ graph
 		source 43
 		target 222
 		label "(Basílio Horta : Pedro Pinto)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -14538,7 +14538,7 @@ graph
 		source 43
 		target 53
 		label "(Basílio Horta : Hélder Amaral)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -14546,7 +14546,7 @@ graph
 		source 44
 		target 75
 		label "(Mota Andrade : Carlos Zorrinho)"
-		weight 8.0
+		weight 6.0
 	]
 	edge
 	[
@@ -14554,7 +14554,7 @@ graph
 		source 44
 		target 147
 		label "(Mota Andrade : João Paulo Pedrosa)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -14562,7 +14562,7 @@ graph
 		source 44
 		target 143
 		label "(Mota Andrade : Pedro Farmhouse)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -14586,7 +14586,7 @@ graph
 		source 44
 		target 152
 		label "(Mota Andrade : Manuel Meirinho Martins)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -14602,7 +14602,7 @@ graph
 		source 44
 		target 125
 		label "(Mota Andrade : Idália Salvador Serrão)"
-		weight 3.0
+		weight 7.0
 	]
 	edge
 	[
@@ -14610,7 +14610,7 @@ graph
 		source 44
 		target 167
 		label "(Mota Andrade : Ramos Preto)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -14626,7 +14626,7 @@ graph
 		source 44
 		target 160
 		label "(Mota Andrade : Elza Pais)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -14634,7 +14634,7 @@ graph
 		source 44
 		target 48
 		label "(Mota Andrade : Artur Rêgo)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -14642,7 +14642,7 @@ graph
 		source 44
 		target 87
 		label "(Mota Andrade : Nuno Sá)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -14666,7 +14666,7 @@ graph
 		source 44
 		target 54
 		label "(Mota Andrade : Jorge Machado)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -14690,7 +14690,7 @@ graph
 		source 44
 		target 104
 		label "(Mota Andrade : António José Seguro)"
-		weight 7.0
+		weight 15.0
 	]
 	edge
 	[
@@ -14714,7 +14714,7 @@ graph
 		source 44
 		target 107
 		label "(Mota Andrade : António Leitão Amaro)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -14722,7 +14722,7 @@ graph
 		source 44
 		target 62
 		label "(Mota Andrade : António Braga)"
-		weight 7.0
+		weight 11.0
 	]
 	edge
 	[
@@ -14730,7 +14730,7 @@ graph
 		source 44
 		target 74
 		label "(Mota Andrade : Altino Bessa)"
-		weight 6.0
+		weight 0.0
 	]
 	edge
 	[
@@ -14770,7 +14770,7 @@ graph
 		source 44
 		target 52
 		label "(Mota Andrade : Miguel Laranjeiro)"
-		weight 4.0
+		weight 6.0
 	]
 	edge
 	[
@@ -14786,7 +14786,7 @@ graph
 		source 44
 		target 166
 		label "(Mota Andrade : José Junqueiro)"
-		weight 5.0
+		weight 9.0
 	]
 	edge
 	[
@@ -14810,7 +14810,7 @@ graph
 		source 44
 		target 139
 		label "(Mota Andrade : Mendes Bota)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -14826,7 +14826,7 @@ graph
 		source 45
 		target 218
 		label "(Emídio Guerreiro : Maria Ester Vargas)"
-		weight 11.0
+		weight 19.0
 	]
 	edge
 	[
@@ -14834,7 +14834,7 @@ graph
 		source 45
 		target 75
 		label "(Emídio Guerreiro : Carlos Zorrinho)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -14850,7 +14850,7 @@ graph
 		source 45
 		target 205
 		label "(Emídio Guerreiro : Gabriela Canavilhas)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -14866,7 +14866,7 @@ graph
 		source 45
 		target 121
 		label "(Emídio Guerreiro : Francisca Almeida)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -14882,7 +14882,7 @@ graph
 		source 45
 		target 215
 		label "(Emídio Guerreiro : Pedro Pimpão)"
-		weight 4.0
+		weight 10.0
 	]
 	edge
 	[
@@ -14890,7 +14890,7 @@ graph
 		source 45
 		target 174
 		label "(Emídio Guerreiro : Isilda Aguincha)"
-		weight 4.0
+		weight 6.0
 	]
 	edge
 	[
@@ -14930,7 +14930,7 @@ graph
 		source 45
 		target 85
 		label "(Emídio Guerreiro : Michael Seufert)"
-		weight 4.0
+		weight 2.0
 	]
 	edge
 	[
@@ -14970,7 +14970,7 @@ graph
 		source 45
 		target 217
 		label "(Emídio Guerreiro : Rosa Arezes)"
-		weight 5.0
+		weight 13.0
 	]
 	edge
 	[
@@ -14994,7 +14994,7 @@ graph
 		source 45
 		target 104
 		label "(Emídio Guerreiro : António José Seguro)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -15018,7 +15018,7 @@ graph
 		source 45
 		target 161
 		label "(Emídio Guerreiro : Miguel Santos)"
-		weight 4.0
+		weight 6.0
 	]
 	edge
 	[
@@ -15034,7 +15034,7 @@ graph
 		source 45
 		target 140
 		label "(Emídio Guerreiro : Rui Jorge Santos)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -15050,7 +15050,7 @@ graph
 		source 45
 		target 50
 		label "(Emídio Guerreiro : Pedro Delgado Alves)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -15066,7 +15066,7 @@ graph
 		source 45
 		target 59
 		label "(Emídio Guerreiro : Miguel Tiago)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -15074,7 +15074,7 @@ graph
 		source 45
 		target 95
 		label "(Emídio Guerreiro : Amadeu Soares Albergaria)"
-		weight 16.0
+		weight 26.0
 	]
 	edge
 	[
@@ -15098,7 +15098,7 @@ graph
 		source 45
 		target 127
 		label "(Emídio Guerreiro : Ana Drago)"
-		weight 16.0
+		weight -10.0
 	]
 	edge
 	[
@@ -15106,7 +15106,7 @@ graph
 		source 45
 		target 81
 		label "(Emídio Guerreiro : Nuno Serra)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -15114,7 +15114,7 @@ graph
 		source 45
 		target 51
 		label "(Emídio Guerreiro : Catarina Martins)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -15122,7 +15122,7 @@ graph
 		source 45
 		target 179
 		label "(Emídio Guerreiro : Paulo Mota Pinto)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -15138,7 +15138,7 @@ graph
 		source 45
 		target 103
 		label "(Emídio Guerreiro : Clara Marques Mendes)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -15146,7 +15146,7 @@ graph
 		source 46
 		target 48
 		label "(Paula Teixeira da Cruz : Artur Rêgo)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -15178,7 +15178,7 @@ graph
 		source 46
 		target 269
 		label "(Paula Teixeira da Cruz : Pedro Silva Pereira)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -15218,7 +15218,7 @@ graph
 		source 47
 		target 173
 		label "(Teresa Leal Coelho : Mónica Ferro)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -15226,7 +15226,7 @@ graph
 		source 47
 		target 240
 		label "(Teresa Leal Coelho : João Lobo)"
-		weight 3.0
+		weight 7.0
 	]
 	edge
 	[
@@ -15250,7 +15250,7 @@ graph
 		source 47
 		target 84
 		label "(Teresa Leal Coelho : Sónia Fertuzinhos)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -15258,7 +15258,7 @@ graph
 		source 47
 		target 161
 		label "(Teresa Leal Coelho : Miguel Santos)"
-		weight 3.0
+		weight 7.0
 	]
 	edge
 	[
@@ -15298,7 +15298,7 @@ graph
 		source 47
 		target 114
 		label "(Teresa Leal Coelho : Guilherme Silva)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -15306,7 +15306,7 @@ graph
 		source 47
 		target 242
 		label "(Teresa Leal Coelho : Ulisses Pereira)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -15314,7 +15314,7 @@ graph
 		source 47
 		target 49
 		label "(Teresa Leal Coelho : José de Matos Correia)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -15330,7 +15330,7 @@ graph
 		source 47
 		target 162
 		label "(Teresa Leal Coelho : Paulo Macedo)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -15346,7 +15346,7 @@ graph
 		source 47
 		target 117
 		label "(Teresa Leal Coelho : Fernando Negrão)"
-		weight 4.0
+		weight 10.0
 	]
 	edge
 	[
@@ -15354,7 +15354,7 @@ graph
 		source 47
 		target 42
 		label "(Teresa Leal Coelho : Luís Menezes)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -15370,7 +15370,7 @@ graph
 		source 48
 		target 147
 		label "(Artur Rêgo : João Paulo Pedrosa)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -15394,7 +15394,7 @@ graph
 		source 48
 		target 72
 		label "(Artur Rêgo : Paulo Sá)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -15402,7 +15402,7 @@ graph
 		source 48
 		target 84
 		label "(Artur Rêgo : Sónia Fertuzinhos)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -15418,7 +15418,7 @@ graph
 		source 48
 		target 228
 		label "(Artur Rêgo : Marco António Costa)"
-		weight 8.0
+		weight 22.0
 	]
 	edge
 	[
@@ -15442,7 +15442,7 @@ graph
 		source 48
 		target 131
 		label "(Artur Rêgo : Inês Teotónio Pereira)"
-		weight 4.0
+		weight 2.0
 	]
 	edge
 	[
@@ -15466,7 +15466,7 @@ graph
 		source 48
 		target 159
 		label "(Artur Rêgo : Isabel Galriça Neto)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -15474,7 +15474,7 @@ graph
 		source 48
 		target 85
 		label "(Artur Rêgo : Michael Seufert)"
-		weight 12.0
+		weight 22.0
 	]
 	edge
 	[
@@ -15490,7 +15490,7 @@ graph
 		source 48
 		target 87
 		label "(Artur Rêgo : Nuno Sá)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -15506,7 +15506,7 @@ graph
 		source 48
 		target 54
 		label "(Artur Rêgo : Jorge Machado)"
-		weight 16.0
+		weight -14.0
 	]
 	edge
 	[
@@ -15522,7 +15522,7 @@ graph
 		source 48
 		target 82
 		label "(Artur Rêgo : Miguel Freitas)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -15538,7 +15538,7 @@ graph
 		source 48
 		target 74
 		label "(Artur Rêgo : Altino Bessa)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -15562,7 +15562,7 @@ graph
 		source 48
 		target 63
 		label "(Artur Rêgo : Paulo Portas)"
-		weight 5.0
+		weight 13.0
 	]
 	edge
 	[
@@ -15570,7 +15570,7 @@ graph
 		source 48
 		target 51
 		label "(Artur Rêgo : Catarina Martins)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -15578,7 +15578,7 @@ graph
 		source 48
 		target 130
 		label "(Artur Rêgo : Raúl de Almeida)"
-		weight 6.0
+		weight 16.0
 	]
 	edge
 	[
@@ -15586,7 +15586,7 @@ graph
 		source 48
 		target 52
 		label "(Artur Rêgo : Miguel Laranjeiro)"
-		weight 7.0
+		weight -1.0
 	]
 	edge
 	[
@@ -15618,7 +15618,7 @@ graph
 		source 48
 		target 244
 		label "(Artur Rêgo : Helena André)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -15626,7 +15626,7 @@ graph
 		source 48
 		target 53
 		label "(Artur Rêgo : Hélder Amaral)"
-		weight 4.0
+		weight 6.0
 	]
 	edge
 	[
@@ -15714,7 +15714,7 @@ graph
 		source 50
 		target 183
 		label "(Pedro Delgado Alves : Maria Antónia Almeida Santos)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -15746,7 +15746,7 @@ graph
 		source 51
 		target 205
 		label "(Catarina Martins : Gabriela Canavilhas)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -15754,7 +15754,7 @@ graph
 		source 51
 		target 243
 		label "(Catarina Martins : Sérgio Monteiro)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -15762,7 +15762,7 @@ graph
 		source 51
 		target 121
 		label "(Catarina Martins : Francisca Almeida)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -15778,7 +15778,7 @@ graph
 		source 51
 		target 198
 		label "(Catarina Martins : Ana Sofia Bettencourt)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -15786,7 +15786,7 @@ graph
 		source 51
 		target 128
 		label "(Catarina Martins : Luís Leite Ramos)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -15794,7 +15794,7 @@ graph
 		source 51
 		target 91
 		label "(Catarina Martins : Pedro Nuno Santos)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -15818,7 +15818,7 @@ graph
 		source 51
 		target 202
 		label "(Catarina Martins : Pedro Saraiva)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -15834,7 +15834,7 @@ graph
 		source 51
 		target 107
 		label "(Catarina Martins : António Leitão Amaro)"
-		weight 12.0
+		weight -10.0
 	]
 	edge
 	[
@@ -15850,7 +15850,7 @@ graph
 		source 51
 		target 222
 		label "(Catarina Martins : Pedro Pinto)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -15866,7 +15866,7 @@ graph
 		source 51
 		target 95
 		label "(Catarina Martins : Amadeu Soares Albergaria)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -15882,7 +15882,7 @@ graph
 		source 51
 		target 127
 		label "(Catarina Martins : Ana Drago)"
-		weight 14.0
+		weight -8.0
 	]
 	edge
 	[
@@ -15914,7 +15914,7 @@ graph
 		source 51
 		target 130
 		label "(Catarina Martins : Raúl de Almeida)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -15922,7 +15922,7 @@ graph
 		source 51
 		target 252
 		label "(Catarina Martins : Assunção Cristas)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -15938,7 +15938,7 @@ graph
 		source 51
 		target 195
 		label "(Catarina Martins : Luís Campos Ferreira)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -15954,7 +15954,7 @@ graph
 		source 51
 		target 53
 		label "(Catarina Martins : Hélder Amaral)"
-		weight 13.0
+		weight -11.0
 	]
 	edge
 	[
@@ -15962,7 +15962,7 @@ graph
 		source 52
 		target 54
 		label "(Miguel Laranjeiro : Jorge Machado)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -15994,7 +15994,7 @@ graph
 		source 52
 		target 166
 		label "(Miguel Laranjeiro : José Junqueiro)"
-		weight 3.0
+		weight 7.0
 	]
 	edge
 	[
@@ -16018,7 +16018,7 @@ graph
 		source 52
 		target 53
 		label "(Miguel Laranjeiro : Hélder Amaral)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -16034,7 +16034,7 @@ graph
 		source 53
 		target 119
 		label "(Hélder Amaral : Ana Paula Vitorino)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -16042,7 +16042,7 @@ graph
 		source 53
 		target 75
 		label "(Hélder Amaral : Carlos Zorrinho)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -16050,7 +16050,7 @@ graph
 		source 53
 		target 56
 		label "(Hélder Amaral : Sérgio Sousa Pinto)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -16082,7 +16082,7 @@ graph
 		source 53
 		target 84
 		label "(Hélder Amaral : Sónia Fertuzinhos)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -16090,7 +16090,7 @@ graph
 		source 53
 		target 62
 		label "(Hélder Amaral : António Braga)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -16106,7 +16106,7 @@ graph
 		source 53
 		target 74
 		label "(Hélder Amaral : Altino Bessa)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -16122,7 +16122,7 @@ graph
 		source 53
 		target 59
 		label "(Hélder Amaral : Miguel Tiago)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -16130,7 +16130,7 @@ graph
 		source 53
 		target 70
 		label "(Hélder Amaral : Hortense Martins)"
-		weight 9.0
+		weight -7.0
 	]
 	edge
 	[
@@ -16138,7 +16138,7 @@ graph
 		source 53
 		target 127
 		label "(Hélder Amaral : Ana Drago)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -16170,7 +16170,7 @@ graph
 		source 53
 		target 67
 		label "(Hélder Amaral : Agostinho Lopes)"
-		weight 9.0
+		weight -3.0
 	]
 	edge
 	[
@@ -16178,7 +16178,7 @@ graph
 		source 53
 		target 133
 		label "(Hélder Amaral : Vera Rodrigues)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -16210,7 +16210,7 @@ graph
 		source 54
 		target 147
 		label "(Jorge Machado : João Paulo Pedrosa)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -16250,7 +16250,7 @@ graph
 		source 54
 		target 84
 		label "(Jorge Machado : Sónia Fertuzinhos)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -16258,7 +16258,7 @@ graph
 		source 54
 		target 115
 		label "(Jorge Machado : Manuel Pizarro)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -16290,7 +16290,7 @@ graph
 		source 54
 		target 86
 		label "(Jorge Machado : Nuno Reis)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -16298,7 +16298,7 @@ graph
 		source 54
 		target 144
 		label "(Jorge Machado : Paulo Núncio)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -16314,7 +16314,7 @@ graph
 		source 54
 		target 131
 		label "(Jorge Machado : Inês Teotónio Pereira)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -16330,7 +16330,7 @@ graph
 		source 54
 		target 55
 		label "(Jorge Machado : Maria das Mercês Soares)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -16354,7 +16354,7 @@ graph
 		source 54
 		target 93
 		label "(Jorge Machado : Adriano Rafael Moreira)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -16362,7 +16362,7 @@ graph
 		source 54
 		target 130
 		label "(Jorge Machado : Raúl de Almeida)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -16402,7 +16402,7 @@ graph
 		source 55
 		target 208
 		label "(Maria das Mercês Soares : Arménio Santos)"
-		weight 4.0
+		weight 10.0
 	]
 	edge
 	[
@@ -16410,7 +16410,7 @@ graph
 		source 55
 		target 105
 		label "(Maria das Mercês Soares : Pedro Roque)"
-		weight 3.0
+		weight 7.0
 	]
 	edge
 	[
@@ -16450,7 +16450,7 @@ graph
 		source 55
 		target 178
 		label "(Maria das Mercês Soares : João Figueiredo)"
-		weight 3.0
+		weight 7.0
 	]
 	edge
 	[
@@ -16458,7 +16458,7 @@ graph
 		source 56
 		target 71
 		label "(Sérgio Sousa Pinto : Fernando Medina)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -16482,7 +16482,7 @@ graph
 		source 56
 		target 165
 		label "(Sérgio Sousa Pinto : António Serrano)"
-		weight 3.0
+		weight 7.0
 	]
 	edge
 	[
@@ -16490,7 +16490,7 @@ graph
 		source 57
 		target 59
 		label "(Nuno Crato : Miguel Tiago)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -16498,7 +16498,7 @@ graph
 		source 57
 		target 95
 		label "(Nuno Crato : Amadeu Soares Albergaria)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -16506,7 +16506,7 @@ graph
 		source 57
 		target 127
 		label "(Nuno Crato : Ana Drago)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -16514,7 +16514,7 @@ graph
 		source 57
 		target 187
 		label "(Nuno Crato : João oliveira)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -16522,7 +16522,7 @@ graph
 		source 57
 		target 96
 		label "(Nuno Crato : Acácio Pinto)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -16530,7 +16530,7 @@ graph
 		source 57
 		target 85
 		label "(Nuno Crato : Michael Seufert)"
-		weight 10.0
+		weight -8.0
 	]
 	edge
 	[
@@ -16538,7 +16538,7 @@ graph
 		source 57
 		target 140
 		label "(Nuno Crato : Rui Jorge Santos)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -16570,7 +16570,7 @@ graph
 		source 59
 		target 72
 		label "(Miguel Tiago : Paulo Sá)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -16586,7 +16586,7 @@ graph
 		source 59
 		target 144
 		label "(Miguel Tiago : Paulo Núncio)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -16594,7 +16594,7 @@ graph
 		source 59
 		target 131
 		label "(Miguel Tiago : Inês Teotónio Pereira)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -16610,7 +16610,7 @@ graph
 		source 59
 		target 198
 		label "(Miguel Tiago : Ana Sofia Bettencourt)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -16634,7 +16634,7 @@ graph
 		source 59
 		target 93
 		label "(Miguel Tiago : Adriano Rafael Moreira)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -16642,7 +16642,7 @@ graph
 		source 59
 		target 85
 		label "(Miguel Tiago : Michael Seufert)"
-		weight 18.0
+		weight -12.0
 	]
 	edge
 	[
@@ -16658,7 +16658,7 @@ graph
 		source 59
 		target 67
 		label "(Miguel Tiago : Agostinho Lopes)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -16682,7 +16682,7 @@ graph
 		source 59
 		target 202
 		label "(Miguel Tiago : Pedro Saraiva)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -16690,7 +16690,7 @@ graph
 		source 59
 		target 129
 		label "(Miguel Tiago : Maria Conceição Pereira)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -16698,7 +16698,7 @@ graph
 		source 59
 		target 217
 		label "(Miguel Tiago : Rosa Arezes)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -16722,7 +16722,7 @@ graph
 		source 59
 		target 96
 		label "(Miguel Tiago : Acácio Pinto)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -16738,7 +16738,7 @@ graph
 		source 59
 		target 140
 		label "(Miguel Tiago : Rui Jorge Santos)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -16746,7 +16746,7 @@ graph
 		source 59
 		target 222
 		label "(Miguel Tiago : Pedro Pinto)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -16770,7 +16770,7 @@ graph
 		source 59
 		target 74
 		label "(Miguel Tiago : Altino Bessa)"
-		weight 8.0
+		weight -6.0
 	]
 	edge
 	[
@@ -16778,7 +16778,7 @@ graph
 		source 59
 		target 158
 		label "(Miguel Tiago : Inês de Medeiros)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -16786,7 +16786,7 @@ graph
 		source 59
 		target 95
 		label "(Miguel Tiago : Amadeu Soares Albergaria)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -16802,7 +16802,7 @@ graph
 		source 59
 		target 99
 		label "(Miguel Tiago : Paula Santos)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -16818,7 +16818,7 @@ graph
 		source 59
 		target 213
 		label "(Miguel Tiago : Bruno Coimbra)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -16842,7 +16842,7 @@ graph
 		source 59
 		target 189
 		label "(Miguel Tiago : João Filipe Queiró)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -16850,7 +16850,7 @@ graph
 		source 59
 		target 97
 		label "(Miguel Tiago : Margarida Almeida)"
-		weight 4.0
+		weight 2.0
 	]
 	edge
 	[
@@ -16882,7 +16882,7 @@ graph
 		source 60
 		target 91
 		label "(José Manuel Rodrigues : Pedro Nuno Santos)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -16890,7 +16890,7 @@ graph
 		source 60
 		target 114
 		label "(José Manuel Rodrigues : Guilherme Silva)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -16914,7 +16914,7 @@ graph
 		source 62
 		target 75
 		label "(António Braga : Carlos Zorrinho)"
-		weight 4.0
+		weight 2.0
 	]
 	edge
 	[
@@ -16922,7 +16922,7 @@ graph
 		source 62
 		target 150
 		label "(António Braga : Nuno André Figueiredo)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -16962,7 +16962,7 @@ graph
 		source 62
 		target 127
 		label "(António Braga : Ana Drago)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -16978,7 +16978,7 @@ graph
 		source 62
 		target 91
 		label "(António Braga : Pedro Nuno Santos)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -16994,7 +16994,7 @@ graph
 		source 62
 		target 166
 		label "(António Braga : José Junqueiro)"
-		weight 4.0
+		weight 2.0
 	]
 	edge
 	[
@@ -17026,7 +17026,7 @@ graph
 		source 64
 		target 85
 		label "(Renato Sampaio : Michael Seufert)"
-		weight 4.0
+		weight 2.0
 	]
 	edge
 	[
@@ -17074,7 +17074,7 @@ graph
 		source 67
 		target 202
 		label "(Agostinho Lopes : Pedro Saraiva)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -17106,7 +17106,7 @@ graph
 		source 67
 		target 243
 		label "(Agostinho Lopes : Sérgio Monteiro)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -17122,7 +17122,7 @@ graph
 		source 67
 		target 144
 		label "(Agostinho Lopes : Paulo Núncio)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -17138,7 +17138,7 @@ graph
 		source 67
 		target 70
 		label "(Agostinho Lopes : Hortense Martins)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -17146,7 +17146,7 @@ graph
 		source 67
 		target 207
 		label "(Agostinho Lopes : Álvaro Santos Pereira)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -17162,7 +17162,7 @@ graph
 		source 67
 		target 252
 		label "(Agostinho Lopes : Assunção Cristas)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -17170,7 +17170,7 @@ graph
 		source 67
 		target 231
 		label "(Agostinho Lopes : Daniel Campelo)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -17186,7 +17186,7 @@ graph
 		source 67
 		target 69
 		label "(Agostinho Lopes : Paulo Batista Santos)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -17202,7 +17202,7 @@ graph
 		source 67
 		target 87
 		label "(Agostinho Lopes : Nuno Sá)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -17226,7 +17226,7 @@ graph
 		source 68
 		target 69
 		label "(Cristóvão Crespo : Paulo Batista Santos)"
-		weight 8.0
+		weight 6.0
 	]
 	edge
 	[
@@ -17258,7 +17258,7 @@ graph
 		source 69
 		target 84
 		label "(Paulo Batista Santos : Sónia Fertuzinhos)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -17290,7 +17290,7 @@ graph
 		source 69
 		target 86
 		label "(Paulo Batista Santos : Nuno Reis)"
-		weight 4.0
+		weight 10.0
 	]
 	edge
 	[
@@ -17314,7 +17314,7 @@ graph
 		source 69
 		target 91
 		label "(Paulo Batista Santos : Pedro Nuno Santos)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -17322,7 +17322,7 @@ graph
 		source 70
 		target 75
 		label "(Hortense Martins : Carlos Zorrinho)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -17346,7 +17346,7 @@ graph
 		source 70
 		target 267
 		label "(Hortense Martins : Artur Trindade)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -17386,7 +17386,7 @@ graph
 		source 70
 		target 207
 		label "(Hortense Martins : Álvaro Santos Pereira)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -17394,7 +17394,7 @@ graph
 		source 70
 		target 108
 		label "(Hortense Martins : Marcos Perestrello)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -17402,7 +17402,7 @@ graph
 		source 70
 		target 85
 		label "(Hortense Martins : Michael Seufert)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -17410,7 +17410,7 @@ graph
 		source 70
 		target 235
 		label "(Hortense Martins : Cecília Meireles)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -17418,7 +17418,7 @@ graph
 		source 70
 		target 83
 		label "(Hortense Martins : Fernando Virgílio Macedo)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -17426,7 +17426,7 @@ graph
 		source 70
 		target 166
 		label "(Hortense Martins : José Junqueiro)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -17434,7 +17434,7 @@ graph
 		source 71
 		target 91
 		label "(Fernando Medina : Pedro Nuno Santos)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -17442,7 +17442,7 @@ graph
 		source 71
 		target 104
 		label "(Fernando Medina : António José Seguro)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -17450,7 +17450,7 @@ graph
 		source 71
 		target 84
 		label "(Fernando Medina : Sónia Fertuzinhos)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -17466,7 +17466,7 @@ graph
 		source 72
 		target 259
 		label "(Paulo Sá : Pedro Afonso de Paulo)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -17482,7 +17482,7 @@ graph
 		source 72
 		target 7
 		label "(Paulo Sá : Luís Fazenda)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -17506,7 +17506,7 @@ graph
 		source 72
 		target 155
 		label "(Paulo Sá : Cristóvão Norte)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -17514,7 +17514,7 @@ graph
 		source 72
 		target 74
 		label "(Paulo Sá : Altino Bessa)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -17522,7 +17522,7 @@ graph
 		source 72
 		target 110
 		label "(Paulo Sá : Jorge Paulo Oliveira)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -17562,7 +17562,7 @@ graph
 		source 74
 		target 259
 		label "(Altino Bessa : Pedro Afonso de Paulo)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -17586,7 +17586,7 @@ graph
 		source 74
 		target 77
 		label "(Altino Bessa : Jorge Fão)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -17602,7 +17602,7 @@ graph
 		source 74
 		target 167
 		label "(Altino Bessa : Ramos Preto)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -17610,7 +17610,7 @@ graph
 		source 74
 		target 130
 		label "(Altino Bessa : Raúl de Almeida)"
-		weight 7.0
+		weight -1.0
 	]
 	edge
 	[
@@ -17634,7 +17634,7 @@ graph
 		source 74
 		target 224
 		label "(Altino Bessa : Glória Araújo)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -17642,7 +17642,7 @@ graph
 		source 75
 		target 135
 		label "(Carlos Zorrinho : Rui Paulo Figueiredo)"
-		weight 3.0
+		weight 7.0
 	]
 	edge
 	[
@@ -17674,7 +17674,7 @@ graph
 		source 75
 		target 91
 		label "(Carlos Zorrinho : Pedro Nuno Santos)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -17690,7 +17690,7 @@ graph
 		source 75
 		target 85
 		label "(Carlos Zorrinho : Michael Seufert)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -17698,7 +17698,7 @@ graph
 		source 75
 		target 87
 		label "(Carlos Zorrinho : Nuno Sá)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -17730,7 +17730,7 @@ graph
 		source 75
 		target 221
 		label "(Carlos Zorrinho : Vitalino Canas)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -17746,7 +17746,7 @@ graph
 		source 75
 		target 104
 		label "(Carlos Zorrinho : António José Seguro)"
-		weight 15.0
+		weight -9.0
 	]
 	edge
 	[
@@ -17754,7 +17754,7 @@ graph
 		source 75
 		target 170
 		label "(Carlos Zorrinho : Maria Luís Albuquerque)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -17770,7 +17770,7 @@ graph
 		source 75
 		target 127
 		label "(Carlos Zorrinho : Ana Drago)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -17778,7 +17778,7 @@ graph
 		source 75
 		target 165
 		label "(Carlos Zorrinho : António Serrano)"
-		weight 5.0
+		weight 13.0
 	]
 	edge
 	[
@@ -17786,7 +17786,7 @@ graph
 		source 75
 		target 166
 		label "(Carlos Zorrinho : José Junqueiro)"
-		weight 9.0
+		weight 5.0
 	]
 	edge
 	[
@@ -17810,7 +17810,7 @@ graph
 		source 76
 		target 166
 		label "(António Rodrigues : José Junqueiro)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -17834,7 +17834,7 @@ graph
 		source 77
 		target 277
 		label "(Jorge Fão : José Pedro Aguiar Branco)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -17874,7 +17874,7 @@ graph
 		source 78
 		target 113
 		label "(Carina Oliveira : Lídia Bulcão)"
-		weight 3.0
+		weight 7.0
 	]
 	edge
 	[
@@ -17906,7 +17906,7 @@ graph
 		source 79
 		target 115
 		label "(Laura Esperança : Manuel Pizarro)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -17946,7 +17946,7 @@ graph
 		source 82
 		target 252
 		label "(Miguel Freitas : Assunção Cristas)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -17954,7 +17954,7 @@ graph
 		source 82
 		target 166
 		label "(Miguel Freitas : José Junqueiro)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -17986,7 +17986,7 @@ graph
 		source 83
 		target 91
 		label "(Fernando Virgílio Macedo : Pedro Nuno Santos)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -18058,7 +18058,7 @@ graph
 		source 84
 		target 198
 		label "(Sónia Fertuzinhos : Ana Sofia Bettencourt)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -18074,7 +18074,7 @@ graph
 		source 84
 		target 91
 		label "(Sónia Fertuzinhos : Pedro Nuno Santos)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -18082,7 +18082,7 @@ graph
 		source 84
 		target 207
 		label "(Sónia Fertuzinhos : Álvaro Santos Pereira)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -18098,7 +18098,7 @@ graph
 		source 84
 		target 85
 		label "(Sónia Fertuzinhos : Michael Seufert)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -18114,7 +18114,7 @@ graph
 		source 84
 		target 244
 		label "(Sónia Fertuzinhos : Helena André)"
-		weight 6.0
+		weight 16.0
 	]
 	edge
 	[
@@ -18138,7 +18138,7 @@ graph
 		source 85
 		target 205
 		label "(Michael Seufert : Gabriela Canavilhas)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -18146,7 +18146,7 @@ graph
 		source 85
 		target 104
 		label "(Michael Seufert : António José Seguro)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -18170,7 +18170,7 @@ graph
 		source 85
 		target 140
 		label "(Michael Seufert : Rui Jorge Santos)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -18186,7 +18186,7 @@ graph
 		source 85
 		target 131
 		label "(Michael Seufert : Inês Teotónio Pereira)"
-		weight 12.0
+		weight 26.0
 	]
 	edge
 	[
@@ -18202,7 +18202,7 @@ graph
 		source 85
 		target 127
 		label "(Michael Seufert : Ana Drago)"
-		weight 11.0
+		weight -9.0
 	]
 	edge
 	[
@@ -18218,7 +18218,7 @@ graph
 		source 85
 		target 91
 		label "(Michael Seufert : Pedro Nuno Santos)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -18226,7 +18226,7 @@ graph
 		source 85
 		target 160
 		label "(Michael Seufert : Elza Pais)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -18242,7 +18242,7 @@ graph
 		source 85
 		target 133
 		label "(Michael Seufert : Vera Rodrigues)"
-		weight 6.0
+		weight 0.0
 	]
 	edge
 	[
@@ -18258,7 +18258,7 @@ graph
 		source 86
 		target 191
 		label "(Nuno Reis : Carla Rodrigues)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -18282,7 +18282,7 @@ graph
 		source 87
 		target 129
 		label "(Nuno Sá : Maria Conceição Pereira)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -18330,7 +18330,7 @@ graph
 		source 91
 		target 144
 		label "(Pedro Nuno Santos : Paulo Núncio)"
-		weight 7.0
+		weight -5.0
 	]
 	edge
 	[
@@ -18338,7 +18338,7 @@ graph
 		source 91
 		target 181
 		label "(Pedro Nuno Santos : Eduardo Cabrita)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -18346,7 +18346,7 @@ graph
 		source 91
 		target 207
 		label "(Pedro Nuno Santos : Álvaro Santos Pereira)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -18362,7 +18362,7 @@ graph
 		source 91
 		target 202
 		label "(Pedro Nuno Santos : Pedro Saraiva)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -18386,7 +18386,7 @@ graph
 		source 91
 		target 104
 		label "(Pedro Nuno Santos : António José Seguro)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -18418,7 +18418,7 @@ graph
 		source 91
 		target 222
 		label "(Pedro Nuno Santos : Pedro Pinto)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -18426,7 +18426,7 @@ graph
 		source 91
 		target 95
 		label "(Pedro Nuno Santos : Amadeu Soares Albergaria)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -18434,7 +18434,7 @@ graph
 		source 91
 		target 127
 		label "(Pedro Nuno Santos : Ana Drago)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -18442,7 +18442,7 @@ graph
 		source 91
 		target 133
 		label "(Pedro Nuno Santos : Vera Rodrigues)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -18450,7 +18450,7 @@ graph
 		source 91
 		target 195
 		label "(Pedro Nuno Santos : Luís Campos Ferreira)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -18474,7 +18474,7 @@ graph
 		source 93
 		target 202
 		label "(Adriano Rafael Moreira : Pedro Saraiva)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -18482,7 +18482,7 @@ graph
 		source 93
 		target 119
 		label "(Adriano Rafael Moreira : Ana Paula Vitorino)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -18514,7 +18514,7 @@ graph
 		source 94
 		target 184
 		label "(Duarte Cordeiro : Isabel Alves Moreira)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -18530,7 +18530,7 @@ graph
 		source 95
 		target 158
 		label "(Amadeu Soares Albergaria : Inês de Medeiros)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -18538,7 +18538,7 @@ graph
 		source 95
 		target 198
 		label "(Amadeu Soares Albergaria : Ana Sofia Bettencourt)"
-		weight 4.0
+		weight 6.0
 	]
 	edge
 	[
@@ -18546,7 +18546,7 @@ graph
 		source 95
 		target 154
 		label "(Amadeu Soares Albergaria : Pedro Alves)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -18554,7 +18554,7 @@ graph
 		source 95
 		target 127
 		label "(Amadeu Soares Albergaria : Ana Drago)"
-		weight 6.0
+		weight -4.0
 	]
 	edge
 	[
@@ -18562,7 +18562,7 @@ graph
 		source 95
 		target 138
 		label "(Amadeu Soares Albergaria : Paulo Cavaleiro)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -18618,7 +18618,7 @@ graph
 		source 97
 		target 206
 		label "(Margarida Almeida : Maria José Castelo Branco)"
-		weight 4.0
+		weight 10.0
 	]
 	edge
 	[
@@ -18626,7 +18626,7 @@ graph
 		source 98
 		target 115
 		label "(Luísa Salgueiro : Manuel Pizarro)"
-		weight 6.0
+		weight 0.0
 	]
 	edge
 	[
@@ -18674,7 +18674,7 @@ graph
 		source 99
 		target 161
 		label "(Paula Santos : Miguel Santos)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -18682,7 +18682,7 @@ graph
 		source 99
 		target 215
 		label "(Paula Santos : Pedro Pimpão)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -18690,7 +18690,7 @@ graph
 		source 99
 		target 107
 		label "(Paula Santos : António Leitão Amaro)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -18706,7 +18706,7 @@ graph
 		source 99
 		target 142
 		label "(Paula Santos : Paulo Simões Júlio)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -18714,7 +18714,7 @@ graph
 		source 99
 		target 8
 		label "(Paula Santos : Heloísa Apolónia)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -18786,7 +18786,7 @@ graph
 		source 104
 		target 166
 		label "(António José Seguro : José Junqueiro)"
-		weight 14.0
+		weight -12.0
 	]
 	edge
 	[
@@ -18818,7 +18818,7 @@ graph
 		source 107
 		target 167
 		label "(António Leitão Amaro : Ramos Preto)"
-		weight 5.0
+		weight -3.0
 	]
 	edge
 	[
@@ -18890,7 +18890,7 @@ graph
 		source 115
 		target 161
 		label "(Manuel Pizarro : Miguel Santos)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -18898,7 +18898,7 @@ graph
 		source 115
 		target 166
 		label "(Manuel Pizarro : José Junqueiro)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -18906,7 +18906,7 @@ graph
 		source 115
 		target 183
 		label "(Manuel Pizarro : Maria Antónia Almeida Santos)"
-		weight 10.0
+		weight 4.0
 	]
 	edge
 	[
@@ -18914,7 +18914,7 @@ graph
 		source 115
 		target 212
 		label "(Manuel Pizarro : Fernando Leal da Costa)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -18922,7 +18922,7 @@ graph
 		source 115
 		target 162
 		label "(Manuel Pizarro : Paulo Macedo)"
-		weight 9.0
+		weight -7.0
 	]
 	edge
 	[
@@ -18978,7 +18978,7 @@ graph
 		source 118
 		target 131
 		label "(João Gonçalves Pereira : Inês Teotónio Pereira)"
-		weight 3.0
+		weight 7.0
 	]
 	edge
 	[
@@ -19034,7 +19034,7 @@ graph
 		source 121
 		target 191
 		label "(Francisca Almeida : Carla Rodrigues)"
-		weight 3.0
+		weight 7.0
 	]
 	edge
 	[
@@ -19042,7 +19042,7 @@ graph
 		source 121
 		target 246
 		label "(Francisca Almeida : Odete Silva)"
-		weight 3.0
+		weight 7.0
 	]
 	edge
 	[
@@ -19050,7 +19050,7 @@ graph
 		source 121
 		target 158
 		label "(Francisca Almeida : Inês de Medeiros)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -19090,7 +19090,7 @@ graph
 		source 124
 		target 205
 		label "(Teresa Anjinho : Gabriela Canavilhas)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -19114,7 +19114,7 @@ graph
 		source 127
 		target 215
 		label "(Ana Drago : Pedro Pimpão)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -19130,7 +19130,7 @@ graph
 		source 127
 		target 140
 		label "(Ana Drago : Rui Jorge Santos)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -19194,7 +19194,7 @@ graph
 		source 129
 		target 205
 		label "(Maria Conceição Pereira : Gabriela Canavilhas)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -19210,7 +19210,7 @@ graph
 		source 129
 		target 140
 		label "(Maria Conceição Pereira : Rui Jorge Santos)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -19274,7 +19274,7 @@ graph
 		source 135
 		target 166
 		label "(Rui Paulo Figueiredo : José Junqueiro)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -19354,7 +19354,7 @@ graph
 		source 145
 		target 14
 		label "(Nuno Filipe Matias : João Oliveira)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -19394,7 +19394,7 @@ graph
 		source 151
 		target 194
 		label "(Paulo Campos : Isabel Sena Lino)"
-		weight 2.0
+		weight 4.0
 	]
 	edge
 	[
@@ -19418,7 +19418,7 @@ graph
 		source 158
 		target 191
 		label "(Inês de Medeiros : Carla Rodrigues)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -19474,7 +19474,7 @@ graph
 		source 160
 		target 244
 		label "(Elza Pais : Helena André)"
-		weight 3.0
+		weight 7.0
 	]
 	edge
 	[
@@ -19490,7 +19490,7 @@ graph
 		source 161
 		target 183
 		label "(Miguel Santos : Maria Antónia Almeida Santos)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -19522,7 +19522,7 @@ graph
 		source 162
 		target 163
 		label "(Paulo Macedo : Conceição Bessa Ruão)"
-		weight 4.0
+		weight -2.0
 	]
 	edge
 	[
@@ -19578,7 +19578,7 @@ graph
 		source 165
 		target 166
 		label "(António Serrano : José Junqueiro)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -19602,7 +19602,7 @@ graph
 		source 165
 		target 183
 		label "(António Serrano : Maria Antónia Almeida Santos)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -19642,7 +19642,7 @@ graph
 		source 166
 		target 221
 		label "(José Junqueiro : Vitalino Canas)"
-		weight 3.0
+		weight 7.0
 	]
 	edge
 	[
@@ -19650,7 +19650,7 @@ graph
 		source 166
 		target 230
 		label "(José Junqueiro : Nuno Encarnação)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -19666,7 +19666,7 @@ graph
 		source 166
 		target 222
 		label "(José Junqueiro : Pedro Pinto)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -19674,7 +19674,7 @@ graph
 		source 166
 		target 179
 		label "(José Junqueiro : Paulo Mota Pinto)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -19818,7 +19818,7 @@ graph
 		source 189
 		target 127
 		label "(João Filipe Queiró : Ana Drago)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -19842,7 +19842,7 @@ graph
 		source 197
 		target 265
 		label "(Laurentino Dias : Alexandre Mestre)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[
@@ -19866,7 +19866,7 @@ graph
 		source 202
 		target 119
 		label "(Pedro Saraiva : Ana Paula Vitorino)"
-		weight 2.0
+		weight 0.0
 	]
 	edge
 	[
@@ -19906,7 +19906,7 @@ graph
 		source 209
 		target 229
 		label "(Luís Morais Sarmento : Jacinto Serrão)"
-		weight 3.0
+		weight -1.0
 	]
 	edge
 	[

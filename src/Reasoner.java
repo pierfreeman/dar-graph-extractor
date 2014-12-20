@@ -21,6 +21,7 @@ public class Reasoner {
                     && !type.equals("presidente") && !type.equals("presidente_continuacao")
                     && !type.equals("presidente_aparte") && !type.equals("presidente_encerrada")
                     && !type.equals("presidente_aberta") && !type.equals("presidente_temapalavra")) {
+                    found = false;
                     for (Person per: persons) {
                         if (per.name.equals(speaker)) {
                             p = per;
@@ -44,8 +45,10 @@ public class Reasoner {
                         && !type.equals("presidente_aparte") && !type.equals("presidente_encerrada")
                         && !type.equals("presidente_aberta") && !type.equals("presidente_temapalavra")) {
 
-                        p.setConnection(speaker); //sets interruption connection
-                        //System.out.println (text);
+                        //sets interruption connection with its positive or negative weight
+                        p.setConnection(speaker, evaluateConnection(text));
+
+                        found = false;
                         for (Person per: persons) {
                             if (per.name.equals(speaker)) {
                                 p = per;
@@ -87,5 +90,42 @@ public class Reasoner {
             currentSpeaker = speaker;
             //System.out.println("Speaker: " + speaker);
         }
+    }
+
+    private static int evaluateConnection(String text) {
+        //Default weight assumes negative interaction
+        int weight = -1;
+        // Positive and supportive remarks
+        if (text.equals("Muito bem!")
+            || text.equals("Exactamente!")
+            || text.equals("É verdade!")
+            || text.equals("Exato!")
+            || text.equals("Claro!")
+            || text.equals("Isso é verdade!")
+            || text.equals("Exacto, exacto!")
+            || text.equals("É verdade! É verdade!")
+
+            // Can possibly be considered Neutral or Good/Bad, needs analysis
+            || text.equals("Boa pergunta!")
+            || text.equals("Bem recordado!")
+            || text.equals("Bem lembrado!")
+            || text.equals("Bem recordado!")
+            || text.equals("Ora bem!")
+            || text.equals("Bem observado!")
+            || text.equals("Muito bem lembrado!")
+            || text.equals("É, é!")
+            || text.equals("E é!")
+            || text.equals("Pois é!")
+            || text.equals("Essa é que é a verdade!")
+            || text.equals("Ah, pois é!")
+            || text.equals("Ora aí está!")
+            || text.equals("Ainda bem!")
+            || text.equals("Sim!")
+            || text.equals("Pois claro!")) {
+            weight = 3;
+        } else if (text.equals("Sim!")) { // Neutral remarks
+            weight = 0;
+        }
+        return weight;
     }
 }
