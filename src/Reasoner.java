@@ -14,6 +14,7 @@ public class Reasoner {
         if (speaker != null && !type.equals("documento") && !type.equals("inicio_documento")
             && !speaker.contains("Vozes") && !type.equals("vozes_aparte")){
 
+            speaker = speaker.toLowerCase();
             boolean found = false;
             if (currentSpeaker == null) {
                 // Checks if it is a revelant speaker and adds to persons
@@ -104,23 +105,16 @@ public class Reasoner {
             || text.equals("Isso é verdade!")
             || text.equals("Exacto, exacto!")
             || text.equals("É verdade! É verdade!")
-
-            // Can possibly be considered Neutral or Good/Bad, needs analysis
             || text.equals("Boa pergunta!")
             || text.equals("Bem recordado!")
             || text.equals("Bem lembrado!")
-            || text.equals("Bem recordado!")
             || text.equals("Ora bem!")
             || text.equals("Bem observado!")
             || text.equals("Muito bem lembrado!")
-            || text.equals("É, é!")
-            || text.equals("E é!")
             || text.equals("Pois é!")
             || text.equals("Essa é que é a verdade!")
             || text.equals("Ah, pois é!")
             || text.equals("Ora aí está!")
-            || text.equals("Ainda bem!")
-            || text.equals("Sim!")
             || text.equals("Pois claro!")) {
             weight = 3;
         } else if (text.equals("Sim!")) { // Neutral remarks

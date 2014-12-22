@@ -58,7 +58,7 @@ public class Main {
             for (String con : per.getConnections()){
                 sg.addEdge(per.name, con);
                 sg.setWeight(per.name, con, per.getNumberConnection(con));
-                System.out.println(per.name + " " + con + " " + sg.getWeight(per.name, con) + "\n");
+                //System.out.println(per.name + " " + con + " " + sg.getWeight(per.name, con) + "\n");
             }
 
 
